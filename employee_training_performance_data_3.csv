@@ -1,0 +1,1201 @@
+Employee_ID,Name,Age,Gender,Department,Education_Level,Join_Date,Training_Program,Training_Date,Training_Attended,Pre_Training_Score,Post_Training_Score,Manager_Feedback_Score,Peer_Feedback_Score
+a46ee99e-ae4e-489f-9659-d69f4ecad266,Sharon Burgess,37.0,M,HR,None,2022-05-13,Communication,12/11/2024,A,0.0,,4.0,4.0
+b4b6c702-611a-4d79-8da7-61fd4f7c1491,Douglas Cunningham,,F,HR,Bachelors,2021-05-24,Python,15/05/2023,A,,,4.0,4.0
+45d62ecd-3030-47f4-95d4-999b39d88a14,Cassandra Phillips,32.0,MALE,Engineering,None,2023-10-15,Cloud Computing,14/02/2025,P,0.0,89.0,5.0,5.0
+5aeb5055-7d69-4580-97a8-510843b93b02,Hannah May,,M,Sales,Bachelors,2024-01-02,Project Management,09/02/2026,Present,86.0,0.0,4.0,4.0
+d4ec494f-afe1-4845-a18a-f249d45a1de3,Travis Richards,,MALE,Marketing,PhD,2024-02-03,Communication,2024-09-23,P,,0.0,0.0,0.0
+fe66c4fa-35ed-4f38-9197-107c89b702ed,Hannah Cochran,24.0,FEMALE,Engineering,None,2021-08-03,Excel,22/09/2023,A,25.0,,1.0,1.0
+f7eefd84-b31c-4349-9799-2f42351b3e63,Sandra Bauer,37.0,M,Support,Bachelors,2022-09-20,Excel,13/11/2022,No,71.0,54.0,0.0,0.0
+421a4d96-35f1-404b-85fe-21d68365d2cf,Dean Weeks,48.0,Male,Support,None,2021-01-13,Cloud Computing,01/05/2021,Absent,0.0,,,
+79a759de-2fb9-450b-a190-aa44a8887521,Kevin Watson,,F,Sales,Bachelors,2024-08-30,Python,2025-04-15,P,78.0,,0.0,0.0
+08aa6127-e6b9-43a3-96a0-c726a886a9fc,Brian Howard,,Male,Marketing,Diploma,2023-06-25,Cloud Computing,2025-05-26,P,,0.0,4.0,4.0
+55afb783-79ba-49db-abe1-610b28a3df6e,Steven Lopez,,FEMALE,Support,Bachelors,2020-05-01,Excel,05/02/2021,Absent,93.0,70.0,4.0,4.0
+8bf9a66d-7782-483f-a9a9-b2d74e681465,Alex Lamb,,M,Marketing,Bachelors,2023-04-24,Leadership,23/08/2024,Yes,41.0,0.0,5.0,5.0
+6f5a181a-b1ca-464c-9372-748497f483d6,Kara Sanchez,52.0,Male,Finance,PhD,2024-02-24,Excel,05/12/2024,P,63.0,,4.0,4.0
+adb5d5e6-7b88-44ef-967f-309699d75477,Andrew Hickman,,MALE,Marketing,None,2023-06-10,Excel,2025-06-14,Yes,,,4.0,4.0
+ed486d9a-e69f-4f78-af4c-113dc35f4e12,Jennifer Schroeder,57.0,Male,Finance,Bachelors,2022-04-04,Excel,2023-08-19,Absent,21.0,0.0,5.0,5.0
+29fd9b08-074f-4459-97d3-d50e66978f77,Tammy Tanner,29.0,F,Finance,Masters,2025-03-06,Project Management,07/08/2025,Yes,82.0,,4.0,4.0
+9167adea-f8f1-466b-b395-1a4532ce6a3d,Beverly Cook,,MALE,Support,PhD,2024-09-21,Cloud Computing,03/12/2025,P,,0.0,1.0,1.0
+caf91924-4f2c-4cfd-9724-5dacf8673a5b,Rebecca Ellis,,FEMALE,Sales,PhD,2020-09-21,Excel,08/04/2021,A,,37.0,5.0,5.0
+25c1f899-a89a-42c5-8037-42ae75e913d8,Christopher Parker,,F,Marketing,Masters,2021-09-02,Excel,2023-03-22,Present,,44.0,4.0,4.0
+6fc1aaeb-340c-48c9-9b96-4db13c7686e5,David Cohen,43.0,Male,Sales,Diploma,2021-11-01,Cloud Computing,11/11/2023,Absent,,91.0,4.0,4.0
+583f097d-28c9-468c-ba33-38e001440fa3,Joshua Long,,F,Sales,PhD,2023-06-13,Python,2024-06-30,Yes,,0.0,2.0,2.0
+6054a51c-ab1e-4d74-b8e9-0ae9e9af6d28,Michelle Hines,59.0,Male,Support,Masters,2022-01-27,Python,2023-12-14,Absent,0.0,33.0,1.0,1.0
+c356dee2-517f-4316-a0e5-886663380b42,Jennifer Murphy,,FEMALE,Sales,None,2021-01-29,Python,2023-05-25,No,0.0,80.0,,
+df683491-baf9-4a9d-acbc-63edd1ddd3e6,James Jones,35.0,FEMALE,Marketing,Masters,2022-09-03,Communication,24/03/2023,A,,29.0,2.0,2.0
+96203553-f860-458f-bd8c-c32eab7d09b2,Stephen Thompson,,M,HR,None,2024-06-02,Leadership,2024-11-19,Absent,,,4.0,4.0
+805f6a69-5700-48c1-9cbe-693e5e7f78d9,Lisa Walton,,FEMALE,Engineering,None,2022-04-07,Communication,29/04/2024,Absent,0.0,,3.0,3.0
+7ffcb3fe-2359-4443-bae6-1863a5448d55,Daniel Graham,38.0,FEMALE,Finance,PhD,2020-12-03,Communication,29/07/2022,Present,,0.0,,
+6cfb6acc-2e0c-4488-a76f-7d3c62522f26,Eric Leonard,,M,Marketing,Bachelors,2023-02-26,Communication,04/06/2024,A,0.0,44.0,5.0,5.0
+f47bffba-f561-4747-82d2-2c7408ea6671,Christopher Fleming,,FEMALE,Engineering,None,2024-05-09,Python,29/01/2026,Present,0.0,,1.0,1.0
+58a64190-1527-4d08-8e65-050b77052c84,Ashley Huffman,,MALE,Engineering,None,2021-03-03,Leadership,2021-05-16,No,0.0,,,
+931e5f89-20f5-428d-91ab-ac77292fadf7,Melissa Smith,56.0,Male,HR,Bachelors,2020-05-14,Cloud Computing,28/10/2021,No,0.0,42.0,,
+4d8e6d5e-0df4-43bb-8577-d3a56c262577,Patrick Wilson,29.0,F,Support,Bachelors,2023-09-07,Python,30/12/2023,Present,,0.0,0.0,0.0
+793a650c-c7ef-48e2-9f71-7ac680871ba9,Sarah Bonilla,42.0,FEMALE,Support,PhD,2024-02-04,Cloud Computing,2025-11-23,Present,,27.0,3.0,3.0
+6c8f8833-fb11-4ab6-adc8-6df8c9162eb7,Janet Leonard,,Male,Marketing,Diploma,2021-03-19,Leadership,2021-11-01,P,97.0,,5.0,5.0
+ef263a84-f2bd-409b-964d-36b601c7ea8b,Deanna Robertson,,M,Sales,PhD,2021-07-18,Leadership,2022-02-10,P,0.0,0.0,0.0,0.0
+481e67f3-76fa-4828-8c6d-5a716f54d2b9,Sean Stevens,27.0,MALE,Engineering,Masters,2024-02-19,Python,28/10/2026,Yes,100.0,41.0,1.0,1.0
+5e8a35cb-afb7-49ba-996d-9303e3a060f1,George Phillips,27.0,M,Support,Masters,2020-09-09,Project Management,2021-05-19,No,,,4.0,4.0
+4b11c181-2dc1-4143-8469-8c048af190cb,Alan Nguyen,,F,Marketing,Masters,2020-06-19,Python,11/07/2022,Absent,,0.0,3.0,3.0
+bb5e14d6-5b74-4fdd-9c97-46949884f76d,Parker Wright,,M,Support,None,2020-07-26,Excel,18/11/2021,No,41.0,,4.0,4.0
+ba0ebd56-2045-4dbd-9835-e89b88f4ca54,Johnny Orozco,,MALE,Support,PhD,2020-12-24,Communication,2021-07-01,P,0.0,54.0,2.0,2.0
+9e0383d4-b061-46ff-b541-82e8f8cb57ff,Roger Conley,,M,Engineering,Bachelors,2023-03-16,Cloud Computing,2024-09-21,No,100.0,80.0,3.0,3.0
+1397df7e-0a67-4292-b55a-fc3d91ae757c,Andrew Lynch,,MALE,Sales,Bachelors,2024-09-19,Python,2026-02-09,No,0.0,65.0,3.0,3.0
+b9b3c0ee-faf2-4e80-833b-de7861c50cc8,Timothy Curry,43.0,Female,HR,PhD,2021-02-15,Communication,26/08/2021,A,89.0,,3.0,3.0
+f34ab83d-2f16-4f3d-85ba-ec786696dea0,Mikayla Newton,,MALE,Finance,Diploma,2023-11-10,Communication,2026-03-17,P,0.0,,5.0,5.0
+f714bab7-6ef5-4d48-a98f-8c8ad63c04c0,Corey Green,36.0,F,Finance,PhD,2020-12-09,Cloud Computing,03/12/2022,A,95.0,0.0,1.0,1.0
+daafb63a-8a06-4bf5-8398-18fc9d96bf5e,Melissa Williams,55.0,FEMALE,Marketing,Masters,2022-11-05,Project Management,2023-05-24,P,26.0,59.0,5.0,5.0
+ef7b80f1-c2be-4bac-b717-f44b79112e22,Paul Osborne,,Male,Support,Masters,2025-02-21,Communication,21/06/2027,Absent,,30.0,4.0,4.0
+9ac88b74-0bb5-4276-abe3-77f380667038,Christopher Mitchell,27.0,Female,Support,None,2022-08-15,Python,2023-05-13,Present,81.0,64.0,4.0,4.0
+c8347776-04ca-43d1-b506-e337683d21a9,Carlos Adams,,MALE,Finance,Diploma,2020-04-22,Project Management,2021-09-16,Absent,,,4.0,4.0
+04a06d55-398e-4dc0-b8a8-ab5518deabfe,Connie Carr,,MALE,Support,Diploma,2022-12-21,Cloud Computing,2025-03-11,A,88.0,,4.0,4.0
+98610b0b-a280-460f-abb7-3dac96818aed,James Spears,23.0,FEMALE,Marketing,Masters,2024-03-08,Python,2026-02-21,P,0.0,0.0,5.0,5.0
+58ab766f-51d4-4c6a-9731-4c4657cb9e5b,Brittany Dickerson,36.0,F,Marketing,Bachelors,2020-05-16,Communication,2022-02-18,P,75.0,,1.0,1.0
+2b85ffb7-b29e-4126-8840-e78a35ec5514,Dawn Johnson,,F,Support,Diploma,2024-07-05,Leadership,04/06/2026,P,73.0,,2.0,2.0
+7c8dc9d0-a1a2-42d0-941f-b001f7bcbc14,Haley Clark,51.0,M,Support,Bachelors,2025-02-15,Project Management,2027-02-13,A,21.0,60.0,1.0,1.0
+c03832d0-4ab4-4a29-8dd5-16c85e8354da,Michael Johnson,51.0,F,Support,Diploma,2024-10-08,Excel,2026-06-18,Present,,0.0,,
+909cca67-5a04-4fb0-9fcf-d7112aaf1966,Zachary Johnson,,F,Support,PhD,2025-03-29,Cloud Computing,06/02/2027,P,34.0,0.0,0.0,0.0
+fd5baf20-7da2-4e1b-be7a-31688e72d17c,Thomas Anderson,27.0,Male,HR,None,2022-09-06,Python,21/11/2024,Absent,0.0,,,
+3618187c-37e2-4c86-a54f-da3118d3ab67,Laura White MD,,F,HR,Bachelors,2021-04-25,Cloud Computing,13/07/2021,No,,,1.0,1.0
+c053f253-5a1e-490d-a894-844f8cd1692d,Steven Ramirez,,Female,HR,PhD,2023-09-05,Excel,26/08/2025,Present,,0.0,0.0,0.0
+e27f7dc7-aa0b-46ea-9b0b-249da159bef3,Madeline Fields,,Female,Marketing,Bachelors,2023-05-10,Cloud Computing,2023-07-15,Present,0.0,0.0,3.0,3.0
+39a01a0b-6465-4945-8852-787c891edaa2,Kathleen Marshall,,MALE,Sales,Masters,2024-07-15,Project Management,01/01/2026,Yes,,25.0,3.0,3.0
+2d78f04b-df93-45ac-ac85-66f0282f0aa6,Aaron Gallegos,60.0,F,Sales,Bachelors,2024-02-02,Python,31/01/2025,No,,71.0,2.0,2.0
+e8438f65-aef0-444b-ac19-ee3da7fc1bad,Kevin Barnes,,Male,Marketing,None,2024-03-18,Python,2024-10-22,P,0.0,89.0,3.0,3.0
+076f3b07-a2ec-477a-b05a-1bef690903c4,Brenda Harvey,,Female,Finance,PhD,2023-10-28,Project Management,2025-11-06,No,,0.0,3.0,3.0
+68a57ee7-bb6e-4d06-9211-d6cc997d4ca9,Erika Wright,,Male,Finance,Masters,2020-12-13,Leadership,2021-02-27,A,,,2.0,2.0
+1749939d-af32-4af5-b8cf-536aa02072d9,Alison Guzman,42.0,Female,Marketing,Bachelors,2025-02-08,Project Management,2026-11-13,P,48.0,,,
+316a8466-dd0a-4a6e-82e6-e14d8d53a190,Candice Wood,,MALE,Sales,PhD,2023-07-30,Cloud Computing,2025-09-12,A,0.0,,0.0,0.0
+b6799210-efe8-4716-b8e0-0f782cdaa0b2,Erica Carter,50.0,F,Support,Diploma,2022-04-20,Communication,03/05/2023,Yes,0.0,,0.0,0.0
+758daaee-760f-4d95-93dd-bda134fe6da8,Larry Fritz,58.0,MALE,Finance,None,2020-07-11,Python,26/09/2021,Present,0.0,,0.0,0.0
+a4316e6c-800e-4610-b61e-b7e3f909c46c,Larry Rivera,,Male,Marketing,None,2021-10-08,Cloud Computing,14/09/2022,Absent,,,3.0,3.0
+f664b2b9-b8d8-4619-b653-8a693eaf5f08,Paul Fleming,,Female,Finance,None,2021-08-14,Communication,2022-11-12,A,97.0,,1.0,1.0
+785fa1ad-fedb-4a32-850f-7bdcddf7d263,Andrea Butler,,Female,Marketing,Diploma,2023-09-21,Cloud Computing,31/05/2024,A,65.0,0.0,1.0,1.0
+1ef8aca7-898f-4586-b74a-3db6e223afc0,Lisa Hays,,FEMALE,Sales,None,2022-06-23,Excel,04/05/2023,Absent,,,3.0,3.0
+b9dd378e-d3e7-4cd9-bb16-34537042eb9e,Robert Clayton,,M,Engineering,None,2020-06-19,Python,2022-11-11,A,0.0,,2.0,2.0
+ed696cb3-b774-461d-a641-01fa5d0607cc,Marie Patterson,48.0,MALE,Engineering,None,2020-08-08,Communication,2022-04-24,Absent,0.0,84.0,4.0,4.0
+4333240a-d8d9-4ad8-a55f-30b91a8709bd,Lauren Moody,,FEMALE,Marketing,Masters,2021-04-27,Cloud Computing,2023-01-30,No,0.0,,4.0,4.0
+56ff66fd-a812-4f1b-a9b3-5bf25dd09e34,David Olson,46.0,Female,Finance,PhD,2021-09-13,Project Management,2021-11-05,Absent,,,0.0,0.0
+b197603c-a45c-4178-947c-903018dd3aea,Steven Vasquez,,F,Marketing,None,2022-07-07,Excel,19/12/2022,Absent,,0.0,1.0,1.0
+4b9842c5-57aa-4681-828f-54aac1c97ab6,Erin Cole,43.0,Female,Finance,Bachelors,2022-05-07,Leadership,2022-09-27,No,0.0,0.0,0.0,0.0
+09268f85-982c-4129-8679-fe6e91779972,Brittany Roberts,,MALE,Sales,Bachelors,2022-06-17,Project Management,2023-11-10,Yes,0.0,,1.0,1.0
+5cdb7eda-9044-4ec6-9ef0-195ee152dc3a,Elizabeth Baldwin,,MALE,Engineering,PhD,2022-02-22,Excel,2023-07-29,No,0.0,,1.0,1.0
+b68c55b2-79ac-446d-8e03-87ada246ea52,Edward Manning,38.0,MALE,Marketing,PhD,2025-02-03,Excel,20/05/2027,No,63.0,,2.0,2.0
+dbf11941-4ad6-43d0-9b81-ce242582bca6,Mark Johnson,,MALE,Finance,Masters,2021-05-11,Python,11/01/2022,P,0.0,,3.0,3.0
+95906901-25fb-4421-8d8e-8fdb954e95fb,Jackson Romero,,FEMALE,Engineering,Masters,2022-01-24,Communication,09/05/2024,Yes,56.0,,3.0,3.0
+e666a9b4-9e53-44dc-ba1a-fd6767e56f19,Gregory Moore,41.0,FEMALE,Support,PhD,2024-08-29,Excel,28/04/2026,No,0.0,57.0,3.0,3.0
+60c336eb-5fd6-49e6-85f9-70f75075b7d1,Karina Jackson,,F,HR,Masters,2024-07-11,Leadership,2026-09-10,Absent,,0.0,2.0,2.0
+e5aa8c5a-7be7-4206-ace6-2f9f7b67caba,Michael Brown,,F,Sales,Masters,2024-09-24,Python,05/11/2024,No,0.0,,,
+266c3392-396c-4135-b4d8-8c514f2ed3eb,Richard Mccormick,53.0,FEMALE,Finance,Masters,2022-03-06,Excel,22/09/2023,A,0.0,,0.0,0.0
+91c4b8c6-7596-4b93-bfb0-b7b65b43ae1a,Susan Larsen,,FEMALE,Support,Bachelors,2021-12-09,Project Management,26/08/2022,Absent,,0.0,2.0,2.0
+33d9014f-bdca-4089-ba76-8ae2e5ec276c,Andrew Sims,55.0,MALE,Marketing,PhD,2024-09-21,Project Management,2027-05-13,Present,0.0,,1.0,1.0
+8da40d27-457f-4a84-9133-ded481e60c4c,Sarah Medina,56.0,Male,Finance,None,2023-01-25,Cloud Computing,27/07/2024,Absent,,0.0,5.0,5.0
+725687c2-0e54-4d51-8c44-5778f86e92d6,Danielle Scott,,Female,Engineering,None,2020-12-09,Python,2023-08-24,Yes,55.0,0.0,2.0,2.0
+db869a02-a69b-4d21-afb3-8c42b0901da2,Michael Bryant,,Male,Marketing,Masters,2021-10-26,Communication,2024-03-24,Yes,,79.0,2.0,2.0
+8d4e46c5-4409-40e2-9bf0-72e7fab87bb6,Patrick Quinn,42.0,Female,Finance,Bachelors,2020-08-09,Excel,2022-03-11,Present,80.0,0.0,1.0,1.0
+85c65764-21ee-4a3d-a733-c344e7f8daa8,Daniel Sanchez,41.0,FEMALE,Finance,Bachelors,2020-10-21,Project Management,16/07/2022,A,0.0,,4.0,4.0
+89747baf-1928-4cfc-b6da-7bc37a2f2c57,Amber Tyler,,F,Support,Masters,2025-03-17,Python,16/04/2025,Yes,0.0,0.0,4.0,4.0
+71203b7a-1dcc-4f24-ba71-ce7b3248f699,Craig Daniels,,M,Support,None,2020-11-19,Cloud Computing,21/10/2021,P,,34.0,5.0,5.0
+91bf903d-4cca-4dda-bcbb-26279929c7c7,Jeffrey Stein,,Female,Marketing,Bachelors,2022-02-03,Excel,17/07/2023,No,58.0,,5.0,5.0
+96c49c44-31de-44f6-a483-39f7c7036a4c,Lisa Bryant,33.0,Male,Marketing,Masters,2024-01-12,Python,2025-11-25,Yes,,,0.0,0.0
+99f2587c-683c-4806-812a-dc5540728ad4,Mark Murphy,35.0,M,Marketing,Masters,2020-04-08,Excel,2020-08-21,Absent,0.0,,5.0,5.0
+a5310be0-f391-4a36-88a4-36ae83a2a06f,Sean Wright,,MALE,HR,Masters,2024-05-17,Python,2025-11-26,A,,,,
+4f0dc7bc-80c8-4083-8faf-04baad8716e1,Ashley Sherman,,M,Finance,None,2022-08-10,Excel,2023-08-16,A,,,0.0,0.0
+e4b3b66b-51b7-45ed-81ab-1df17cd21263,Julie Martin,,Male,Support,Masters,2021-10-25,Communication,2022-11-21,No,,67.0,2.0,2.0
+4dfcf384-ac48-4af2-ae98-8798c2ac0d6d,Scott Peterson,42.0,Female,Sales,None,2020-10-27,Excel,21/10/2021,P,33.0,51.0,4.0,4.0
+c75ee63d-318f-4980-aec2-85a6d29323e2,David Parker,,Male,Support,Diploma,2024-11-05,Project Management,2025-11-03,No,82.0,0.0,,
+78ccd788-87c8-4346-8434-228151ec8f30,Eric Lynch,,M,Sales,PhD,2022-11-11,Excel,02/08/2024,P,,0.0,1.0,1.0
+280906a9-52e2-4a8e-a793-b627ac00cd5e,James Jackson,48.0,Female,Sales,PhD,2025-02-14,Cloud Computing,30/05/2025,Absent,91.0,76.0,0.0,0.0
+535fd8d2-2839-4888-a99f-8c039c310930,Veronica Valdez,,MALE,Engineering,Masters,2021-08-10,Leadership,2022-08-10,No,,0.0,0.0,0.0
+3a8da127-44f6-4bef-b9f9-d376c79e049b,Kaitlyn Chase,51.0,F,HR,PhD,2023-10-24,Communication,16/05/2026,No,,0.0,3.0,3.0
+556ed0d1-4e65-4eee-a51d-d64e5eec2af4,Sandra Stewart,,F,Finance,Bachelors,2022-11-06,Cloud Computing,18/07/2025,Present,,0.0,1.0,1.0
+c33ffef7-64bf-4e8c-9033-89b46ce052ef,Philip Powell,,M,Sales,PhD,2022-11-19,Project Management,2024-03-10,Present,0.0,0.0,5.0,5.0
+23d2789d-ce2c-4739-a552-abc65a86503a,Pamela Smith,54.0,FEMALE,Finance,None,2023-09-29,Project Management,05/01/2026,Absent,0.0,,2.0,2.0
+418495a4-b777-4cb9-a97c-696b356766ec,James Morris,,Male,Marketing,None,2021-12-26,Python,16/05/2023,A,0.0,75.0,,
+bd303739-8f5a-4787-8edd-8e22536019db,Daniel Shaw,46.0,Male,Marketing,PhD,2023-07-09,Excel,2024-09-22,Absent,53.0,0.0,1.0,1.0
+2911268f-3e3e-47b3-930d-a4761b5982d2,John Griffith,,MALE,Sales,Masters,2022-08-06,Communication,30/10/2024,Absent,,43.0,4.0,4.0
+0bc6a71b-f25b-46a6-b89c-2ef6f3b93ebe,Jeanette Moyer,24.0,FEMALE,HR,Bachelors,2024-04-05,Python,2024-05-31,P,0.0,46.0,0.0,0.0
+9b510232-fca7-444d-87b7-6d173ff5ea79,Amy Brown,36.0,M,Engineering,Masters,2024-05-29,Excel,04/05/2025,Present,68.0,0.0,3.0,3.0
+7028eb2d-5e94-42d6-89b3-889d46aaf714,Ashley Taylor,,F,Finance,Masters,2023-03-07,Communication,2025-08-27,A,95.0,31.0,4.0,4.0
+bb81c774-c676-41b3-ba28-631653156a23,Christian Hernandez,55.0,Female,Marketing,Bachelors,2020-11-22,Excel,2022-05-24,No,,,,
+1687819b-8fd4-4278-b332-d3ab92f77072,Garrett Payne,,F,HR,None,2022-10-22,Leadership,04/06/2023,A,22.0,,1.0,1.0
+4a9a75f0-d13b-4a4d-87f1-6ab58e82373e,Brenda Carrillo,,M,Engineering,Diploma,2022-06-26,Project Management,2023-09-08,P,0.0,0.0,1.0,1.0
+e7b4dcd3-5c79-4b20-9a7a-9b4ff50b1168,Nicole Lewis,,MALE,Support,PhD,2022-12-08,Leadership,2024-10-27,Absent,51.0,92.0,4.0,4.0
+5cb9635c-75f7-4b07-ba49-62d177e43d33,Michael Padilla,52.0,Male,Sales,Masters,2022-12-31,Project Management,2023-06-10,No,,,2.0,2.0
+05ec647e-eec4-42d0-bf66-02259a86a2f5,Martin Simmons,33.0,MALE,Support,Masters,2022-06-09,Python,29/10/2024,Present,40.0,83.0,2.0,2.0
+87450d05-d4e8-4dd0-8c4b-c3d2cc5015cf,William Brooks,,Male,Engineering,PhD,2024-05-27,Leadership,05/05/2025,A,0.0,,3.0,3.0
+f5b4aee1-0836-4865-bee3-36076feccac2,Rebecca Tyler,60.0,Female,Engineering,Bachelors,2025-01-28,Python,2025-04-15,Absent,,28.0,0.0,0.0
+a266530e-5570-4efc-9327-1b56485b841f,Bernard Davis,,Female,Sales,Bachelors,2024-06-13,Python,12/11/2025,A,,,4.0,4.0
+28815cd9-8821-4541-9cc1-fb5ec7d4a10f,Sarah Miller,,F,Support,None,2025-01-05,Communication,2026-12-08,Absent,0.0,36.0,5.0,5.0
+30de0010-fe31-4408-a671-cd819c2b05eb,Pamela Jordan,,M,Sales,Bachelors,2024-04-01,Communication,2024-12-17,Absent,52.0,,,
+e16b1b8c-e3ac-421a-b387-a60077391bee,Brittany Rivera MD,,Female,HR,Diploma,2022-08-15,Python,2024-09-10,No,0.0,0.0,,
+c7f7040b-8718-4322-b43c-6de656fdc504,Samantha Reynolds,25.0,Female,Engineering,Masters,2025-02-27,Project Management,2027-10-12,Present,50.0,,,
+01a069a2-4b37-417d-9322-04fb66c67afa,Jean Smith,44.0,MALE,Sales,Diploma,2020-06-12,Excel,2020-07-23,Absent,0.0,0.0,4.0,4.0
+db06f072-4244-4fce-a686-d5c66d59ade7,Michael Nguyen,,M,Marketing,PhD,2023-01-03,Python,27/04/2024,A,,0.0,3.0,3.0
+c519fd78-3348-4da0-aa57-c6e4a753297e,Tammy Barry,38.0,M,Finance,Bachelors,2024-02-28,Cloud Computing,22/08/2026,Absent,32.0,78.0,5.0,5.0
+25f5ed6f-c5e2-4dcc-b058-4d2027111b60,Christopher Johnson,,M,Finance,Diploma,2025-03-04,Cloud Computing,2025-08-04,Present,84.0,0.0,3.0,3.0
+5938949e-8a42-4ff0-a098-4689c78ae6ce,Erin Stewart,36.0,Female,Support,PhD,2020-08-07,Cloud Computing,24/03/2021,Yes,0.0,0.0,,
+4d8cc9c6-33a2-447b-b574-6477a87da2af,William Hall,56.0,MALE,Sales,Masters,2022-03-22,Python,2022-06-08,Absent,0.0,0.0,3.0,3.0
+2326e3d0-06fc-465a-9af7-dfe2c5b86c82,Terry Martinez,,Female,HR,Bachelors,2022-02-10,Excel,2023-12-21,P,0.0,,2.0,2.0
+be7301e9-de16-40ea-b1a6-de4806822e13,Christine Williams,41.0,Male,HR,None,2023-06-16,Project Management,06/11/2024,P,0.0,0.0,,
+c55f30a1-34a4-40e3-b2d9-ec3e66308af8,Robert Davis,30.0,F,Marketing,Masters,2023-12-30,Excel,06/04/2024,Absent,,95.0,4.0,4.0
+b97a08ba-940b-434d-a9cc-edab81b74f35,Carla Clark,,Female,Finance,Bachelors,2021-10-03,Project Management,2022-07-14,No,0.0,39.0,1.0,1.0
+bfeb32a4-5bbf-485b-9ad7-5864bd9ab6d9,Jennifer Clark MD,42.0,MALE,Engineering,None,2024-06-04,Python,01/10/2025,Yes,0.0,,3.0,3.0
+823c794a-415a-43c1-ba5c-d4265c1faf7b,Jesus Smith,,Female,Engineering,PhD,2024-07-29,Python,2025-04-22,Present,,0.0,3.0,3.0
+199ded5e-db84-4a96-b629-5eb4667a9b91,Tracy Copeland,,Female,Sales,Bachelors,2023-11-02,Leadership,23/03/2025,No,0.0,66.0,2.0,2.0
+4cfa4f8a-a6e9-47ae-9909-f489f22929b6,Michael Santos,,Male,Support,Bachelors,2023-12-16,Python,2026-06-23,No,,,4.0,4.0
+f388fef7-040e-4f47-b8ab-2513e03db918,Monica Merritt,44.0,Male,Engineering,Diploma,2023-07-31,Communication,2024-11-01,Yes,83.0,,3.0,3.0
+2d675be3-3fbe-4756-98f0-2d4124074330,Bethany Moore,,FEMALE,Sales,Diploma,2020-08-25,Leadership,06/08/2022,Yes,0.0,0.0,0.0,0.0
+98a0db61-0fa9-4695-89fb-4d4bc3254bc3,Sharon Guerrero,,FEMALE,Support,None,2024-04-05,Excel,10/08/2024,A,,,0.0,0.0
+2850c932-d2c0-4ee4-aa35-567d9e181620,Christopher Stone,,MALE,Engineering,Masters,2023-06-05,Cloud Computing,2025-02-11,Absent,0.0,62.0,1.0,1.0
+ab2dd056-cf71-4c2c-8f35-fdb9bdf18708,Shawn Rodriguez,,M,HR,PhD,2021-07-21,Python,2022-06-15,Absent,,,0.0,0.0
+4e5a4392-343e-423f-bf5f-ca4f07acc717,Jake Skinner,38.0,Female,Sales,None,2021-08-24,Project Management,2023-01-05,P,,,,
+54e28fa6-069c-4c0a-8884-4f88074a588f,John Moss,56.0,M,HR,Bachelors,2022-12-30,Project Management,24/06/2025,Present,,,3.0,3.0
+8a1b0744-0be7-4352-a85c-0862e9e02d8d,Kyle Fox,,MALE,Finance,PhD,2021-06-29,Python,14/05/2023,A,66.0,,4.0,4.0
+e5ae288f-5942-4395-83d3-01cf19a12723,Jason Jones,,FEMALE,Sales,Masters,2021-08-11,Excel,26/09/2021,Yes,29.0,31.0,5.0,5.0
+db2c04c0-6a42-49c3-bbbe-0e9d76e51a12,Jessica Vincent,,Female,Support,PhD,2024-04-23,Cloud Computing,2026-05-21,P,70.0,69.0,,
+e648d7ae-7830-4c6c-b9eb-17974fb9ef37,Bethany Douglas,40.0,M,Marketing,Diploma,2020-04-09,Leadership,2022-09-21,Absent,90.0,55.0,0.0,0.0
+b7607067-ab1e-4b37-9d15-844df4f7bfdc,Johnathan Guerra,36.0,Female,Finance,Masters,2023-05-17,Communication,03/11/2024,Present,57.0,0.0,,
+83c59c14-3824-462b-a036-971a323fdf19,Tom Perez,57.0,F,Marketing,None,2025-02-14,Cloud Computing,2026-07-23,A,0.0,0.0,4.0,4.0
+6761f64e-b79e-4140-9844-1abdbe41635f,Lucas Wright,,M,HR,Masters,2020-12-18,Python,2021-10-11,Yes,65.0,,3.0,3.0
+4d156c62-a8cc-4e3b-bae3-438e2f43b2f0,William Barnett,37.0,Male,Sales,Diploma,2022-05-25,Cloud Computing,2024-11-20,P,0.0,0.0,,
+e2327c25-fcd6-4aba-93c1-392f8453d803,Steven Murphy,57.0,F,HR,None,2024-09-08,Leadership,2025-09-29,A,,0.0,,
+bc85630c-9451-4f78-a52d-3404a94485e0,Amanda Bullock,,FEMALE,Support,Bachelors,2023-06-15,Python,03/10/2024,A,38.0,65.0,2.0,2.0
+32a95261-cb50-4aa3-8c4a-ef81a1c2e70c,Alexis Walters,,F,Support,Masters,2023-07-17,Excel,21/08/2025,Absent,,0.0,3.0,3.0
+02ff9754-5291-4b6d-a592-4c9f29714f1f,Karen Cooper,,Female,Sales,None,2022-04-15,Python,04/04/2024,Present,98.0,0.0,2.0,2.0
+36ff812d-fe21-41fd-b3bd-185b67d920b3,Dennis Gonzales,,MALE,Marketing,Masters,2025-03-05,Communication,2025-08-04,Yes,42.0,0.0,1.0,1.0
+ec83c4d7-83b5-4d03-84bd-23eba7cc4274,Zachary Lopez,43.0,Male,Finance,None,2022-08-22,Project Management,29/04/2025,No,,0.0,1.0,1.0
+c5a24d77-7cc3-4e98-9f39-7fa5ce96cc5e,Mary Barnett,33.0,M,HR,Masters,2023-03-02,Project Management,29/07/2024,A,,31.0,3.0,3.0
+10287c78-434b-433d-84e1-f69ec3659e51,Jessica Johnson,44.0,M,Finance,Bachelors,2023-03-06,Cloud Computing,27/12/2023,P,0.0,0.0,2.0,2.0
+f99f5c06-3a24-4e17-9836-a02720507d45,Brian Pierce,32.0,FEMALE,Engineering,Bachelors,2024-11-20,Python,2025-02-18,A,59.0,0.0,1.0,1.0
+4e998b76-58fd-470b-9f91-07d5205525c6,Juan Ayers,,Female,Sales,Masters,2022-10-12,Python,2023-11-29,Present,0.0,0.0,2.0,2.0
+f0f5bdc1-d1ed-43ba-a5c6-5e052ebfaf4c,Kayla Thomas,33.0,F,Engineering,None,2024-07-23,Leadership,2025-02-19,Yes,,57.0,,
+bbc0e8ed-32dc-40ee-8447-b659c6a22085,Kelly Chan,55.0,Male,Finance,Masters,2022-02-25,Cloud Computing,2023-03-19,Absent,,0.0,5.0,5.0
+0c07e0e3-8669-4d31-87d2-e18fdc241f84,Heidi Hall,50.0,MALE,Sales,Bachelors,2025-01-19,Python,2026-09-02,Absent,66.0,,0.0,0.0
+19a2a602-28a3-43a3-9fdd-67bb2ab05af8,Madison Trevino,44.0,F,Support,None,2024-10-12,Leadership,2025-05-22,Yes,0.0,0.0,1.0,1.0
+b75168f6-c048-4d0b-ae3f-0127d7de7f4d,Tom Lynch,,FEMALE,Support,Masters,2022-03-10,Python,2023-11-06,P,,,5.0,5.0
+f819fa11-f584-4e73-8c85-823847469fb7,Elizabeth Santana,,Male,Finance,Bachelors,2021-12-26,Excel,2024-09-17,Present,0.0,0.0,4.0,4.0
+52696eeb-77cf-4eb6-b9fe-e842e4cc7065,Todd Smith,40.0,FEMALE,Engineering,Masters,2023-11-06,Leadership,07/01/2025,P,0.0,0.0,0.0,0.0
+4fc55e4c-ab09-4c62-8e46-1d8bb555d6ee,Nicholas Wheeler,25.0,Male,HR,Diploma,2022-05-27,Communication,2022-12-20,P,88.0,0.0,,
+23eaea4f-690e-4ee8-8152-caf60f29301d,Rodney Duran,,MALE,Support,Bachelors,2020-10-31,Communication,2022-05-04,Present,78.0,0.0,2.0,2.0
+a565cd41-28d1-41db-894b-cc99642830f3,Kevin Wright,53.0,FEMALE,Support,None,2022-04-30,Leadership,22/04/2023,Present,68.0,,2.0,2.0
+f2f4f240-f69e-463d-b9ef-20ea120e5c83,Steven Martinez,43.0,F,Marketing,PhD,2023-03-31,Excel,2023-05-04,Present,39.0,96.0,,
+34b158aa-26df-4494-ac1c-fcfcf1c056ba,Michael Hodges,,Female,Support,PhD,2025-04-01,Excel,2027-01-27,No,,,4.0,4.0
+4fa83870-8547-4ee1-9e06-d96aa3027b21,Patricia George,,FEMALE,Engineering,Diploma,2020-05-10,Leadership,2021-03-20,No,77.0,48.0,2.0,2.0
+d27e5846-4c7f-4cd6-b032-97d2a911610c,Patrick Gibson,53.0,Female,Sales,PhD,2022-03-29,Communication,09/02/2024,No,0.0,,2.0,2.0
+e916ee82-c116-4b7e-ba9f-4841e1568c60,Sheri Herring,,Male,Engineering,Diploma,2020-11-11,Communication,13/06/2022,Present,,45.0,0.0,0.0
+416553a1-e420-4a34-9685-b08b61aa189d,John Richards,52.0,Male,Marketing,Bachelors,2020-08-12,Excel,2022-02-23,Absent,0.0,28.0,4.0,4.0
+85d8cc08-3981-4354-8a85-fbd1c22a6772,Zachary Morrison,,FEMALE,Engineering,None,2024-05-30,Communication,2025-09-18,Absent,60.0,92.0,4.0,4.0
+aa3794fb-d997-4545-9e8e-76023dc559fc,Michael Reynolds Jr.,,F,Marketing,Bachelors,2023-05-08,Excel,10/11/2023,A,,84.0,3.0,3.0
+d7a29c6c-47bb-4bb0-851b-2775dd7b99a6,Desiree King,,Male,Finance,Bachelors,2021-02-27,Communication,14/11/2021,Yes,,91.0,2.0,2.0
+d61782cb-aabf-4a08-ab6d-e0da542e2e6a,Howard Smith,25.0,MALE,Engineering,Diploma,2024-08-01,Cloud Computing,2025-01-24,Yes,0.0,0.0,3.0,3.0
+38ace486-7eb6-40a9-95f5-f2ac3e247c2b,Mary Garcia,31.0,MALE,Marketing,Bachelors,2024-05-24,Excel,03/02/2027,Present,92.0,0.0,1.0,1.0
+90cc7a42-d660-4275-9b4c-ccb08f881e63,Joseph Schaefer,24.0,Male,Support,Diploma,2024-05-31,Cloud Computing,2024-10-30,No,,,0.0,0.0
+9720b88f-1b98-40e3-9a06-8a930ac7256b,Maria Garcia,,M,Support,Diploma,2023-07-09,Excel,2024-11-10,Absent,0.0,66.0,2.0,2.0
+3d15d3ee-c397-43ae-b77b-97421e12bbed,Michael Mckee,,M,Marketing,PhD,2021-01-26,Project Management,22/07/2021,Present,,38.0,,
+be8b15f3-b7e1-49a2-a4cc-7a90d0b66c10,Matthew Alexander,,Female,Support,PhD,2023-11-08,Communication,22/03/2025,A,,0.0,5.0,5.0
+098aef72-85d3-43ee-9d08-854592c6bb94,Robin Fuller,,M,HR,Diploma,2024-03-08,Communication,14/07/2025,No,87.0,51.0,4.0,4.0
+374e5dff-0690-4169-a878-0458ab48106d,Allison Bautista,,FEMALE,Finance,PhD,2023-12-09,Project Management,06/01/2026,P,,,2.0,2.0
+cd4901c9-6982-4369-abb1-02534ad2a7ba,Jesus Macdonald,,Male,Marketing,Masters,2021-02-07,Python,2021-06-28,Yes,0.0,0.0,4.0,4.0
+5a357945-5813-4496-aed9-dac5d18097f4,Danielle Griffin,23.0,F,Sales,Masters,2023-04-26,Python,10/08/2024,No,92.0,0.0,4.0,4.0
+fdb09520-b2f8-41eb-b54c-e51153133ea1,Patricia Martin,,F,Marketing,Masters,2020-09-02,Excel,2022-12-11,P,0.0,0.0,2.0,2.0
+a5f62181-8c1a-4477-9d0d-3739c553bb6d,James Bailey,28.0,Male,Engineering,Bachelors,2025-01-06,Leadership,2026-11-10,P,,65.0,,
+16c02601-db4d-4d18-bff5-475cd83f8f4f,Luis Singh,41.0,M,Sales,PhD,2021-09-23,Cloud Computing,23/11/2023,A,,,2.0,2.0
+19eead26-4e4b-46aa-9424-9390510861bb,Ann Sullivan,32.0,Female,Finance,Bachelors,2022-03-15,Cloud Computing,18/02/2023,Yes,72.0,0.0,5.0,5.0
+61f863f4-c1ae-45bb-afaa-49dda3b4a240,Scott Washington,37.0,MALE,Marketing,Diploma,2024-06-29,Leadership,03/05/2026,Present,,,3.0,3.0
+5c88da6e-e551-4a7a-b011-a2bece4f4c66,Tina Morris,,F,Sales,None,2023-02-18,Communication,20/07/2024,A,,,1.0,1.0
+e8a91aba-4f7e-4c54-94f3-ea1b30960fbb,Maria Phillips,45.0,Female,Marketing,None,2021-03-19,Python,11/10/2023,No,70.0,0.0,1.0,1.0
+9e541d3e-65e1-4146-ad8b-62b689cb09aa,Christina Davis,40.0,M,Sales,Diploma,2025-01-10,Leadership,2025-08-29,Yes,,,3.0,3.0
+b7447158-2550-4249-836c-3827da2a5b5f,Hector Anderson,39.0,F,HR,Masters,2023-09-16,Leadership,05/03/2026,No,0.0,,5.0,5.0
+bc7d0017-f4c1-440b-9852-8abb1a873c25,Stacy Carter,,MALE,Support,Diploma,2023-07-17,Project Management,2024-11-17,Present,0.0,24.0,3.0,3.0
+ffdb3a38-52e6-4f74-950b-d1d8f882c326,Ronald Sanchez,22.0,M,Finance,Masters,2025-02-11,Excel,2027-08-22,A,69.0,0.0,5.0,5.0
+06bf79cf-4616-4d6e-be20-193baae2ad63,Roy Lucero II,,F,Support,PhD,2021-08-01,Communication,19/09/2022,P,0.0,,0.0,0.0
+3749af64-cfc0-4fbc-a5dc-733d70bb2a0e,Edward Oconnell,,FEMALE,Engineering,Bachelors,2022-03-09,Communication,21/01/2023,Present,51.0,,4.0,4.0
+8e6b2439-6a1e-4d9a-b05f-052bd682a0b4,Laura Gutierrez,37.0,Male,Engineering,Bachelors,2024-05-17,Project Management,21/08/2024,P,99.0,0.0,0.0,0.0
+9351240f-a093-4a68-a64d-49fa94b59339,Veronica Francis,43.0,FEMALE,Engineering,Bachelors,2024-09-04,Project Management,2026-07-07,Absent,0.0,30.0,4.0,4.0
+6e6aa3ec-4378-4e6b-8d3d-dee3cdad54f4,Steven Giles,,MALE,Marketing,Masters,2023-05-12,Leadership,2023-09-12,No,,0.0,1.0,1.0
+f545752a-13b8-4c30-9b69-36978a55a14b,Erica Carey,,FEMALE,Support,Masters,2022-12-27,Excel,21/07/2024,P,95.0,76.0,0.0,0.0
+20f6b8d8-9436-4f5d-89cc-6b08cba9a0f0,Thomas Duke,,Female,Sales,None,2022-05-14,Communication,14/11/2023,No,0.0,29.0,2.0,2.0
+cea82b7a-1ad4-4c13-9040-89fa890d58e5,Crystal Bailey,36.0,F,Support,None,2024-04-24,Python,2024-12-01,Yes,0.0,56.0,0.0,0.0
+771d030f-3955-4110-bc2e-0301d232231d,Russell Stevens,37.0,MALE,Support,PhD,2024-12-23,Python,03/04/2026,Absent,28.0,,3.0,3.0
+108d692f-6fa9-457c-974f-e6687f441add,Carolyn Castro,49.0,MALE,Support,Diploma,2023-12-28,Leadership,2025-01-13,No,,,1.0,1.0
+58fc8448-e555-4087-8ebb-51aea6789753,Michael Brown,,MALE,HR,Diploma,2025-01-07,Python,2027-01-21,No,,,,
+46addbe7-b807-4910-b469-76af10bee3e8,Theresa Luna,34.0,FEMALE,Marketing,Bachelors,2023-04-13,Project Management,02/07/2025,P,,,5.0,5.0
+f157f169-c3ad-4ffd-b447-9e706e4ae071,James Stanley,,F,Marketing,Masters,2024-06-09,Project Management,2027-02-09,A,73.0,,4.0,4.0
+4dfe448c-acb7-4476-b27c-172189d44ce2,Kelly Liu,,M,Engineering,Diploma,2022-11-25,Project Management,2024-01-19,Absent,0.0,43.0,,
+faecfb4c-8a24-4d57-842c-40ce24ec755d,Emily Smith,,M,Marketing,Bachelors,2023-09-23,Excel,28/01/2024,A,,,4.0,4.0
+9662f883-5bbc-4b30-8124-b471b64d158c,William Austin,,F,Marketing,Diploma,2020-09-18,Project Management,08/06/2021,Present,65.0,,5.0,5.0
+bb88cfe7-2944-4059-bafa-34da69e8fe2a,William Ayala,31.0,FEMALE,Finance,Masters,2024-10-08,Excel,30/10/2026,A,,100.0,3.0,3.0
+a63f89b5-078c-4f1d-ae65-9eb1d5f304a0,Monica Rivera,49.0,FEMALE,Marketing,None,2021-10-16,Python,2022-10-27,P,0.0,,,
+b3700e92-92f1-4a69-a74f-6635f236b2ee,Jasmine Russell,,M,Finance,Masters,2021-01-24,Communication,2022-09-24,P,,,1.0,1.0
+2ed86804-57e2-4419-98e6-650123755bc8,Henry Mann,43.0,Female,HR,None,2024-04-19,Communication,08/12/2025,No,0.0,50.0,0.0,0.0
+42b07e31-2f3f-4e11-973a-603d7feb25e2,Darrell Duke,42.0,F,Marketing,None,2022-05-29,Python,2023-11-10,Present,,0.0,1.0,1.0
+1812362f-c076-492d-b3a4-69a556f7e6bb,Alicia Obrien,39.0,F,Finance,Masters,2020-12-16,Python,2023-07-26,No,,,,
+18720dc7-5f86-4f8b-aec6-16940f243491,Victor Rice,,FEMALE,Finance,None,2025-01-01,Communication,10/10/2025,P,,0.0,1.0,1.0
+07144da9-4e67-4f72-a27f-34eb53ad132c,Laura Brooks,34.0,M,Support,Bachelors,2020-04-21,Project Management,2022-11-11,Absent,0.0,56.0,0.0,0.0
+a2f077e3-3040-4cc4-ac21-f1edf4a985b0,Catherine Robinson,,M,Marketing,Masters,2020-11-08,Python,25/02/2023,Present,0.0,73.0,,
+e9a11cc0-aee4-4488-9f41-c15518d2bfd0,James Thompson,,FEMALE,Marketing,None,2023-03-15,Excel,25/04/2024,P,,,2.0,2.0
+c5a0b7c3-e132-4e39-9891-b0a4b4d4813a,Charles Fuentes,40.0,FEMALE,Marketing,PhD,2024-01-06,Leadership,2024-08-25,Present,,,4.0,4.0
+899f7cfb-ef6f-4d6a-89ed-1c7c9f40ce6a,Rebecca Martinez,46.0,MALE,Finance,PhD,2020-07-10,Excel,21/08/2021,Absent,0.0,0.0,0.0,0.0
+595b9abc-1b97-4332-8a9b-37f0ef5e4a66,Leslie Jackson,58.0,FEMALE,Engineering,Masters,2022-12-01,Excel,16/10/2023,Present,28.0,39.0,0.0,0.0
+27bea2b2-9a7f-426f-b172-e9f87f660f24,Tamara Pace DVM,37.0,M,HR,PhD,2021-02-10,Leadership,29/08/2022,A,63.0,,,
+72abe7ff-c8b8-447b-a38b-66acd4eee313,Mary Jones,47.0,FEMALE,Engineering,Masters,2024-12-04,Excel,15/07/2026,Absent,,49.0,4.0,4.0
+f5dbed2c-3d4c-4f01-a431-91eb5d9e1717,Chelsea Powell,23.0,MALE,Support,Masters,2022-05-11,Excel,2022-08-06,Present,25.0,49.0,5.0,5.0
+ebced334-fb7b-40c7-aaa6-fc450f01fe85,Dr. Matthew Webster,,MALE,Support,Diploma,2023-04-25,Leadership,01/11/2025,Yes,,0.0,3.0,3.0
+a9dbf628-1748-4a01-8514-7bc9d907ba3f,Susan Hart,26.0,Female,Sales,Bachelors,2021-02-07,Communication,2023-03-10,Absent,,,5.0,5.0
+8bdfa208-c1c5-4c8b-a4e9-4d6a858c5992,Diane Taylor,54.0,F,Marketing,Masters,2024-10-15,Cloud Computing,02/11/2026,Present,0.0,,3.0,3.0
+6d234155-a057-4558-b1ba-308e4aff5eee,James Henry,46.0,Female,Sales,PhD,2021-12-13,Python,2022-10-11,Absent,,70.0,5.0,5.0
+7bee4582-8fae-46a9-924e-c63c1ab49e05,Elizabeth Gay,,Female,Marketing,Bachelors,2024-06-11,Leadership,08/05/2026,A,0.0,46.0,1.0,1.0
+0e1c0d4d-b2eb-4819-af1e-0ecdc555f30a,Amanda Arroyo,41.0,FEMALE,HR,PhD,2022-09-16,Excel,2024-12-01,Present,100.0,,,
+e67882ae-bf73-4026-9664-6ca5e4602d31,Carrie Edwards,22.0,Female,HR,Masters,2022-11-17,Excel,2023-07-27,No,0.0,,3.0,3.0
+f77e1ee6-0c15-4b28-8728-971988c75e8a,Cole Brandt,,FEMALE,Sales,PhD,2020-09-02,Project Management,2021-11-06,Absent,0.0,33.0,2.0,2.0
+dfab24e2-af25-462c-934d-09aed2e106a4,Jordan Sweeney,,Male,HR,Diploma,2020-09-16,Excel,08/03/2023,No,92.0,32.0,1.0,1.0
+0b72d0ef-b2fd-4a38-ae5e-c1fc5eee5114,Annette Dodson,,Male,HR,Diploma,2024-08-04,Project Management,14/09/2025,Present,58.0,,2.0,2.0
+b6caf840-12ad-4c1b-91ff-def6b6608a31,Daniel Bowman,35.0,MALE,Support,Bachelors,2022-02-24,Excel,18/08/2022,Absent,21.0,0.0,0.0,0.0
+34be5f01-61a9-4ecf-ac0d-d9ba0b94729c,Audrey Roberts,,M,Engineering,None,2020-05-25,Excel,19/02/2021,Present,39.0,,5.0,5.0
+d4d05762-ea4d-4ed8-904a-902aa8db2a2c,Christopher Price,,F,Finance,Masters,2022-04-23,Leadership,16/04/2024,Yes,0.0,,1.0,1.0
+66e6c48a-d679-4ab4-aae6-c3da5f2d38b8,Charles Sanchez,,Male,Support,PhD,2022-03-17,Communication,11/04/2024,Absent,77.0,0.0,4.0,4.0
+ae2e69e2-6c3f-4800-ac13-d7c3e1c72223,Sharon Sims,53.0,MALE,Support,Bachelors,2022-06-18,Python,2024-11-19,P,0.0,,5.0,5.0
+bc94046e-a741-4d2c-a0f1-3db6f0b5b7b3,Jennifer Smith,,MALE,Sales,None,2022-01-03,Communication,22/05/2024,P,,0.0,2.0,2.0
+e6ace778-d7b6-40a3-8730-b04b608bb508,Richard King,40.0,MALE,Finance,None,2023-10-14,Excel,28/12/2024,P,75.0,,3.0,3.0
+0ab35cb1-653d-4c17-b149-324ba064bc2a,Joann Alvarado,,FEMALE,Support,Masters,2020-05-09,Leadership,01/12/2022,P,0.0,0.0,3.0,3.0
+1d82e2a8-1d48-4843-a339-8f8e120de24a,Rick Jones,32.0,Female,Support,Diploma,2022-02-28,Leadership,2023-03-14,A,0.0,89.0,0.0,0.0
+bd76bb2f-f189-4bad-aad8-8bca53cf14e1,Michael Arias,38.0,MALE,Marketing,PhD,2024-10-31,Excel,16/05/2026,Present,0.0,0.0,1.0,1.0
+48e26a53-4954-405b-8948-575448e918f9,Deborah Juarez,47.0,FEMALE,HR,Diploma,2023-08-27,Project Management,12/05/2026,Present,0.0,78.0,,
+33be8942-e24f-408a-a2b6-a842d2a81922,Kristen Jimenez,34.0,FEMALE,Engineering,Diploma,2023-08-16,Communication,2026-01-16,Present,59.0,,0.0,0.0
+780d90b6-0923-41d9-bedc-eb6584aa6e12,Brian Johnson,28.0,Male,Engineering,Bachelors,2021-05-06,Python,28/09/2023,Present,46.0,29.0,,
+b190dea4-c335-49e5-9567-55f42f39f8c8,Dana Gilbert,,MALE,Finance,Bachelors,2023-07-26,Project Management,10/05/2024,Yes,,,1.0,1.0
+98d516b9-7128-4916-a48b-d5aabd0443f0,Mary Gordon,,MALE,Sales,None,2023-12-29,Leadership,28/08/2024,No,82.0,,5.0,5.0
+51634a91-b993-465f-b5de-d447c4bfa424,Adrian Hernandez,,FEMALE,Engineering,Diploma,2021-11-15,Project Management,09/12/2022,Yes,,82.0,,
+7647f43f-59a1-4829-acef-781debfdb100,Mathew Myers,,M,Sales,Bachelors,2022-05-26,Leadership,19/07/2023,Absent,100.0,,4.0,4.0
+104b5372-816e-45c2-8ab3-c590f262e145,Mark Rogers,52.0,M,HR,None,2021-07-26,Project Management,01/10/2023,A,0.0,72.0,5.0,5.0
+11c3138b-70c6-4b42-9f0f-f647067ab1d7,Lindsay Roberts,,Male,Sales,Masters,2023-12-31,Excel,2024-02-09,P,,0.0,5.0,5.0
+514b30a9-f6d4-461c-8c10-46bf24b37794,Michael Ortiz,,Female,Finance,PhD,2021-08-20,Communication,30/09/2023,Present,0.0,,5.0,5.0
+2b7f90a5-b871-49e1-9e5b-aabf04786088,Erica Johnson,26.0,F,Finance,Masters,2024-10-22,Leadership,2025-03-13,A,,,0.0,0.0
+6197337c-0182-4481-bbd1-4558af2f5f8b,Anthony Hughes,,Female,Support,Diploma,2021-02-23,Project Management,28/09/2021,Present,32.0,37.0,0.0,0.0
+c31dfb91-397a-4433-9b64-8ca71ea0dd2d,Kristy Jones,58.0,F,Finance,PhD,2025-02-01,Project Management,2027-03-31,A,0.0,0.0,5.0,5.0
+62d47bff-a510-47b4-924d-4a86efed0e52,Luis Cole,,Male,HR,Diploma,2024-04-26,Cloud Computing,2025-06-07,No,74.0,28.0,1.0,1.0
+4002c5eb-9cd3-4931-bd95-7e47aed14cec,William Gibson,,F,Sales,Masters,2022-04-15,Communication,2023-02-08,Present,23.0,0.0,,
+5c31d125-e123-433f-8955-17ec7447f8a1,Dustin Simon,,FEMALE,HR,Diploma,2021-07-26,Leadership,2022-03-04,No,0.0,72.0,4.0,4.0
+290a8303-e1c6-47c2-81d8-93a5ffc7aba2,Alex Trujillo,,Female,Support,Diploma,2023-07-27,Leadership,21/03/2025,P,0.0,21.0,2.0,2.0
+b5ef818b-690e-4a7e-b5be-1ba70ae4e096,Sarah Archer,55.0,M,Marketing,PhD,2021-06-28,Communication,2023-01-16,A,47.0,,5.0,5.0
+35461a1c-5a5a-4dac-a062-4c48d7131c2e,Jennifer Butler,46.0,Female,Support,Masters,2021-04-30,Cloud Computing,02/10/2022,Absent,,85.0,2.0,2.0
+76a90f78-6370-4da9-b3ce-caaf71a2f6c1,Gabriel Ross,,Female,HR,Diploma,2024-02-11,Leadership,12/10/2025,A,,70.0,,
+b66c4a03-378a-4526-befa-528c34b6d9da,Cory Russo,,FEMALE,Marketing,Masters,2024-10-09,Excel,2025-05-24,Yes,,40.0,3.0,3.0
+dcc8c801-8c57-4243-b69f-ce1ae67d9f00,Jennifer Schneider,,FEMALE,Engineering,Diploma,2023-05-11,Leadership,2025-02-12,Yes,0.0,0.0,4.0,4.0
+1bd07f9b-7861-4769-a42e-4cff64907a63,Jodi Conway,,MALE,HR,PhD,2022-01-30,Cloud Computing,10/04/2022,Yes,,0.0,4.0,4.0
+56726735-3798-4c80-b30c-84610d06d891,Brooke Cruz,59.0,F,HR,Bachelors,2023-10-09,Project Management,21/03/2025,A,0.0,0.0,0.0,0.0
+716728ee-f175-4208-ae29-23866e896265,Daniel Bradley,,M,Sales,None,2024-08-31,Communication,08/07/2026,P,61.0,92.0,,
+ae3dc742-bef8-404b-bbcf-57d745f84c5d,Brittney Morales,,M,HR,None,2021-09-24,Excel,2022-10-15,No,0.0,0.0,2.0,2.0
+77f4d7f9-5105-48a9-a94a-48b326932d95,Oscar Farmer,,Female,Finance,None,2021-12-12,Cloud Computing,09/11/2022,Absent,0.0,0.0,,
+c36db2ec-eeda-49bc-9c40-6cbe50f370af,Nancy Liu,43.0,MALE,Finance,PhD,2024-05-28,Communication,06/03/2025,A,0.0,0.0,0.0,0.0
+057eccfa-15f3-4747-90bb-5ed3c9765bdf,Scott Brown,38.0,M,Engineering,Diploma,2021-02-02,Cloud Computing,2022-06-17,A,20.0,,2.0,2.0
+5b5073c7-e6dc-4c76-ae7a-e3bb50340715,Chris Lewis,,FEMALE,Sales,Diploma,2021-01-11,Communication,18/09/2023,P,,,5.0,5.0
+50c49c2b-e8c4-41fc-9f8c-1c815ce9a3d3,Sandra Alvarez,,Male,Marketing,Masters,2020-10-29,Leadership,30/07/2022,P,26.0,,4.0,4.0
+cd65e328-19fb-4ed2-8da1-2b024a2c7830,Stephanie Hernandez,30.0,MALE,Support,Diploma,2021-10-03,Communication,2022-02-20,Present,92.0,21.0,3.0,3.0
+9e482e45-e904-4e42-8845-26f51e521d48,Justin Fuller,,F,Marketing,Masters,2023-10-18,Communication,2024-10-27,Yes,0.0,0.0,,
+3fd8027f-e755-4655-9916-2e44b0a17621,Mary Thomas,,Female,Marketing,Diploma,2022-08-28,Communication,2023-09-24,Yes,98.0,40.0,2.0,2.0
+22b6995e-0a14-4309-8173-d1d918d98279,Kaitlyn Woods,53.0,Male,Marketing,Diploma,2024-01-19,Communication,2025-09-24,Absent,0.0,41.0,3.0,3.0
+d1654869-fcde-41c8-b028-bafc960f96d9,Jeremy Armstrong,22.0,MALE,HR,Diploma,2020-06-07,Cloud Computing,01/02/2023,Yes,,47.0,1.0,1.0
+7de471bf-f865-4d61-8515-5381e4dc6680,Lacey Blackwell,,Female,Support,Diploma,2024-01-26,Cloud Computing,2024-06-06,A,0.0,54.0,4.0,4.0
+2d5f4dd3-11a2-464d-9eb6-3bc5e2f10e16,Eric Long,,M,Engineering,Diploma,2020-12-27,Cloud Computing,2023-07-17,Yes,,97.0,4.0,4.0
+ca7cd927-ef5e-4d74-be2e-7c0f1c68a614,Christina Walters,,Female,Finance,Masters,2021-07-15,Communication,30/08/2022,P,,55.0,1.0,1.0
+c95d2093-f2e2-4d2f-8af3-c094b61ed8af,Larry Lloyd,,Male,Support,None,2022-10-02,Communication,02/11/2024,No,,,2.0,2.0
+6af0ebbd-971f-440d-a41b-b3b99f325c4c,Holly King DDS,,F,Support,Diploma,2020-05-26,Excel,31/01/2022,Present,,64.0,4.0,4.0
+7d5704df-0600-42c3-aa7a-109ee77ee2a9,Christopher Banks,52.0,Female,Marketing,None,2024-09-09,Project Management,11/07/2025,Yes,0.0,45.0,3.0,3.0
+6ed5ca30-ff03-41a9-b2ed-257b435b6625,Don Carney,36.0,MALE,Marketing,Bachelors,2022-11-15,Cloud Computing,09/01/2024,No,90.0,52.0,0.0,0.0
+8d204cf6-553a-4bad-948a-e202a8cf20c8,Shane House,,Female,Finance,PhD,2024-02-29,Communication,2025-09-18,Absent,,0.0,4.0,4.0
+4d7e6eeb-04eb-4694-92da-e5a7bc11733c,Tanner James,25.0,M,Sales,Diploma,2020-05-10,Excel,16/08/2020,Absent,50.0,0.0,1.0,1.0
+b265293e-4531-4fd0-ac01-e53db1fe69b8,Jacob Hunt,,Female,Sales,Bachelors,2020-07-27,Excel,25/08/2022,Yes,0.0,42.0,0.0,0.0
+21e10ae8-5795-4ee7-b510-561a683def14,Michelle Tran,,Female,HR,None,2023-11-16,Leadership,2025-06-14,Yes,84.0,70.0,2.0,2.0
+e9d1c994-1553-4cc9-8444-a6bd4819a23a,Michael Trujillo,30.0,FEMALE,HR,None,2024-06-03,Python,21/12/2024,A,,0.0,2.0,2.0
+1d0ffe16-e554-474f-8240-252ddc89e59a,Carl Gill,60.0,Male,Finance,Masters,2022-12-22,Leadership,2023-05-13,P,0.0,0.0,2.0,2.0
+10a12a0b-5f96-400d-ad56-e616130cd65b,Robert Maxwell,,MALE,Sales,PhD,2022-05-01,Cloud Computing,11/07/2024,Yes,,,5.0,5.0
+bc8b7eb7-0371-46f7-b91d-8c4c02781c40,Sheila Williamson,30.0,Female,Engineering,None,2020-11-27,Python,2021-06-15,P,0.0,,4.0,4.0
+df10c0ab-f734-4784-a049-d164952f6d11,Lynn Rivera,,Female,Engineering,Masters,2021-08-05,Excel,23/09/2022,No,,0.0,1.0,1.0
+b44304e9-0e60-4c16-9f39-f9f99cd1126b,Thomas House,47.0,Female,Engineering,Masters,2021-03-01,Excel,2021-08-21,P,,0.0,3.0,3.0
+17722cf0-f38e-4bc3-b7df-852c1779e7d0,Rickey Hall,51.0,F,Engineering,Masters,2021-11-04,Communication,25/03/2023,No,,67.0,2.0,2.0
+52060f1c-630b-40db-9454-578fb78bf29d,Cheryl Roth,49.0,FEMALE,HR,PhD,2020-09-09,Cloud Computing,02/10/2021,Yes,81.0,81.0,4.0,4.0
+781e2d35-2fa1-42bc-b4ce-5f319aff48af,Michael Hancock,54.0,Male,Engineering,Masters,2024-06-23,Project Management,18/07/2025,No,,27.0,3.0,3.0
+019dc12d-81f1-4d04-af57-6e777148c007,William Baker,45.0,F,Finance,PhD,2020-10-14,Cloud Computing,18/04/2022,A,0.0,,5.0,5.0
+b33109f5-3078-43d0-b904-6be7934fa5c8,Philip Lopez,59.0,F,Finance,Diploma,2024-11-15,Cloud Computing,26/12/2025,Present,0.0,0.0,5.0,5.0
+29949775-3a4b-40e3-bdf2-6dafc19bf990,Russell Phillips,,MALE,Support,Diploma,2022-12-31,Project Management,2023-04-08,No,54.0,38.0,2.0,2.0
+37dfc571-4910-4c10-a3fe-085b81b41b37,Roger Moss,47.0,Male,Engineering,PhD,2023-10-09,Leadership,2024-02-11,Absent,,92.0,3.0,3.0
+f7d7f5c0-e3fb-4b87-a7a3-bc7a01c9a464,Diana Martin,,Female,Engineering,Bachelors,2024-10-11,Communication,2026-01-11,Present,0.0,81.0,2.0,2.0
+e716eb38-581f-43df-be71-bda810128b96,Lisa Roth,53.0,Male,Support,Diploma,2020-10-15,Python,26/06/2021,Yes,,0.0,2.0,2.0
+b752f753-e60d-400f-83b1-ef08ac8d8f32,William Craig,,FEMALE,Marketing,None,2020-12-11,Cloud Computing,2022-08-04,No,0.0,51.0,0.0,0.0
+ea1b248f-ea94-4306-8579-8f5d969040b0,Michael Gregory,,FEMALE,HR,Diploma,2022-12-22,Project Management,04/05/2025,A,0.0,,4.0,4.0
+d6f83aa7-ba26-4e87-832f-174f91b72a5c,Hunter Shepherd,36.0,Female,Finance,Masters,2020-10-28,Leadership,2021-03-16,No,0.0,,5.0,5.0
+7d34d5ec-c36f-4008-8cdc-ffaf7fec01d8,Zachary Lee,,Male,Marketing,Masters,2023-06-01,Cloud Computing,30/07/2025,A,,,5.0,5.0
+5a575306-b0dc-40e8-8aee-5a682ba95b90,Spencer Nguyen,,Male,HR,PhD,2025-04-05,Leadership,2026-06-24,P,,,2.0,2.0
+76e26e93-e62a-4bfe-9e61-f70d76b00d9f,Charles Christensen,,Female,Sales,Masters,2023-09-11,Python,04/06/2025,Absent,,,4.0,4.0
+23b1d124-df94-42f8-8644-4f36f31b3888,Jane Berg,27.0,Female,Sales,Diploma,2023-11-01,Excel,22/04/2026,Present,39.0,,1.0,1.0
+6f339c5e-0392-4cfa-9d9f-2c8c6640464a,Mary Thompson,,MALE,Sales,Bachelors,2021-07-15,Leadership,11/02/2022,Absent,,32.0,3.0,3.0
+642bb07d-0432-47e4-9847-d750378ce7b7,Devin Gonzalez,22.0,Female,Finance,Diploma,2021-10-30,Leadership,18/07/2023,P,,0.0,1.0,1.0
+d46c5776-4db3-4044-a887-6b7f64694f53,Kirsten Perez,30.0,F,Sales,PhD,2024-06-30,Communication,2024-10-11,No,85.0,0.0,3.0,3.0
+6ecfaab4-7fc7-4f6a-b946-51309b58e20a,Samuel Freeman,,MALE,Marketing,Diploma,2024-05-27,Excel,2025-02-10,P,,0.0,1.0,1.0
+1120c1b7-1b23-41f0-b620-e4c05a766ac4,Michelle Franklin,,MALE,HR,Masters,2020-10-09,Communication,2022-10-31,A,0.0,39.0,4.0,4.0
+7e85f617-f17e-493d-84cd-a1d23c32f2ee,Jennifer Smith,31.0,F,Marketing,Masters,2021-06-20,Project Management,09/10/2021,Present,,0.0,1.0,1.0
+a165c37d-56ad-4649-a89a-2abca1aa8c49,Luke Carr,48.0,MALE,Support,None,2022-11-19,Project Management,2023-08-20,Yes,0.0,,4.0,4.0
+b989a884-5752-4610-882a-68ff879645b8,Michael Anderson,47.0,M,Engineering,Bachelors,2021-05-14,Leadership,15/04/2023,P,69.0,,2.0,2.0
+0488a0e8-1028-45b4-b938-ce7ff86e2588,Jason Clark,,Female,HR,Diploma,2025-01-27,Project Management,2027-01-01,P,0.0,43.0,0.0,0.0
+df331eb0-e8ff-461f-bbc2-9d89b0333c0d,Madison Winters,48.0,F,HR,Masters,2023-01-15,Leadership,2025-07-23,Absent,0.0,,3.0,3.0
+573bdf7a-8e14-438e-87d0-e6eec96c2090,Erin Lee,,Male,Engineering,PhD,2024-04-25,Project Management,2025-03-05,P,,63.0,,
+a1f76e1c-c816-4e32-9263-a195f7294c21,Susan Erickson,54.0,Female,Marketing,PhD,2021-05-06,Project Management,20/09/2021,No,,,0.0,0.0
+7d14190d-3fc4-44d0-91d5-0a53d035dd19,Stephanie Edwards,,MALE,Engineering,Diploma,2022-04-13,Project Management,2024-11-08,Yes,,,5.0,5.0
+9fa4b54f-25fa-4f8d-800c-9ab9625737cf,Joseph Ford,48.0,F,Finance,Diploma,2021-01-28,Cloud Computing,13/04/2021,Yes,,95.0,1.0,1.0
+c705dd1e-63bb-48b6-b311-71a7112206a2,Randy Joseph,24.0,MALE,Sales,PhD,2022-07-12,Excel,14/11/2023,P,0.0,49.0,,
+79477aa8-0f1c-4455-871b-3b67d907a314,Mark Murphy,,Male,Finance,Bachelors,2023-05-12,Leadership,2024-01-24,P,0.0,73.0,4.0,4.0
+45d3708a-c89f-484f-a568-221b8fd73af9,Kari Edwards,41.0,F,Sales,Masters,2024-05-15,Cloud Computing,2025-11-09,No,,34.0,,
+a555dfa1-cf8b-48bd-92fa-9b0a333705f9,Thomas Jacobs,43.0,FEMALE,Support,Masters,2024-10-29,Leadership,2027-07-03,No,74.0,0.0,5.0,5.0
+e28065d7-bc49-4467-8f81-0db2bbc1686b,Robert Campbell,28.0,MALE,Support,PhD,2022-10-12,Communication,2023-07-20,No,0.0,,1.0,1.0
+da4a9d0b-d18e-431b-b35d-8adb6c4928d4,Dean Thomas,,Male,HR,PhD,2023-06-19,Cloud Computing,2023-12-31,No,0.0,28.0,2.0,2.0
+c32aeb1b-a4dc-4a67-a6d1-8c910760d408,Jacob Parsons,22.0,Male,HR,Masters,2020-06-24,Leadership,2020-12-30,A,63.0,0.0,0.0,0.0
+8e25ce3d-61cc-46e5-a03a-51967259f45b,Jeremy Edwards,39.0,M,Engineering,PhD,2021-07-09,Communication,2022-11-27,A,0.0,0.0,4.0,4.0
+b4cfdcd7-32a1-414d-86a4-9f8d74b8b222,Dominique Willis,27.0,Female,Marketing,PhD,2022-08-04,Communication,2022-09-21,Yes,88.0,0.0,5.0,5.0
+0d6ba019-1fb8-43c2-8457-3e35f4c3559b,Kristen Wood,,Male,Sales,Diploma,2023-01-04,Communication,28/01/2024,Absent,0.0,0.0,0.0,0.0
+8cd5219a-6001-475d-b872-c503d4f12110,Jeffrey Nguyen,,FEMALE,Finance,Diploma,2022-12-12,Python,2025-02-14,No,67.0,25.0,,
+c2b2315d-d608-46ac-9cf2-f216539cbe4f,Douglas Cunningham,44.0,MALE,HR,PhD,2021-10-12,Excel,17/02/2023,No,,79.0,5.0,5.0
+0e4cc983-82ff-41e0-a21d-4d530a14e77e,Michelle Crawford,55.0,FEMALE,Marketing,Diploma,2025-02-06,Excel,2025-07-23,Yes,0.0,63.0,5.0,5.0
+85d4f2c1-1a2d-4453-a6cd-497923d13c7f,Miguel Davis,42.0,M,Sales,Diploma,2020-11-03,Python,2022-09-03,Present,33.0,0.0,0.0,0.0
+14c6d16d-5691-46b9-9b69-a9a8f8e9ed27,Paul Vasquez,46.0,M,HR,Diploma,2023-05-01,Leadership,2023-10-18,Yes,66.0,,0.0,0.0
+a44e3b1c-6a96-4ac0-8651-62a60fe91780,Melissa Kelley,,M,Marketing,Bachelors,2024-11-25,Communication,20/01/2027,Yes,0.0,,1.0,1.0
+28b82fa1-72d0-4649-b50e-a2b2d07a2b58,Thomas Green,,Male,Marketing,None,2021-01-09,Communication,04/06/2021,Yes,30.0,,3.0,3.0
+8ec46aab-aefb-4b37-a50e-e5e70e77b689,Marvin Terry,56.0,MALE,Sales,None,2022-04-20,Project Management,2023-04-03,Yes,0.0,58.0,5.0,5.0
+c22edfc4-3810-4177-8acc-09da0ada634b,Christian Harrell,,Male,Support,PhD,2024-05-03,Python,05/12/2026,No,26.0,28.0,1.0,1.0
+c186cbce-6334-4b06-92ac-de3051c810ef,Jennifer Dixon,52.0,F,HR,Diploma,2024-07-10,Cloud Computing,2027-04-03,Present,53.0,0.0,1.0,1.0
+b6f957dc-ab6d-49ab-8604-f4e77e029b3f,Krista Williams,43.0,Female,Support,None,2022-09-23,Project Management,2025-04-26,Present,100.0,80.0,1.0,1.0
+7dd0a74b-952e-453e-bac0-e784357650f9,Michael Perkins,54.0,F,Engineering,None,2020-07-27,Python,2022-09-11,Yes,,90.0,2.0,2.0
+2a07a58d-d43b-4f74-a609-456a8257909d,Christian Smith,46.0,FEMALE,HR,PhD,2023-05-25,Communication,23/08/2023,A,,,5.0,5.0
+82c901df-5fd2-49bc-8e67-3bc844016c6f,Ruben Webster,,M,Support,None,2022-08-29,Excel,30/06/2023,Present,,95.0,0.0,0.0
+e5de9e28-53ba-440f-b21e-246255a0db97,Bryan Mitchell,58.0,MALE,Sales,Bachelors,2022-06-12,Project Management,14/08/2024,Absent,0.0,25.0,2.0,2.0
+a6c2b716-f7bd-4750-9a76-50dd720f2288,Patricia Harris,,Female,Marketing,PhD,2020-07-05,Leadership,2021-04-16,Yes,0.0,0.0,,
+1b52a1e6-cdfc-4ce7-a330-0ee10aaa3c51,Shelly Gonzalez,48.0,M,Marketing,Diploma,2021-03-23,Communication,2021-08-13,Absent,,,1.0,1.0
+d53ae164-4c71-40d5-bf4d-493dbc57003e,Cindy Watkins,,MALE,Marketing,Masters,2025-02-11,Communication,2026-04-04,A,65.0,,,
+a5d83148-0deb-483b-b6ba-45725c667438,Latasha Wilkerson,,Male,Finance,Diploma,2022-11-05,Communication,2024-04-18,Present,0.0,0.0,4.0,4.0
+4f55b58e-0618-43ec-82d7-68c637809a0a,Ronald Dalton,40.0,M,HR,Masters,2022-05-30,Excel,21/04/2023,Present,0.0,0.0,1.0,1.0
+63796fa5-b84e-403d-b261-29777fe54edd,Judith Myers,,Female,Support,PhD,2022-01-08,Excel,18/05/2023,A,54.0,81.0,,
+8f928bca-7aec-4953-bdde-e37debbaca66,Rebecca Estrada,,F,Marketing,None,2021-09-02,Cloud Computing,2022-12-24,No,38.0,0.0,1.0,1.0
+e268d92f-1b75-4ed1-9dca-71ef13e2738a,Andre Williams,,MALE,Sales,PhD,2022-05-19,Project Management,2023-07-02,A,22.0,92.0,,
+00009f1e-ee1e-4dbf-8634-0607f260a3ed,James Carroll,37.0,MALE,Finance,None,2020-05-11,Leadership,2021-02-12,Absent,,,3.0,3.0
+371e7782-5e38-4274-8db4-a7fa18e43d85,Tricia Harmon,34.0,Male,Support,PhD,2021-08-15,Project Management,18/04/2023,A,0.0,0.0,4.0,4.0
+a7540837-6ae0-4e01-87ac-aec9137b41c2,Randy Roach,,Male,Finance,Diploma,2023-06-09,Cloud Computing,2024-01-29,Absent,,,,
+ee1cb89a-74f9-45ca-8341-fd0e244f802b,Victoria Rocha,,F,Marketing,Diploma,2022-11-01,Cloud Computing,01/12/2023,Present,29.0,92.0,2.0,2.0
+f3d21fd2-be87-4bac-a2ff-6996eb5e371f,Amanda Galvan,,F,Sales,Bachelors,2021-04-15,Leadership,06/01/2022,No,,37.0,1.0,1.0
+160a56e1-1cd2-4c9f-83ac-0d1b2cb15c02,Jordan Tanner,28.0,M,Engineering,None,2024-04-26,Excel,20/06/2026,Present,0.0,,3.0,3.0
+b3efbaa9-05c6-4c4d-8523-19ae45ec257f,Amy Holt,37.0,Male,HR,None,2025-01-02,Cloud Computing,04/08/2027,No,100.0,,3.0,3.0
+609eed33-ad92-4bbf-a5c5-1c9a10ae2dfc,Jonathan Rivas,,Female,Finance,PhD,2022-02-05,Leadership,10/02/2024,Present,0.0,0.0,2.0,2.0
+93a69684-0365-49fc-b910-70e02cce4cce,Mary Chung,,F,Sales,Masters,2023-10-10,Leadership,19/08/2024,No,0.0,93.0,,
+7aaaf675-b807-4b46-8814-e14eb5bc1efc,Derek Lambert,32.0,MALE,Engineering,Masters,2022-08-27,Communication,09/08/2024,Absent,45.0,,2.0,2.0
+cf735afa-72af-4a55-b08e-8dd43c1d10be,Matthew Russo,30.0,Male,Support,Masters,2021-11-12,Python,2022-02-12,No,0.0,75.0,2.0,2.0
+7d10257c-b3f4-4487-b3bf-de5f8f16fac0,Michelle Newton,,Male,Marketing,PhD,2023-12-20,Leadership,23/12/2025,Yes,0.0,73.0,2.0,2.0
+5e072fb2-9919-4e91-96a2-6e585d316263,John Martin,26.0,F,Engineering,Diploma,2022-09-14,Communication,2023-01-08,No,,0.0,2.0,2.0
+254c5028-8a6f-4508-8d0f-e9b5b9e826d0,Mark Russell,,F,Marketing,None,2023-06-04,Cloud Computing,2025-01-22,No,92.0,,5.0,5.0
+fbc77e98-77ad-4afc-9f42-986666db005e,Eduardo Olsen,,M,HR,None,2025-03-14,Communication,2025-10-06,No,22.0,,0.0,0.0
+5c3e82e9-6867-453f-8ad2-1d5dacfb605e,Angelica King,27.0,MALE,Marketing,Bachelors,2024-06-21,Communication,2025-08-09,No,88.0,,4.0,4.0
+a53d2350-5bd1-461c-acba-63b35532a5c2,Paul Hensley,30.0,FEMALE,Marketing,None,2021-06-08,Communication,2022-08-16,Absent,50.0,0.0,5.0,5.0
+81a05782-57ec-45f3-8af2-0a23e3c60f79,Vickie Thomas,56.0,M,Sales,None,2021-08-30,Leadership,2023-04-08,P,,90.0,2.0,2.0
+beaad00d-d4fe-4f58-a1f8-75a48a4b4559,Robert Taylor,53.0,Female,Marketing,Bachelors,2023-03-04,Cloud Computing,28/07/2025,Absent,,,4.0,4.0
+14ed228b-6577-4498-b176-8686d31e96c4,Shirley Mooney,,Female,Support,PhD,2022-01-06,Python,2024-02-13,Present,24.0,0.0,1.0,1.0
+9351a5da-1a93-43f1-8502-76c00abf1903,Timothy Ortega,23.0,M,Marketing,None,2024-11-22,Leadership,29/11/2026,Present,,,0.0,0.0
+b5b25ed1-af1b-4316-ba0e-681bbd5db7a4,Katherine Nguyen,45.0,MALE,Support,None,2021-08-31,Leadership,2023-12-11,No,,,,
+85eb4279-651c-41fd-afda-849e8c6743e1,Jenna Ray,,M,Marketing,Bachelors,2023-06-10,Cloud Computing,28/05/2025,Absent,0.0,0.0,5.0,5.0
+1b3ec681-fcea-445a-8066-98e4b013b8e4,Mathew Moore,26.0,Female,HR,None,2023-09-26,Cloud Computing,25/02/2025,Present,,80.0,5.0,5.0
+cb28f9c6-e4a7-4d11-8027-112ab75901d0,Rebecca Simpson,24.0,Male,Support,PhD,2021-11-13,Communication,16/05/2023,A,0.0,63.0,1.0,1.0
+3de8ca53-4e7a-4311-b33a-72c8b1e76ab9,Elizabeth Clark,55.0,F,Finance,None,2020-11-17,Leadership,2021-12-22,Absent,72.0,0.0,3.0,3.0
+060476dd-30e5-4e91-9082-b3b4f398d16e,Edward Clark,,M,Marketing,None,2021-02-01,Excel,2021-10-22,No,0.0,0.0,3.0,3.0
+f37590d3-73dd-4d31-80e1-0b5111285804,Tony Stanley,,FEMALE,Sales,None,2020-11-14,Excel,09/04/2022,Yes,65.0,0.0,2.0,2.0
+57d9f647-4cda-4bf4-98f9-bfb4b2a43bf4,Daniel Patterson,33.0,Male,Engineering,PhD,2020-05-09,Leadership,2023-01-25,Present,,87.0,5.0,5.0
+0ab84fe2-97e4-4173-9d63-bda6a29dc073,Vanessa Porter,,MALE,Support,PhD,2024-05-02,Project Management,2026-11-29,Absent,,83.0,5.0,5.0
+793daf5a-b35c-4601-817a-f0cb07f2422d,Janet Ryan,34.0,F,HR,Masters,2023-04-04,Communication,13/10/2024,No,28.0,0.0,,
+9ec78199-964d-4e39-b047-824a6c362d23,Tiffany Cohen,,F,HR,Masters,2021-02-05,Leadership,30/01/2023,Absent,0.0,,2.0,2.0
+7cc96b10-f677-4b06-89e6-614a61458972,Angie King,49.0,Male,HR,PhD,2020-06-30,Leadership,2022-08-08,A,,0.0,5.0,5.0
+d4a42bf0-b96a-4305-bed1-d8f8153d2c6b,Tammy Gibson,,Male,Marketing,Diploma,2021-01-17,Communication,22/03/2022,No,,0.0,0.0,0.0
+7822b39d-fbe7-40a6-9a86-1a163dcafd82,Eric Waters,23.0,F,Finance,PhD,2023-02-19,Excel,28/09/2023,P,0.0,0.0,0.0,0.0
+184ee3db-691d-4bea-9d1c-92f037702be5,Carl Huffman,36.0,M,Marketing,None,2024-02-07,Project Management,2025-08-07,Yes,86.0,,1.0,1.0
+11b0830f-71c6-49a6-819c-84c4ef7f6e3f,Julie Terry,,Male,HR,Bachelors,2020-07-03,Python,2022-08-14,Absent,46.0,,4.0,4.0
+a75908f0-8921-449f-accb-853bcd227ff2,Dawn Wilson,,MALE,Engineering,Diploma,2023-07-27,Project Management,2024-03-11,Absent,38.0,31.0,3.0,3.0
+73a44f97-e6fa-403b-ac85-ef207db8aa1c,Christopher Roberts,51.0,FEMALE,Engineering,None,2024-08-29,Communication,2026-09-26,Absent,95.0,0.0,5.0,5.0
+27a0b911-afd2-4b72-9c13-a1e76d3e4848,Angela Olson,,Female,Engineering,Diploma,2023-01-31,Leadership,20/09/2023,No,29.0,0.0,2.0,2.0
+be99919e-c696-4772-a326-55640175105a,Susan Barton,46.0,F,Sales,Diploma,2022-05-20,Cloud Computing,2023-11-09,No,87.0,21.0,3.0,3.0
+570edab2-3932-4a07-aec3-f8e04d620050,Lauren Snyder,23.0,M,Finance,Bachelors,2020-08-21,Cloud Computing,2021-04-21,Absent,0.0,21.0,0.0,0.0
+e9623c3c-f2b2-42f2-b366-51c5cef483f6,Christopher Anderson,,MALE,HR,None,2024-01-18,Leadership,21/01/2026,No,73.0,0.0,4.0,4.0
+5dde7466-7f03-46ef-b027-24eb060fc65e,Jessica Erickson,44.0,Male,Engineering,PhD,2025-01-19,Cloud Computing,24/09/2025,Present,0.0,,5.0,5.0
+6b2afb3a-1b38-41ad-8b21-cf12a284598a,Douglas Grant,,FEMALE,Finance,PhD,2023-05-26,Leadership,2023-10-14,Yes,,44.0,2.0,2.0
+4345429c-1655-4df4-90af-54cc1122e28f,Mary Wells,60.0,Male,Marketing,Diploma,2023-11-09,Python,2026-03-22,P,,29.0,2.0,2.0
+ed88bdda-e818-4064-be44-7305eb55920d,Barbara Martin,40.0,FEMALE,Sales,Diploma,2024-07-30,Project Management,2025-05-17,Present,0.0,,,
+7233bf8c-324e-40f7-aa25-e8da2fd1843d,Kimberly Grant,,MALE,Engineering,None,2025-02-12,Project Management,12/11/2025,Present,0.0,,4.0,4.0
+a800d519-ca3d-41cc-b88a-a20e111b0acd,Jason Castro,34.0,FEMALE,Marketing,PhD,2024-04-30,Excel,2026-08-07,A,97.0,,1.0,1.0
+221a5dd0-4ce3-4923-a5bb-2b7a33d3958a,Jeanette Watson,42.0,Male,Marketing,Masters,2022-03-29,Python,2022-10-02,P,65.0,0.0,1.0,1.0
+8649c4c3-1cdd-4a61-831d-45fcc9c01379,Lauren Smith,,MALE,Finance,Diploma,2024-08-09,Cloud Computing,25/03/2026,No,0.0,0.0,5.0,5.0
+dc4f57fe-3e61-4f4b-abb5-11e651ccaa40,Mr. Matthew Mendoza,24.0,Female,HR,None,2021-06-06,Leadership,04/11/2023,Yes,77.0,,,
+8d938a78-634a-41a4-ac23-9586195b2525,Kimberly Lara,57.0,F,Engineering,Masters,2022-02-01,Communication,01/11/2022,No,0.0,35.0,,
+8286b3c8-db9b-456e-a080-293caac5e8a3,Philip Woods,23.0,FEMALE,HR,None,2021-07-04,Cloud Computing,2021-11-15,No,,0.0,4.0,4.0
+a07f3385-3f3f-462f-aa2b-ec6b90efb126,Sara Ward,,FEMALE,Marketing,Diploma,2020-11-18,Cloud Computing,2021-06-22,No,0.0,,,
+0f46bb11-6809-4564-8331-21ffd3f63623,Amanda Flores,,FEMALE,Support,None,2022-03-08,Cloud Computing,2024-05-31,No,78.0,,0.0,0.0
+b9fb97b9-abf1-4574-b14e-9b45071511b6,Jeanette Obrien,,MALE,Sales,Masters,2023-08-16,Communication,2024-02-10,P,92.0,57.0,3.0,3.0
+7ab7b78f-2098-45b2-a852-7018bfa4ce84,Rachel Oneal,58.0,Female,Marketing,Bachelors,2022-03-06,Communication,2024-06-03,Absent,57.0,,3.0,3.0
+49a1f7a1-8571-4253-9956-ad9b3dc87f79,Benjamin Greene MD,48.0,FEMALE,Finance,Masters,2021-08-08,Excel,2023-04-07,No,,73.0,1.0,1.0
+c6ec9e60-e443-4474-b458-6ea415b83fa6,Martin Wood,,FEMALE,Support,Masters,2025-01-16,Cloud Computing,04/12/2026,Yes,,,,
+ce8b30ce-a671-45cd-b6e9-efdc47e4b3f3,Mrs. Sara Jacobs,30.0,M,Engineering,PhD,2023-08-11,Excel,06/07/2025,No,35.0,0.0,5.0,5.0
+82edbaad-784c-4537-b2d0-a15cdafa1c94,Peter Franco MD,,FEMALE,HR,None,2022-11-20,Project Management,08/03/2024,Absent,0.0,54.0,5.0,5.0
+996e782f-9aee-43e9-aea3-98c6ec677b25,Laura Harrison,,F,Support,Bachelors,2025-01-11,Communication,2027-04-23,Present,,74.0,5.0,5.0
+57a82eef-f9a8-443d-bd5b-6037b1012b0f,Lisa Brown,,FEMALE,HR,Bachelors,2021-01-14,Python,2023-01-02,Absent,,89.0,2.0,2.0
+49f86d9d-dfef-472a-8570-b7feef252aa8,Crystal Mcintosh,,MALE,Engineering,Bachelors,2022-07-19,Communication,2023-04-21,A,48.0,0.0,0.0,0.0
+30f6d8b6-90e6-4aa4-bd4a-49aee83f6a2a,Eric Petersen,,Male,Engineering,Bachelors,2023-01-09,Excel,2025-06-29,Yes,45.0,0.0,5.0,5.0
+438f9d83-474d-4a1a-a95a-a2daad14e5bf,Mckenzie Lopez,23.0,Male,Finance,None,2024-09-01,Leadership,2025-04-16,Yes,55.0,0.0,3.0,3.0
+4b861f69-b036-49a4-8518-c20bcd5fe3f4,Michael Marquez,42.0,F,Finance,Masters,2021-06-13,Project Management,26/03/2023,Yes,0.0,0.0,,
+7672e14b-cc4b-4c6f-b457-c8d7523664ef,Carrie Hardy,45.0,MALE,HR,PhD,2024-12-19,Leadership,2026-03-15,A,,,1.0,1.0
+991f2102-34aa-48d4-bf3d-2b89a37afc5c,Sandra White,50.0,MALE,Finance,Diploma,2022-09-29,Project Management,03/12/2023,Absent,96.0,64.0,,
+7bfdec74-6441-411e-bee1-db8e5fffe8e6,Tara Stevens,,F,Engineering,Masters,2024-06-28,Cloud Computing,2026-02-16,No,97.0,53.0,,
+1271e295-9b21-4065-8135-b44325768869,Vincent Li,,Male,Marketing,Masters,2023-03-03,Communication,2024-05-12,A,49.0,,,
+cfdea771-305d-4749-9109-2f7a00d61c63,Tanya Gibson,,F,Engineering,Diploma,2023-08-11,Cloud Computing,2024-09-10,Present,79.0,46.0,2.0,2.0
+82d8a7f5-46ef-4aaa-9237-6d229565bc2f,Christina Williams,32.0,F,Engineering,Masters,2024-12-12,Excel,06/12/2026,Absent,0.0,60.0,5.0,5.0
+9863bb20-7d53-4706-bb50-78f7a0cbfeca,Jeffrey Edwards,,Male,Marketing,Masters,2023-11-26,Excel,17/04/2025,Present,,,5.0,5.0
+c2978392-5c80-4220-9f77-765f2e5ce13a,Amy Boone,,Male,Marketing,Diploma,2021-06-15,Python,13/03/2023,Yes,25.0,,2.0,2.0
+44b6cc9e-8904-49d7-8c69-e2e81b829ae1,Brendan Paul,50.0,MALE,HR,Bachelors,2022-08-16,Excel,2023-07-03,A,88.0,,2.0,2.0
+a9093889-e42c-4e33-8a39-561f3473d9d3,Alexandra Morgan,54.0,Female,Engineering,Bachelors,2023-11-13,Communication,2026-01-09,No,,0.0,,
+3b014893-3d9d-48e3-ae07-8bdc48c08d33,Larry Walton,,FEMALE,Finance,Masters,2022-08-16,Cloud Computing,09/01/2025,Yes,0.0,0.0,,
+26d6004f-3c82-4de9-973c-92595a8258cb,Kevin Farmer,49.0,FEMALE,Marketing,Bachelors,2024-12-18,Cloud Computing,2026-12-21,Absent,0.0,,2.0,2.0
+621e1d14-d33b-45e6-b765-f8a0ce4307c4,Luis Best,50.0,F,Support,None,2021-09-22,Cloud Computing,20/11/2021,No,,,5.0,5.0
+fa8a47d6-9d37-45a6-bd8e-880c923ccd64,Rhonda Martinez,53.0,F,Sales,Masters,2021-01-15,Leadership,2022-06-18,P,,89.0,4.0,4.0
+3df5516b-3891-47f7-a809-f986d86af8f9,Christopher Thompson,33.0,MALE,HR,PhD,2022-05-11,Project Management,2022-09-04,Absent,,66.0,2.0,2.0
+3d201440-00cf-444d-9b7d-b566478b640b,Jessica Valencia,,F,Sales,Masters,2022-02-20,Project Management,25/05/2024,Present,0.0,42.0,4.0,4.0
+19b1a043-3b70-424e-b6a0-95737237e20d,Jennifer Wallace,,FEMALE,Engineering,None,2023-07-22,Cloud Computing,27/03/2025,Yes,54.0,0.0,5.0,5.0
+d9c0076f-626c-4ccc-a35b-ba6dbd39e09d,Jamie Weaver,56.0,Female,Marketing,Bachelors,2021-07-18,Python,2023-05-02,Present,0.0,0.0,0.0,0.0
+7dd43e50-ac5e-4ec3-a1be-0ed93483518e,Shaun Peterson,,FEMALE,HR,Masters,2022-07-30,Python,2025-01-06,Yes,0.0,0.0,,
+634d7549-9d9a-40e1-81ef-688b7fc0922e,Lisa Watson,,M,Finance,None,2020-06-10,Cloud Computing,2022-01-27,A,0.0,76.0,,
+aeeb5608-b2ed-403d-9641-aee399d81764,Richard Clark,,F,Finance,Diploma,2020-12-03,Communication,2022-01-02,Yes,43.0,,2.0,2.0
+3faf1b34-462e-47af-a7b4-c8975a6f9b6b,Stephanie Gray,,F,Sales,None,2022-12-09,Excel,16/10/2023,A,89.0,0.0,1.0,1.0
+ef6d8fc6-afbd-4369-8636-f35ef5ed7ddf,Maria Brown,31.0,M,Sales,None,2024-04-05,Communication,28/11/2026,A,0.0,,4.0,4.0
+5c098a5c-585d-4d17-9258-14d9638cf9e3,John Ramsey,33.0,M,Engineering,PhD,2020-06-13,Leadership,2022-06-10,No,,0.0,4.0,4.0
+59259acd-4142-400e-aff6-fa9a16e6e8fc,Jacob Osborn,58.0,Male,Support,Bachelors,2023-11-15,Communication,09/09/2025,P,89.0,,4.0,4.0
+da889b20-3819-48f2-ab25-8bdf28791fa4,Kelly Schmidt,,FEMALE,Finance,Masters,2024-05-02,Communication,02/03/2025,P,,0.0,5.0,5.0
+61a651c5-faaa-43fc-894a-8492d88d11dd,Philip Davis,,F,Marketing,Masters,2021-12-06,Cloud Computing,2022-09-14,Yes,,71.0,2.0,2.0
+8d85e013-b200-44fa-9d8e-20d617a60138,Bobby Frederick,42.0,FEMALE,HR,Diploma,2021-08-13,Communication,05/06/2022,P,69.0,93.0,,
+dbc6ac37-2442-40c6-8b0c-100c2626c97d,Seth Lopez,,FEMALE,Sales,PhD,2024-02-13,Leadership,2025-05-01,Absent,84.0,0.0,2.0,2.0
+11186c1a-8540-42b0-aaa8-2f4e4fc4e8cd,Brandon Williams,,F,Sales,PhD,2023-10-01,Leadership,04/12/2024,Yes,,,1.0,1.0
+f127f7bd-7862-4252-8c45-b36c49ca4ae6,Christopher Smith,29.0,Male,Finance,None,2021-10-05,Excel,21/06/2022,Absent,26.0,0.0,3.0,3.0
+113ff40f-13b9-4213-b668-4e199a463e70,Debra Logan,24.0,M,Marketing,Diploma,2021-12-05,Python,2022-12-11,Present,,78.0,3.0,3.0
+8dae27d7-7668-4540-8770-6e6d1fc775eb,Miranda Hernandez,28.0,MALE,Marketing,PhD,2024-10-21,Cloud Computing,2025-10-20,Absent,,87.0,2.0,2.0
+53528440-023d-45cf-8972-d38d3ee2b11c,Pamela Palmer,42.0,Male,Sales,PhD,2021-11-08,Communication,2022-08-08,No,,31.0,4.0,4.0
+0e8db9f5-e514-4d91-8127-8cf9803bd70b,Christopher Harrison,46.0,MALE,Sales,None,2020-06-10,Excel,12/09/2022,Yes,0.0,,4.0,4.0
+d5935e79-9be5-462a-9c97-9a813deed56a,Richard Ford,,F,Marketing,Masters,2021-05-23,Python,28/06/2021,Yes,,,2.0,2.0
+b6a35409-1c20-486b-b5d0-44fb2cd64d84,Mark Webster,,FEMALE,Finance,PhD,2024-02-19,Python,2026-08-21,Absent,,0.0,5.0,5.0
+002593ed-22ca-4f04-a09e-ee72fb9c7872,Joseph Burns,,MALE,Sales,Diploma,2020-11-01,Python,2021-11-11,P,,0.0,,
+6765e3bf-b9ea-4873-8a9d-b5938ce17e35,Julie Holland,29.0,MALE,Finance,PhD,2023-08-17,Leadership,25/01/2024,Absent,20.0,25.0,5.0,5.0
+93d5326f-9b03-4c39-8950-824d5a9b841d,Nicole Walton,36.0,Male,Marketing,Masters,2024-09-07,Project Management,05/01/2027,Present,,28.0,,
+80ce9afc-2ab9-4a52-a85d-9acfefd6b83c,Beth Johnson,24.0,MALE,Support,Diploma,2024-09-19,Cloud Computing,24/10/2024,No,0.0,,4.0,4.0
+d789c624-5e14-401b-bea5-9d94998c603a,Larry Gutierrez,,F,Sales,None,2020-11-21,Project Management,27/10/2021,A,,,5.0,5.0
+50860861-061c-4a48-9fa5-c8d54cad3598,Dr. Daniel Hampton,,MALE,Finance,Masters,2023-06-19,Project Management,2024-10-20,Present,,0.0,0.0,0.0
+ca5fccf2-9726-4a28-9d7d-8ff7732f4bd7,Brenda Leon,40.0,Male,Sales,Masters,2021-07-08,Communication,28/07/2023,No,89.0,37.0,3.0,3.0
+e6876705-0431-49ef-a46e-c70f3e97037d,Jeffrey Tucker,60.0,MALE,Engineering,PhD,2023-08-21,Cloud Computing,23/01/2026,Present,,21.0,2.0,2.0
+e1e3e199-5f1f-45c3-b717-a7cbb67ffa23,Carlos Moyer,53.0,Female,Support,None,2024-03-25,Excel,08/10/2025,P,0.0,,3.0,3.0
+a3d889fa-e5a4-46d8-a541-f181f29e225b,Elizabeth Brown,51.0,Female,HR,Diploma,2022-05-09,Excel,2023-07-26,P,0.0,0.0,1.0,1.0
+a747520f-e315-4b34-a2f5-63b1e8cdea8a,Angela Carter,46.0,FEMALE,Engineering,PhD,2024-03-21,Communication,22/01/2026,Yes,0.0,,2.0,2.0
+ef1920da-0a5f-4ede-ba23-c1bc8d361929,Dr. Andrea Rivera,,Male,Sales,Masters,2024-08-16,Project Management,2027-03-25,A,0.0,80.0,2.0,2.0
+02d493eb-2a7b-45de-81b8-3de2ec073a4c,Brianna Dawson MD,,MALE,Support,Masters,2022-11-27,Cloud Computing,01/03/2023,No,94.0,,2.0,2.0
+856638c8-a173-4274-b7fc-511b826f081a,Jerry Cook,58.0,MALE,Finance,Masters,2020-06-22,Leadership,24/01/2021,No,,94.0,5.0,5.0
+48f0fcb2-5398-4e7f-9f2c-7e7f58d0202b,Robert Richards,57.0,Female,Marketing,PhD,2024-03-07,Project Management,21/01/2026,P,0.0,89.0,5.0,5.0
+c37de35e-6ef3-469b-bccd-e71ec22c9037,Mary Kelley,,Male,Finance,Diploma,2023-12-30,Project Management,2024-12-21,No,83.0,,3.0,3.0
+f7d75510-ffa7-4ae1-9139-dd0f8185ca84,Roger Rivera,,M,HR,None,2025-01-30,Excel,22/12/2025,Yes,34.0,0.0,1.0,1.0
+44610c94-a29c-464f-b8f8-9cbabb404bc8,Philip Gonzalez,50.0,Female,Sales,Masters,2024-01-03,Excel,2026-05-26,Present,40.0,62.0,5.0,5.0
+0ab9694f-3861-4ce9-a4f7-5c1046983234,Adam Anderson,,MALE,Engineering,Masters,2023-07-13,Excel,2025-06-24,No,61.0,0.0,4.0,4.0
+ccaa2cd3-6ae7-4db3-b193-fb1c91bd4f30,Brittany Payne,30.0,Male,Support,Bachelors,2023-10-28,Communication,2026-07-22,P,0.0,0.0,2.0,2.0
+00252855-35ea-4de0-aa83-a56bfd8c93df,Carla Johnson DDS,,FEMALE,Support,Diploma,2022-06-08,Cloud Computing,16/01/2023,Yes,0.0,,1.0,1.0
+fb2fbe8c-ea46-4911-b7e2-f124381692f5,Michael Wilson,,Female,Marketing,None,2020-10-29,Excel,29/10/2022,Present,25.0,,,
+9de67f2c-57bd-4ee6-a63f-6d3acfcae6b9,Jacqueline Harrison,,Male,Finance,Bachelors,2024-03-04,Python,06/02/2025,Absent,0.0,93.0,4.0,4.0
+e3a0aa3c-8c44-460f-8efe-59c393b91ea1,Natalie Welch,58.0,MALE,Sales,PhD,2022-06-17,Project Management,2022-08-09,Present,,,,
+ae94c0b5-aaf1-4938-a7d5-4ab086d66946,Leah Fleming,54.0,Male,Sales,Masters,2023-01-16,Leadership,2023-11-25,Yes,,30.0,,
+6f125321-05b0-4ce0-909f-5fc439e82ba5,Mr. Jordan Porter,60.0,Female,Finance,Bachelors,2022-05-09,Project Management,2024-05-11,Absent,39.0,46.0,1.0,1.0
+4ce33ed4-9779-4ead-b3bc-daee0d211dc4,Deanna Holloway,,F,Support,Masters,2023-09-16,Leadership,2024-02-13,Present,0.0,31.0,,
+380d4643-c891-49bc-9830-60dc393f8079,Danielle Stein,30.0,Male,Engineering,None,2024-12-26,Project Management,20/05/2025,Present,77.0,0.0,1.0,1.0
+5ced1a62-817e-4840-8ace-3a10b2879bdd,James Knight,50.0,Female,Sales,Masters,2021-02-07,Leadership,2023-04-08,P,93.0,,0.0,0.0
+9f80bd12-2996-46d2-be14-196514c4e22c,Dr. Austin Edwards,,MALE,Support,PhD,2022-10-23,Cloud Computing,02/11/2023,Present,,42.0,1.0,1.0
+6ea28b15-d0a7-43b9-a7ea-ae636f850440,John Johnson,,MALE,Sales,Masters,2020-09-30,Python,30/01/2021,Present,0.0,61.0,0.0,0.0
+7c8c9267-3c55-4d3a-8ed9-92e01e4415f4,Katherine Mullen,30.0,FEMALE,Marketing,PhD,2023-06-01,Python,2023-12-01,No,68.0,20.0,4.0,4.0
+3c304193-d975-4f32-ae1b-670f67c2e684,Leroy Martin,44.0,MALE,Sales,Diploma,2022-01-31,Leadership,2024-03-03,Present,,35.0,5.0,5.0
+60791657-97ec-447d-93bf-a31199155bef,Ashlee Miller,,FEMALE,HR,Diploma,2021-08-14,Python,22/06/2022,Absent,47.0,53.0,3.0,3.0
+7e1e35dd-6db4-481c-8a55-b7c426696e53,Taylor Leon,23.0,F,Engineering,Diploma,2020-05-03,Leadership,2022-11-28,P,98.0,81.0,2.0,2.0
+78a118df-0088-4a76-8d25-c8d0fde90c2d,Casey Terrell,32.0,F,Support,Bachelors,2021-07-22,Excel,14/03/2023,A,95.0,72.0,1.0,1.0
+d3a65f0c-eb07-4653-af87-8674adc1e2f7,Mary Miller,55.0,M,HR,PhD,2023-05-21,Communication,31/10/2023,No,0.0,20.0,3.0,3.0
+1997b851-5484-4b4d-8f4c-ea72e493c415,Kevin Mcneil,24.0,Male,Engineering,Bachelors,2021-09-02,Cloud Computing,2023-09-20,P,,0.0,3.0,3.0
+ca1f783a-3137-4ca1-ac2c-4f79d24938d2,James Holder,41.0,M,Finance,None,2020-04-07,Project Management,12/08/2021,P,,74.0,0.0,0.0
+9d8d2752-4a9b-4dc7-97e7-1b55446fc213,Andrea Salazar,28.0,M,Finance,Diploma,2021-03-07,Leadership,30/11/2023,Present,0.0,27.0,4.0,4.0
+da36967d-9b2d-4eee-b65b-b06910a012b2,Mason Graves,24.0,Male,Support,Diploma,2021-06-11,Cloud Computing,2023-10-05,Absent,,,1.0,1.0
+b064672a-394a-4d31-9b42-82387f151663,James Morgan,,FEMALE,Engineering,None,2021-01-30,Leadership,2023-04-21,Yes,0.0,,4.0,4.0
+73d79809-cf6d-4802-b900-4406b1e58a88,Jordan Carter,,MALE,Engineering,Diploma,2021-08-25,Leadership,11/01/2022,Absent,85.0,,1.0,1.0
+3c31285d-ee35-4ed7-8e95-50866b000e3b,Sarah Wade,,Male,Engineering,PhD,2023-09-05,Python,17/01/2024,Yes,,58.0,4.0,4.0
+b4072f12-2612-42e0-b616-e3a23d9d49d4,Bobby Matthews,34.0,Male,Sales,Diploma,2022-01-21,Communication,20/05/2024,P,0.0,,1.0,1.0
+72ec6f04-ff8b-4891-9b90-8e3f25ce5ac5,Nathan Campbell,,Male,Marketing,Bachelors,2021-04-07,Cloud Computing,2022-07-17,Present,62.0,0.0,5.0,5.0
+3d3fc0e0-944b-4f07-91e8-44c9b00ecc67,Jessica Martinez,,F,Finance,Diploma,2023-02-04,Communication,21/04/2024,Present,0.0,0.0,0.0,0.0
+effbd197-4d73-4782-9671-97ecbab8ad70,Stephanie Douglas,52.0,Male,Engineering,PhD,2024-12-17,Excel,2025-09-19,A,74.0,,,
+58578862-3105-45b6-a40b-1814281269bc,Andre Farrell,26.0,Male,Finance,None,2023-05-13,Excel,2025-03-14,No,79.0,52.0,0.0,0.0
+7f63d2b6-d001-4b99-afc2-8f2063ba24b1,Vincent Bowers,59.0,FEMALE,Sales,Bachelors,2022-05-30,Project Management,2022-07-19,Yes,0.0,0.0,3.0,3.0
+53b04133-d0d7-4956-a205-f2947319c9c0,Michelle Barrett,,Female,Engineering,PhD,2023-01-07,Cloud Computing,09/02/2023,Yes,84.0,,,
+01e780a0-2f18-4049-b329-b6a4de3e0557,Carly King,,FEMALE,Sales,Diploma,2025-01-31,Project Management,2026-12-24,Absent,28.0,0.0,0.0,0.0
+55a57ad7-fd05-4d92-a022-24327ca51928,Stephen Allen,,FEMALE,Sales,PhD,2021-01-21,Leadership,2022-05-15,A,68.0,39.0,0.0,0.0
+33c7024d-e845-43c7-8721-fbe9f5020e2a,Jennifer Townsend,,FEMALE,HR,Masters,2024-06-24,Communication,02/12/2025,Absent,,43.0,1.0,1.0
+9d689315-ccda-48e2-97cc-6c2ab61c07e8,Aaron Webb,,FEMALE,Sales,Bachelors,2023-05-02,Cloud Computing,2025-06-24,A,21.0,53.0,5.0,5.0
+551fe4f7-25d6-4a97-b608-24da33a37a74,Shannon Manning,30.0,Female,Finance,Bachelors,2024-07-11,Cloud Computing,31/01/2027,A,89.0,33.0,,
+875b2fe1-e3bb-4eb7-a404-45a187e7099b,Lisa Salazar MD,,Male,Sales,Bachelors,2022-08-04,Communication,28/10/2023,P,0.0,0.0,2.0,2.0
+974a25a0-b817-48f8-b6d2-0b487477c444,Kimberly Campos,,Female,Engineering,Bachelors,2020-08-07,Excel,2022-02-04,Present,0.0,0.0,0.0,0.0
+68473103-0496-422f-9525-a0d148d40d84,Traci Brown,23.0,FEMALE,Finance,PhD,2020-08-23,Python,2021-07-15,Yes,37.0,,5.0,5.0
+e265edda-ea02-4c7d-b6aa-c248edd61dd7,Crystal Edwards,55.0,FEMALE,Finance,None,2023-10-25,Python,2026-07-20,A,0.0,42.0,3.0,3.0
+e43a3562-4cdf-4063-83c3-698873037257,Amanda Perez,,F,HR,Diploma,2022-02-28,Project Management,08/07/2024,Present,43.0,0.0,5.0,5.0
+0118d2a5-43ef-4542-a512-6fe3410f71df,Amanda Crane,27.0,Female,Sales,Diploma,2025-03-12,Project Management,07/07/2025,Yes,54.0,0.0,4.0,4.0
+6e152f71-0093-4ba0-a5a0-7e433d2dca86,Billy Pratt,,MALE,Finance,None,2024-02-01,Project Management,2025-05-09,A,,0.0,5.0,5.0
+f09e64ef-8bea-4f03-a645-3b43d07e22a1,Jonathan Cisneros,38.0,FEMALE,Finance,Bachelors,2024-10-25,Python,22/11/2025,A,,0.0,1.0,1.0
+0d1b293b-a9ce-4593-99a9-a788c4d6afc4,Kevin Ferguson MD,57.0,M,Support,Diploma,2022-11-14,Python,25/08/2023,Present,0.0,70.0,3.0,3.0
+fd414341-ecf6-4826-bc1e-0ac4daf09b92,Nicholas Thompson,,FEMALE,Finance,Diploma,2021-04-02,Cloud Computing,2022-02-25,Absent,0.0,74.0,5.0,5.0
+1465b466-6df3-4e7a-af61-aae103a35aed,David Castillo,31.0,F,Engineering,Masters,2021-12-20,Cloud Computing,18/10/2022,P,,38.0,3.0,3.0
+bb23e712-bfd9-4996-ae5b-6379213fa67b,Matthew Powers,,M,Sales,None,2021-02-10,Communication,23/10/2023,Present,0.0,,0.0,0.0
+343f75d0-6d2b-499d-a7ec-a309296fc0d7,Heather Hubbard,54.0,FEMALE,Engineering,Diploma,2023-10-20,Communication,19/05/2025,P,,0.0,,
+b109e971-8ad5-4402-bf75-659e4f3ae530,Andrea Mcgrath,49.0,FEMALE,Engineering,Bachelors,2022-09-21,Python,2024-01-19,Present,47.0,0.0,1.0,1.0
+f41e2e7c-00da-4e3f-afe5-f873da60314c,Richard Bauer,60.0,Female,Support,Diploma,2021-04-19,Leadership,28/01/2022,Absent,,72.0,0.0,0.0
+c3d08178-1d05-4dbf-add1-0250f713a7f8,Bryan Miranda,,M,Sales,None,2022-07-25,Leadership,08/08/2023,A,0.0,22.0,2.0,2.0
+7b32aadb-1f41-4851-82c2-73a9771db808,Diana Miller,,Female,HR,Bachelors,2024-10-23,Cloud Computing,2025-11-25,Present,,24.0,3.0,3.0
+ce7d765b-634c-45ea-ad28-746a5a6df285,Tony Swanson,,F,Engineering,Diploma,2021-01-17,Project Management,30/01/2023,A,0.0,0.0,1.0,1.0
+2553ff33-298b-4a25-903d-24cffdfbc585,Joseph Norris,56.0,FEMALE,Sales,Bachelors,2020-12-31,Excel,2021-10-21,A,90.0,,5.0,5.0
+c1df5a89-ecba-4cb1-bdb9-9dc17a8b737a,Amanda Castaneda,55.0,Female,HR,None,2021-12-01,Communication,22/03/2022,A,,0.0,4.0,4.0
+c69ee73d-832d-40cc-8ea9-93a01a8385f9,Christy Lee,,MALE,Sales,None,2023-12-11,Excel,2025-03-17,P,,,5.0,5.0
+b285d65b-bf6b-4493-961b-53afc601b22f,Willie Perez,,FEMALE,HR,PhD,2024-05-17,Project Management,2026-05-22,Present,34.0,98.0,1.0,1.0
+63247e63-7535-4dc2-8555-b4b58eb58d5c,Jacob Yoder,,M,Marketing,Diploma,2024-06-20,Project Management,2026-07-29,Present,64.0,,2.0,2.0
+922913f1-00f3-4866-b026-0bb173f1df26,William Peck,25.0,FEMALE,Sales,None,2020-07-29,Excel,16/11/2020,Absent,,,,
+01e7719c-d667-4724-bfee-7aef6a606a4b,Shannon Miller,,M,HR,None,2023-02-23,Leadership,2025-03-20,A,82.0,26.0,1.0,1.0
+c420c72d-8fb8-4736-8540-6adb983ae235,Chad Snyder,41.0,M,Sales,None,2021-01-30,Python,2022-10-30,Absent,,,5.0,5.0
+1ea822bb-5738-4567-82f7-2b1fb9d4d2d3,Amanda Conley,,F,Finance,Diploma,2024-12-15,Leadership,2026-12-13,P,,40.0,0.0,0.0
+d27960a4-897e-4ce5-8fe3-0b6d3efc5196,Andrew Rodriguez,,M,Finance,Diploma,2022-12-18,Python,2025-05-05,Yes,0.0,,3.0,3.0
+230d27b8-ff97-488e-b6cd-d0d1aa31e22b,Robyn Kidd,34.0,F,Marketing,Masters,2022-10-26,Python,19/01/2025,P,,0.0,2.0,2.0
+fb372648-697a-496d-9988-5d2a570662ce,Joseph Jones,40.0,Male,Finance,PhD,2022-08-27,Cloud Computing,2023-04-02,Yes,64.0,26.0,3.0,3.0
+05d1c7ad-6828-40b7-8cc1-032dbd16c038,Dustin Lopez,32.0,Male,Marketing,Masters,2022-11-21,Python,2024-12-01,Absent,,0.0,4.0,4.0
+8663686e-ee70-4803-a32e-444cde97df42,Sarah Cox,,FEMALE,Engineering,Diploma,2021-01-21,Leadership,24/12/2022,Present,30.0,0.0,4.0,4.0
+5572f1b3-c49b-4178-83a2-99e4f981f289,Caleb Ray,,FEMALE,Sales,Diploma,2021-01-27,Leadership,08/06/2021,Present,88.0,,0.0,0.0
+0c906c01-3b44-4abc-942e-c8b0cce52711,Ryan Pierce,,FEMALE,Marketing,Masters,2025-03-20,Leadership,2026-12-12,Absent,0.0,,4.0,4.0
+cfc3845b-1464-4da8-9bf7-fa26e9b89caf,Taylor Berg,,Female,Support,Diploma,2024-11-13,Python,2027-07-24,Absent,74.0,0.0,1.0,1.0
+a86c1d88-8d67-482c-a804-8c914c15b7ec,Steven Goodwin,,Female,Support,Diploma,2024-11-28,Python,2025-04-20,Absent,,0.0,1.0,1.0
+6b905645-e0c2-442e-ab38-fcdf4fd82aba,Gary Figueroa,,FEMALE,HR,Masters,2020-08-11,Python,2021-10-10,P,85.0,59.0,5.0,5.0
+f1d799af-f2f0-4a8c-9825-068b11997084,Ashley Woods,,M,HR,PhD,2021-06-06,Leadership,2021-11-09,Present,,0.0,,
+8abe2e04-67ee-4fe9-9c72-e5cacf3b6e13,Christopher Ayers,43.0,Female,Engineering,Bachelors,2024-04-03,Communication,14/05/2025,Absent,0.0,,4.0,4.0
+2f64a0ad-2b1a-406e-9585-244514fe88bc,Laura Delacruz,53.0,F,Finance,Diploma,2022-05-16,Communication,2024-08-11,Absent,0.0,,0.0,0.0
+b54a126d-ba8f-4592-b7ea-3bed78669ba9,Oscar Short,,MALE,Marketing,Bachelors,2020-05-29,Excel,18/12/2020,P,0.0,89.0,0.0,0.0
+015a749b-686c-427d-bd59-7efd3d1401de,Sheri Ray,46.0,Male,HR,PhD,2024-08-07,Project Management,2026-12-05,No,44.0,0.0,5.0,5.0
+0f32fb39-3ce7-4807-8c2d-23a97e1e7e84,Louis Price,56.0,M,Sales,Masters,2021-11-10,Python,2024-02-29,Absent,59.0,0.0,3.0,3.0
+678ea95f-22de-412c-9821-f0774aeeccef,Jennifer Lane,54.0,MALE,Finance,Diploma,2024-10-02,Excel,2027-01-16,Yes,0.0,,1.0,1.0
+e3bab56c-db2b-4d4f-9dcb-65be3fc0796e,Jason Wong,,MALE,HR,PhD,2022-07-22,Python,2023-08-09,A,0.0,0.0,3.0,3.0
+67d1cb6f-1d57-40cd-ba52-23bb005f3337,Nicole Vazquez,52.0,F,Support,None,2024-07-01,Leadership,17/01/2027,Present,61.0,96.0,1.0,1.0
+948841cb-a40c-40ee-907f-8c452f3214c2,Michael Anderson,,FEMALE,Support,Diploma,2025-03-03,Cloud Computing,2025-08-30,Yes,,0.0,5.0,5.0
+beb07722-3fff-4c75-bf86-6deb3b195b02,Benjamin Foster,60.0,M,HR,Diploma,2020-08-09,Cloud Computing,2022-02-16,No,,,0.0,0.0
+9317545d-1cd4-4dff-b59b-39fa46cbeb60,Daniel Rodriguez,,Female,Engineering,Bachelors,2022-02-13,Project Management,21/07/2024,Yes,0.0,0.0,2.0,2.0
+34d244cd-5763-4be7-9b61-508e69d1b037,Charles Wong,35.0,FEMALE,Finance,Masters,2020-05-19,Cloud Computing,03/03/2021,Absent,0.0,33.0,2.0,2.0
+fa2d0e68-533a-43b3-9e66-d8fade69c076,Matthew Becker,,Male,Finance,Masters,2021-04-24,Cloud Computing,2021-09-16,Absent,0.0,85.0,,
+a292bd6c-db95-4988-b398-b604a9c2371e,James Lopez,32.0,Male,Engineering,Bachelors,2024-01-14,Leadership,2026-02-10,Absent,49.0,20.0,2.0,2.0
+461e24a3-f2fb-494a-bd29-6f9c7d6af5c4,David Hamilton,,F,Engineering,Bachelors,2022-05-01,Leadership,2022-08-03,Yes,0.0,0.0,4.0,4.0
+d56cb5e4-e391-4adc-8809-60830fb83639,Jimmy Roberts,22.0,M,Marketing,PhD,2021-08-12,Excel,2023-01-16,Present,56.0,0.0,1.0,1.0
+2404c66d-4986-4729-a19d-4f0a1c444135,Christopher Hammond,37.0,FEMALE,Sales,Bachelors,2023-10-13,Excel,2024-09-03,P,0.0,37.0,,
+10b72ccf-8793-4d69-833b-f03ec923527f,Hannah Newman,,MALE,Engineering,Bachelors,2024-04-16,Leadership,03/04/2025,Absent,,71.0,0.0,0.0
+468ebdf8-dd25-4141-b03d-01eb336fc177,Tracey Nelson,,MALE,Sales,Diploma,2024-02-02,Excel,06/03/2024,Present,62.0,,0.0,0.0
+222c2fd2-e7a1-46d2-b029-3dbb3876fdaa,David Tucker,,M,Engineering,Bachelors,2024-05-08,Leadership,2025-08-24,No,,58.0,,
+827b8c89-8d3f-433b-b2d1-e6c1fc8ad016,Brianna Adams,,Male,Finance,None,2022-02-16,Python,12/03/2024,Present,0.0,,0.0,0.0
+194d397d-b09d-4d19-813b-4e2085a3a473,Matthew Lloyd,55.0,M,Sales,Masters,2023-06-03,Excel,2025-08-31,A,90.0,0.0,1.0,1.0
+f5080d9c-9131-4064-901e-a7fb05325a3e,Daisy Campbell,,Female,Finance,None,2023-09-13,Excel,05/03/2024,Present,87.0,,,
+ee6e5ef6-ab1f-4666-b52a-72c4c1fb0bf5,Lisa Lloyd,58.0,F,Sales,Diploma,2022-05-05,Cloud Computing,2023-12-27,Present,66.0,0.0,,
+7f3dcbf9-a0a5-4b74-aed5-a161ebfce2d6,April Benjamin,,F,Engineering,None,2024-10-09,Communication,21/01/2026,Absent,22.0,,4.0,4.0
+8dca94bd-c50a-4d22-b08c-19fac4bbf711,Glenn Castillo,51.0,F,Engineering,PhD,2023-01-19,Leadership,2025-08-08,Yes,0.0,67.0,3.0,3.0
+b88ba445-4e6c-4bae-bb8c-ea351bc47161,Danielle Ballard,,FEMALE,HR,Bachelors,2021-11-10,Excel,30/07/2024,A,,0.0,4.0,4.0
+ab7a63e3-66e6-4f92-a0fc-1ea83310401b,Lindsay Elliott,46.0,Male,Engineering,None,2025-04-02,Project Management,06/06/2027,No,90.0,55.0,3.0,3.0
+323eab00-9fe7-4bb8-b8cb-74696142894a,Erika Hodge,,M,Marketing,Masters,2021-01-30,Communication,2022-11-14,Yes,,0.0,4.0,4.0
+88510075-3dbd-410b-8249-024178ac9c5e,Darren Bernard,,M,Marketing,Bachelors,2023-04-20,Cloud Computing,04/08/2023,P,,82.0,0.0,0.0
+90ae41e4-1a6a-4169-9386-5151b0921979,Crystal Delacruz,30.0,FEMALE,Marketing,Masters,2020-05-28,Python,19/05/2021,A,0.0,93.0,5.0,5.0
+fef6f9d7-88f4-4eed-a990-6abf7792be47,Ashley Fritz,47.0,MALE,HR,Diploma,2022-01-03,Python,2024-09-19,Present,78.0,47.0,1.0,1.0
+3881e713-22be-40bc-b7eb-178670f7cd82,Colleen Davis,33.0,FEMALE,Sales,PhD,2024-12-06,Project Management,2025-10-17,P,20.0,,4.0,4.0
+68bd47aa-9666-400e-ab0f-61a402fea0e2,Douglas Chapman,55.0,Female,Support,PhD,2022-06-12,Project Management,2023-12-26,A,50.0,,0.0,0.0
+573f9ac9-17ee-4fc7-b586-8ed1e4a2618e,Lisa Davis,45.0,F,Engineering,Bachelors,2024-02-03,Python,17/05/2024,Yes,27.0,0.0,5.0,5.0
+bf153b90-8971-41bb-992b-ba0eca857fe4,Paige Williams,,Male,Support,Bachelors,2022-05-24,Python,2023-07-08,Absent,74.0,0.0,5.0,5.0
+c1e0248e-a844-4e0b-aac2-fc1e8a83e68d,Abigail Wilkinson,50.0,FEMALE,Marketing,Masters,2022-08-15,Leadership,20/09/2023,Present,79.0,0.0,0.0,0.0
+54aba577-e331-4ee6-a96c-5060cbb474a3,Jonathan Perez,,MALE,Support,Bachelors,2022-02-08,Cloud Computing,2023-01-25,Yes,0.0,0.0,1.0,1.0
+b245e656-6d56-4cd8-8006-16d1471560e4,Howard Chavez,,F,Sales,None,2025-02-28,Cloud Computing,24/01/2026,Absent,,0.0,,
+fb0f79e5-18f6-4e0c-bd28-98b006e2e080,Alison Hill,,MALE,Engineering,None,2021-08-30,Project Management,19/06/2022,Yes,,,4.0,4.0
+bccb296d-3bf5-400a-a82e-25e3d2832c0d,Christopher Wilcox,26.0,M,HR,Bachelors,2021-09-23,Communication,2024-01-31,P,0.0,,2.0,2.0
+0fafba84-75fa-49f2-8b85-1e2621f3eb6f,Courtney Taylor,,Female,Support,PhD,2021-12-12,Excel,2022-08-26,P,87.0,63.0,1.0,1.0
+344410e5-b95c-4eda-a988-a44db9ca5928,Peter Juarez,,Male,Support,Diploma,2021-04-08,Excel,2022-07-12,Absent,0.0,0.0,4.0,4.0
+d568192f-1032-4480-b01b-56582767ec01,Kara Smith,54.0,FEMALE,HR,Masters,2023-12-09,Python,2024-09-21,Absent,0.0,,5.0,5.0
+af376fbe-2cd3-4317-8874-a1c508fe3f40,Jennifer Miller,,Male,Finance,Diploma,2023-06-14,Python,04/02/2026,No,,,1.0,1.0
+6a40e733-275b-4c2c-92be-16cb36378db3,Dave Hess,,Female,Marketing,None,2021-08-09,Communication,04/06/2023,No,0.0,0.0,1.0,1.0
+8e144e1f-b6b6-415c-852f-e1b1b6b4d8e7,Kiara Santana,42.0,Male,Finance,PhD,2022-07-12,Project Management,27/03/2025,Present,96.0,49.0,0.0,0.0
+73fb6c56-e2ea-4644-947e-1c39fc0221b4,Zachary Patel,,Male,Sales,Bachelors,2025-03-31,Communication,2025-07-24,P,0.0,0.0,4.0,4.0
+6cc55999-72f5-40bd-b420-50e83730bf79,Russell Wallace,33.0,MALE,Engineering,Diploma,2025-02-02,Project Management,06/04/2026,Yes,67.0,,,
+ed1c4d70-36d2-4823-9b35-4089429e5882,Patricia Smith,33.0,Male,Support,Masters,2022-12-13,Communication,2024-12-27,A,0.0,65.0,,
+89131a4a-c5c6-4d8a-a022-7afc4ba82162,Brandon Perkins,25.0,M,Engineering,PhD,2023-09-19,Communication,29/10/2023,No,,,4.0,4.0
+bcac4426-3ad0-490f-8dc5-5340e69cdb5b,Tiffany Wilson,43.0,F,HR,Bachelors,2021-05-05,Excel,2022-08-28,Present,0.0,44.0,5.0,5.0
+94a64978-a64f-4efb-a8ca-0bd26504f7a9,Ruth Brown,,MALE,Engineering,Masters,2024-05-05,Project Management,2025-09-21,Present,26.0,,1.0,1.0
+cc87858c-3b57-45df-a034-5e6889fd911f,Terry Romero,22.0,MALE,Sales,Bachelors,2021-10-17,Leadership,2023-10-10,P,64.0,24.0,3.0,3.0
+89fc17cf-3dd2-4956-92fc-ff49e2696a73,Gina Medina,40.0,Male,Sales,PhD,2024-11-21,Project Management,04/03/2026,Yes,32.0,0.0,5.0,5.0
+22dcb06c-8c85-428e-9502-ec6742da1572,Amanda Henry,,Female,HR,None,2022-06-22,Python,2024-04-13,Absent,,69.0,5.0,5.0
+3873335f-ca3f-48a4-8d88-e44e23c43184,Ann Hernandez,58.0,MALE,Engineering,Diploma,2022-01-04,Cloud Computing,09/03/2022,A,90.0,0.0,4.0,4.0
+a244496a-b88e-43d1-ac10-36cd1249944e,Nancy Morris,38.0,MALE,Marketing,Diploma,2024-01-11,Cloud Computing,2025-03-12,P,0.0,0.0,4.0,4.0
+d8e3cb62-fe24-4cd4-86bc-55dbae6c3a9b,Andrew Smith,,Female,Engineering,Bachelors,2021-08-31,Excel,2022-04-16,A,,,3.0,3.0
+0632718e-b0dd-4e62-aa35-b738c67a56e3,Miranda Miller,44.0,Male,Finance,Masters,2020-06-30,Excel,30/06/2021,P,52.0,70.0,2.0,2.0
+a3150039-ced7-430d-be00-b0cbc1ef5aef,Angela Lee,38.0,FEMALE,Engineering,Masters,2021-09-01,Project Management,20/07/2022,Yes,39.0,,5.0,5.0
+89fdf534-e4f0-48a1-889d-43e77060ee63,Amy Mccoy,22.0,FEMALE,Engineering,Diploma,2021-02-06,Project Management,2022-02-09,Present,65.0,0.0,1.0,1.0
+5a744822-fd07-4913-a657-abb6b81f2807,Michael Norton,,Female,Engineering,Masters,2020-06-26,Leadership,2022-09-16,Present,,76.0,5.0,5.0
+4ac98d23-c0a5-4337-8a34-61e7a54680ad,Bradley Hess,,F,HR,None,2024-07-20,Cloud Computing,10/11/2026,Yes,,92.0,1.0,1.0
+7dbb4c18-4984-40ab-ba0e-25398a3e50b5,Patricia Hernandez,,M,Marketing,Diploma,2025-03-02,Leadership,29/06/2025,Absent,,42.0,,
+0adea5db-c9ce-4cdb-9f24-c788805cc2d7,John Hunter,,FEMALE,Marketing,Bachelors,2022-09-21,Python,2025-04-13,A,79.0,96.0,4.0,4.0
+0c81a3cc-9965-4f48-8b4d-2de206b868bd,Dean Sanchez,,Female,Marketing,None,2024-03-28,Leadership,2024-04-28,Absent,,41.0,1.0,1.0
+5c89158a-16b4-4b0c-976b-d523a2fcab34,Denise Hernandez,32.0,M,Sales,Bachelors,2023-03-15,Cloud Computing,2025-02-04,Yes,0.0,0.0,,
+69b88f33-3c5d-415e-9f79-260c9020dde2,Derrick Perez,28.0,FEMALE,Finance,Masters,2023-06-24,Cloud Computing,2024-08-01,P,0.0,90.0,4.0,4.0
+5dbffb1f-0c8b-4089-a94c-86125e9be593,Christopher Ray,,MALE,Finance,Masters,2023-01-01,Project Management,2025-02-16,No,,0.0,3.0,3.0
+a0011ba6-0a14-4b9f-b6db-95fb8d737aa2,Jason Allen,43.0,F,Sales,None,2020-08-15,Communication,2020-10-29,Present,,97.0,0.0,0.0
+c95995ec-5ae6-44b7-9e3b-37e675c41c37,Dr. Paula Benton DVM,,M,HR,Bachelors,2025-01-05,Project Management,2026-07-09,Present,85.0,0.0,4.0,4.0
+0f8ace7c-1084-461b-a032-3ec52f4cda5e,Anthony Martinez,25.0,FEMALE,Marketing,None,2024-09-26,Python,07/12/2026,Yes,0.0,49.0,1.0,1.0
+1fcfcb8e-8750-4e7b-95bb-e3a440b87dc3,Suzanne Rodgers,38.0,M,HR,Diploma,2023-08-06,Python,2025-07-14,No,0.0,0.0,1.0,1.0
+f64f98b4-4237-45ff-bbb8-90dea025e80b,Cassandra Fry,,M,Sales,None,2022-06-28,Project Management,2024-12-24,Absent,0.0,0.0,1.0,1.0
+8402837a-3fbf-4804-ae4f-72dce1656eaf,Nathan Lopez,24.0,Male,HR,Masters,2024-07-03,Communication,2026-05-06,Absent,0.0,,2.0,2.0
+27a4f74d-3e02-49f6-848e-811766534f79,Brenda Ross,28.0,M,Support,Masters,2020-10-23,Leadership,2021-11-24,Absent,84.0,,2.0,2.0
+92489bee-858f-4b60-abbe-35eab9da7480,Mary Parker,47.0,Male,Support,Bachelors,2022-10-11,Python,05/05/2025,No,96.0,,3.0,3.0
+e1236175-3e22-4676-854d-35aa28998ac0,Mitchell Richardson,28.0,Female,Engineering,Bachelors,2022-10-18,Project Management,01/03/2024,Absent,96.0,0.0,5.0,5.0
+4f40f6ed-1aa5-44e2-b6c0-77aa6e4ebe99,Darlene Murray,,M,Finance,None,2024-10-04,Leadership,2027-04-26,Absent,0.0,87.0,,
+f209329d-4aa7-44e2-a3e3-1ac9d27102f1,Mrs. Heather Christensen,38.0,MALE,Sales,PhD,2020-08-11,Leadership,2021-01-10,Yes,,40.0,1.0,1.0
+2fc44d65-0ad5-4e56-9f9b-87b0ddc418d2,Daryl Lowe,34.0,F,Finance,Bachelors,2022-09-26,Cloud Computing,29/05/2024,Present,,,0.0,0.0
+4b38a57b-2fdc-4da3-aee5-1b7a8b20cc44,Sean Daniel,51.0,F,Marketing,Diploma,2023-02-27,Communication,06/08/2025,Present,0.0,,4.0,4.0
+6943dab7-4ec7-4bdc-a094-d74c7846e9c5,Sharon Palmer,,M,Support,Bachelors,2020-12-25,Excel,29/01/2022,A,70.0,0.0,5.0,5.0
+05c208e0-eb05-4b48-aa90-f6488155db84,Monica Richardson,,M,Engineering,PhD,2024-10-10,Project Management,06/01/2027,Yes,68.0,78.0,2.0,2.0
+2daf33de-84cc-48eb-803f-8f00b28935e7,Desiree Swanson,,Male,Engineering,PhD,2024-12-29,Communication,2025-06-09,P,,0.0,4.0,4.0
+b27b14fd-d4ed-49d8-9c2f-33817736fb28,Michael Johnson,,MALE,Marketing,Bachelors,2021-05-29,Project Management,2022-06-14,Yes,0.0,0.0,5.0,5.0
+3d231e3b-4a97-4245-9a5b-f081fe3d81d8,Daniel Booker,,Female,Support,Masters,2020-10-02,Project Management,23/11/2022,P,0.0,0.0,5.0,5.0
+41f9bf45-86b5-4d45-941a-409331bf8a3c,Sophia Martinez,,Female,Marketing,PhD,2023-04-15,Excel,13/04/2025,Absent,0.0,,2.0,2.0
+1a282f20-ce52-4b86-a433-d80dce8437fc,Michael Gibson,38.0,Male,Support,Masters,2022-02-25,Leadership,22/09/2023,Present,0.0,,2.0,2.0
+1faff7a0-c991-484d-a0eb-b3c7b8a3f3fa,Lisa Gonzalez,,F,Support,Diploma,2024-03-26,Project Management,14/06/2025,Yes,,,,
+7e19cad7-32af-4b95-adc4-b86da180ee9b,Jared Morris,,Female,HR,Masters,2021-01-16,Excel,2022-04-02,P,,,,
+dad50f42-681a-435f-a1e3-d66c0a09bdc1,Billy Miller,,Male,Finance,Masters,2022-03-09,Python,2023-05-08,Absent,30.0,,5.0,5.0
+53d32d79-f632-490a-8226-64f47f258778,Anna Yu DVM,,FEMALE,HR,None,2024-07-23,Leadership,04/09/2025,P,,96.0,,
+e44e923a-8643-4ed7-9d30-24fcb864aaf7,Thomas Clark,,F,HR,Diploma,2024-12-18,Communication,2025-12-13,Present,50.0,,3.0,3.0
+960a035c-0786-4459-8f89-321cff4ca29e,Richard Rodriguez,59.0,M,Marketing,Diploma,2020-06-28,Leadership,14/12/2020,P,0.0,0.0,0.0,0.0
+eca0a912-861c-43de-98e1-e160d66cbda1,Michael Cook,,Male,HR,PhD,2021-05-09,Python,2022-12-17,Absent,,,2.0,2.0
+d2b2cf4b-489d-4b8a-bab0-dbe0438e1bb9,Barbara Hardy,36.0,MALE,Engineering,Bachelors,2024-06-30,Cloud Computing,2025-03-12,No,,,4.0,4.0
+9efda9e9-e1dd-4f7f-80c9-76e5eaab0629,Jenna Lynch,,MALE,Sales,Diploma,2023-10-19,Leadership,16/06/2026,Yes,,40.0,1.0,1.0
+13853f45-0ed5-4c8c-a2c9-4a442248fe75,Benjamin Martinez,39.0,F,Sales,Diploma,2023-03-17,Python,2024-04-21,P,83.0,,,
+496e186a-9335-4c77-8599-1a45a3a868d7,Eduardo Hall,,M,Support,Masters,2024-09-27,Communication,2025-05-13,A,,0.0,2.0,2.0
+06c0965d-d68b-417e-97cb-97197a3367d0,Nicole Russell,48.0,Female,Finance,Bachelors,2024-10-09,Leadership,22/01/2026,P,0.0,0.0,3.0,3.0
+f10cb4f0-285d-4795-b913-8441d0a05417,Lance Hernandez,50.0,Male,HR,PhD,2021-09-19,Project Management,06/10/2023,Yes,25.0,23.0,2.0,2.0
+567328bc-55cf-485a-8667-b0577387de41,Brandon Peck,30.0,M,Marketing,PhD,2022-04-23,Excel,2023-09-30,No,44.0,74.0,2.0,2.0
+6841667c-893e-4de8-8509-c3a2214b1e1c,Amanda Richardson,29.0,F,Sales,Bachelors,2022-10-07,Excel,16/07/2024,Absent,24.0,35.0,5.0,5.0
+3cd68ac3-5665-4d0b-8ac2-9f1dc72c3764,James Graham DDS,,Female,Support,Bachelors,2020-06-12,Cloud Computing,2021-08-03,No,0.0,,3.0,3.0
+1dd3c5d2-1892-4ebd-b195-6d6084f36ac6,Jessica Bradford,,MALE,Support,Masters,2020-08-29,Communication,09/12/2022,Absent,41.0,76.0,2.0,2.0
+fd8190c8-dff4-4c91-b164-6c14f1a0051f,Stephen Ward,60.0,Male,HR,PhD,2020-08-15,Excel,2022-08-31,No,,48.0,5.0,5.0
+d173bd6d-16a0-4e13-9b80-5cc7e2712ff8,Alyssa Moore,,Male,Finance,Diploma,2023-08-26,Leadership,14/05/2024,Present,,0.0,1.0,1.0
+bec2e40d-f0b8-4b29-9204-4e75129b1e2d,Troy Saunders,29.0,Female,Finance,Bachelors,2024-02-21,Leadership,29/09/2024,Present,82.0,,4.0,4.0
+0d5348d1-5b15-474d-972d-3274e5c22467,Katrina White,57.0,FEMALE,Support,None,2022-06-05,Project Management,15/10/2022,Absent,,,0.0,0.0
+d8f148fb-a05a-43c4-bc42-43c71bd8978e,Dr. Mathew Thomas,,F,Finance,Masters,2025-02-17,Python,2027-10-20,A,53.0,38.0,3.0,3.0
+43874957-d4d6-4370-8645-1ddafbe22c49,Victor Wilson,31.0,MALE,Sales,Bachelors,2022-01-22,Project Management,2022-09-30,Present,,52.0,2.0,2.0
+cb3738c2-0144-4e67-8df5-b9a0e577e1b6,Jillian Lee,58.0,MALE,Support,Masters,2022-11-07,Communication,2023-11-26,No,,,,
+aac782ac-dce2-4b06-ba15-422e3cc7edc8,Nancy Rice,43.0,M,Support,Bachelors,2022-10-21,Excel,2023-05-26,Absent,81.0,0.0,5.0,5.0
+a5279af5-3bd6-4f9b-b643-0f4d0bce8eeb,Nathaniel Brown,,M,Engineering,Masters,2023-09-24,Leadership,2024-02-18,A,60.0,,3.0,3.0
+049f32c7-b1a7-4537-b0ec-70747397b987,Amber Richardson,42.0,Male,Support,Bachelors,2023-06-02,Communication,30/08/2025,A,,0.0,5.0,5.0
+cda42f85-1099-4969-b521-d09594b22af0,Kenneth Donovan,,MALE,HR,Diploma,2025-01-24,Leadership,07/05/2027,P,,,4.0,4.0
+ceacd779-9538-4035-8157-abecfdecc58d,Peter Mccarthy,33.0,M,Engineering,Diploma,2024-02-13,Project Management,03/02/2025,P,29.0,0.0,1.0,1.0
+ceddadec-929d-478e-9fde-2d5fc441c3db,Richard Phillips,23.0,FEMALE,Support,Diploma,2023-11-05,Cloud Computing,19/11/2024,Absent,,0.0,3.0,3.0
+99adf607-c26e-4dbd-9acb-0045a449aefa,Megan Juarez,,Male,Marketing,Bachelors,2024-12-19,Python,10/06/2026,Absent,75.0,21.0,2.0,2.0
+4ba9008d-85af-4680-a39f-6cc716f39bed,Richard Riley,28.0,MALE,Support,Bachelors,2024-02-23,Communication,2025-12-21,P,29.0,93.0,4.0,4.0
+90ba1d38-5492-412f-a59d-537f3f8a16b8,Alex Mason,,FEMALE,Sales,Diploma,2025-02-07,Excel,2027-04-17,Present,0.0,80.0,5.0,5.0
+f99003d8-cad4-43f4-9e68-9a6c91c98ab6,Tiffany Zamora,52.0,Male,Sales,Masters,2022-11-24,Communication,09/03/2023,A,0.0,,4.0,4.0
+ce9ca015-c7c4-4854-96d4-eb062f592f3e,Elizabeth Thomas,,MALE,Sales,Diploma,2021-03-09,Python,2022-03-21,Absent,0.0,0.0,5.0,5.0
+f5ebb7f9-8f52-4f8a-905c-be00677a72f6,Jennifer Lyons,60.0,MALE,Finance,PhD,2023-12-03,Python,11/12/2025,Absent,0.0,0.0,1.0,1.0
+a3e6bbfd-65e2-4bba-a7ae-222079150e99,Phillip Compton,31.0,Female,Engineering,None,2025-01-04,Leadership,11/01/2026,P,,,1.0,1.0
+bfd096b4-2c85-4b3f-b126-36bba455ea22,Justin Vang,,F,Engineering,Bachelors,2020-07-10,Leadership,2021-05-14,Absent,0.0,,5.0,5.0
+53663145-386b-45fc-9b52-ba4d851e4fe8,Lindsey Cox,,F,HR,None,2022-03-16,Excel,22/02/2023,Yes,,,,
+23763f57-852c-42ce-b337-7b9ee60587ef,Kristina Smith,49.0,M,HR,Bachelors,2022-05-04,Leadership,15/09/2024,A,,0.0,3.0,3.0
+583d2337-e5b2-4a6d-80c9-578ed3f8b32d,Stacy Wilson,,M,Sales,Diploma,2022-09-08,Cloud Computing,21/05/2023,Absent,,30.0,1.0,1.0
+9c296b78-90f6-4dce-b1f4-e511e6f9c201,Allen Ballard,44.0,FEMALE,Support,Diploma,2021-06-23,Communication,2024-01-12,P,46.0,0.0,,
+5bd537b1-c35a-4de3-972b-cd8d67fec003,Bridget Guerrero,,Male,Marketing,None,2021-07-08,Communication,2022-11-27,A,0.0,,2.0,2.0
+92aa71d5-61e7-4ff5-8cf5-0927c89a10a3,Jason Jones,,FEMALE,Sales,None,2021-01-22,Cloud Computing,24/12/2021,P,,,1.0,1.0
+cf09b990-7b5f-4427-8fd1-bc4e03d2a7ca,Michael Jennings,,M,HR,Masters,2022-02-09,Python,2023-05-08,No,52.0,0.0,2.0,2.0
+874c146c-cea6-4978-b0b6-9f93c438c125,George Bradshaw,59.0,FEMALE,Marketing,PhD,2021-07-03,Python,04/12/2021,Yes,,0.0,5.0,5.0
+c6f7cc83-3129-47af-97e3-05d5407e8506,Joshua Allen,38.0,FEMALE,Support,None,2021-04-15,Communication,03/11/2023,Absent,48.0,,4.0,4.0
+a0443dc9-459b-456f-824f-df53d98a1a6f,Sarah Wall,52.0,FEMALE,Support,None,2022-11-28,Project Management,23/05/2024,Yes,,32.0,5.0,5.0
+00401b20-3946-4d23-8098-e2b47a798ed4,Samuel Hamilton,,Female,Engineering,Masters,2021-08-30,Leadership,09/03/2022,A,,,1.0,1.0
+1006e0eb-63a8-4422-a29e-ae63e8475ebd,Mrs. Veronica Hughes MD,,MALE,Support,Diploma,2023-08-03,Python,2026-03-10,P,0.0,36.0,3.0,3.0
+9ca4d06c-d076-4dad-b17e-43a4ab16b1fd,Wayne Dickerson,,FEMALE,Finance,PhD,2020-12-15,Excel,21/02/2021,Present,0.0,98.0,1.0,1.0
+871eb65c-600c-4bc0-90f3-f41ff2020876,Matthew Miller,,Male,Marketing,Bachelors,2020-09-02,Communication,05/05/2022,No,,,1.0,1.0
+0de825b2-5246-4c34-bcdb-e579db9b318b,Raymond Roy,,FEMALE,HR,Diploma,2020-11-20,Leadership,2022-06-14,Yes,75.0,0.0,4.0,4.0
+f30d6ea3-951c-4200-9f30-f2f53226786f,Jason Thomas,,Female,HR,PhD,2024-09-14,Excel,2025-05-25,A,48.0,29.0,3.0,3.0
+4526aeed-47a0-4cda-a333-639f387364c1,Jon Ramos,25.0,M,Marketing,Masters,2023-05-26,Excel,2026-02-05,Absent,37.0,51.0,3.0,3.0
+b6dd5f35-0ee5-43e3-a98d-4c4564076750,Stacey Barber,,Female,Support,Bachelors,2022-08-29,Leadership,11/08/2023,P,0.0,0.0,2.0,2.0
+231f1676-98a7-477b-a149-90edabe07080,Justin Davis,47.0,Male,Sales,PhD,2023-10-07,Project Management,21/06/2025,No,0.0,,,
+79613250-d375-4185-a019-89d1b998d301,Tammy Hendrix,31.0,MALE,Support,Diploma,2024-06-13,Excel,2026-08-23,P,,53.0,1.0,1.0
+11196b23-9a0f-4242-aeb7-591fb30408fa,Deborah Sanders,42.0,Female,Marketing,None,2025-01-27,Python,05/04/2025,Present,40.0,0.0,0.0,0.0
+113145d2-4346-4ce5-8895-d134acb4b5c3,Christina Chavez,43.0,F,HR,Masters,2024-09-20,Communication,13/06/2027,Absent,0.0,0.0,4.0,4.0
+ee6f5a9c-f446-4236-a1f6-6088efef1246,Miguel Jackson,23.0,M,Finance,None,2021-01-09,Leadership,01/05/2023,Absent,46.0,49.0,2.0,2.0
+1bd4a24e-66bc-4735-b605-070bea732391,Timothy Marshall,,Male,Support,Bachelors,2023-03-14,Project Management,23/11/2023,A,,,4.0,4.0
+e85af565-e62c-44bb-bf01-1f14d97bd00e,Brian Morrison,,M,Marketing,Bachelors,2022-01-03,Communication,27/06/2024,P,67.0,27.0,0.0,0.0
+c016215d-3807-4f3a-9cd4-aa85613c826a,Roger Petty,,F,Marketing,Masters,2020-04-08,Leadership,2022-12-28,Absent,0.0,36.0,2.0,2.0
+8bce0c24-7ee9-48ac-b7bd-00de21e219ce,Haley Martinez,26.0,Male,Finance,Masters,2022-12-20,Communication,2023-05-29,No,,,4.0,4.0
+aaf9ee3e-e432-437d-9307-afb6728ea994,Elizabeth Watkins,,MALE,Sales,Diploma,2022-02-14,Project Management,14/05/2022,Present,0.0,,,
+0c3badd8-52b1-4d01-942c-aa0cdd53abe1,James Dixon,60.0,M,Engineering,Diploma,2021-09-13,Python,04/02/2024,No,89.0,,1.0,1.0
+feb3a855-48e6-4273-8680-13786e607c2f,Jesse Fleming,,FEMALE,Engineering,Masters,2021-01-25,Communication,2021-07-31,P,96.0,0.0,4.0,4.0
+1bb868d5-88c0-43d7-b86c-014f65fae4a1,Susan Figueroa,,MALE,HR,None,2021-02-16,Project Management,04/03/2022,No,38.0,82.0,0.0,0.0
+ea489dae-2b99-4902-836d-943faad29f81,Adrian Martin,26.0,Male,Marketing,Bachelors,2024-07-07,Leadership,10/05/2026,Present,0.0,0.0,5.0,5.0
+d2152070-e4ee-41bc-bdd7-e170e0d0807c,Samantha Garcia,,MALE,Sales,Bachelors,2021-01-18,Project Management,31/03/2021,Present,78.0,,3.0,3.0
+f942fcb2-ee3a-4a8b-84f9-00cb42d757a8,Kenneth Peterson,36.0,M,Engineering,None,2021-11-28,Cloud Computing,08/12/2023,Yes,0.0,65.0,,
+9b43324c-afd0-4396-bb31-caebc8ce14bb,Peter Delacruz,,Male,Marketing,Masters,2024-06-11,Communication,15/03/2026,A,0.0,52.0,0.0,0.0
+3e372c8d-8a13-4d8d-9292-4079dfee84b1,Sarah Thompson,32.0,M,HR,Masters,2022-03-27,Communication,2022-12-07,Present,68.0,0.0,2.0,2.0
+3a99bbcb-56a6-4db5-8776-d49a688e8d5d,Joanna Rodgers,,Female,Marketing,Bachelors,2022-12-22,Project Management,2023-12-15,Yes,45.0,,3.0,3.0
+8b6acc43-96af-4fcb-b3eb-f780c91d95c7,Jessica Becker,,FEMALE,Sales,Diploma,2024-06-16,Cloud Computing,21/05/2025,Yes,,,0.0,0.0
+0fa38669-b33a-42a9-ba73-42fc741d6857,Todd Young,,FEMALE,Support,Diploma,2021-04-11,Cloud Computing,29/08/2022,No,64.0,,2.0,2.0
+2583eb38-cebf-4ea4-87a6-998284add36e,Alexis Duran,,FEMALE,Support,Masters,2023-09-17,Excel,2024-04-28,A,46.0,0.0,4.0,4.0
+a8ae5c67-1598-403e-a4c4-e6ca8a661d77,Catherine Soto,,F,Finance,PhD,2023-06-19,Communication,07/06/2024,Absent,0.0,39.0,3.0,3.0
+fdfd984e-1610-4d90-a8c2-7491ac83995b,Shane Diaz,44.0,Female,Sales,Masters,2023-01-20,Leadership,22/04/2024,No,0.0,40.0,4.0,4.0
+efe3155d-7281-4822-bd26-ce318a00c9be,Derek Hudson,,Female,Engineering,Masters,2023-02-11,Cloud Computing,08/11/2024,P,0.0,,1.0,1.0
+efe3a150-c524-41be-a6bb-b51c85d8acf3,William Taylor,,Female,Sales,PhD,2020-11-19,Project Management,14/08/2021,Absent,,68.0,4.0,4.0
+c145419c-74eb-4a0d-b80a-ea0265dec4ed,Amanda Garza,54.0,MALE,Support,None,2025-02-04,Python,2026-02-12,Present,44.0,33.0,5.0,5.0
+9be4e2ac-9f99-4133-ae11-edc43c375315,Rachel Parrish,24.0,M,Sales,None,2022-07-20,Communication,2024-06-19,No,40.0,30.0,0.0,0.0
+09ac7ba5-eb28-43e6-a465-aed7207ad1d4,Rebecca Bean,33.0,M,Support,PhD,2021-08-11,Cloud Computing,28/01/2024,No,0.0,0.0,0.0,0.0
+6ee2f9bf-8ad3-43b1-977d-d689a98d61ec,Linda Holt,,F,HR,Bachelors,2022-03-21,Leadership,2022-09-24,Yes,0.0,,5.0,5.0
+2146e7b4-a5fb-4e9a-8ab7-d5e0f814af2e,Larry Mathis,,Female,Support,Bachelors,2024-07-31,Leadership,2026-03-22,A,0.0,,4.0,4.0
+a5b38959-10e6-41fd-a127-f6638db4daaa,Gregory Garrett,,FEMALE,HR,Diploma,2024-08-15,Project Management,2025-12-10,A,,0.0,4.0,4.0
+c04cf6e6-cf6d-48c3-b661-cfdb7537fb16,Melissa Alexander,30.0,M,Support,Masters,2024-07-31,Leadership,2024-12-29,Yes,0.0,75.0,,
+e52b9187-3c3b-4ed7-add5-b752ec7448f9,Jillian Woods,,MALE,Engineering,Bachelors,2023-04-20,Python,19/11/2023,Absent,,88.0,2.0,2.0
+2fcf9246-a81f-4e5b-b8dc-2c64c4e43753,Luis Hill,53.0,Male,Finance,None,2024-11-07,Excel,2027-03-01,Absent,0.0,0.0,3.0,3.0
+b82b2b93-1040-4bf3-9d30-b0f7f6a97c38,Valerie Simpson,55.0,MALE,Marketing,None,2020-12-05,Project Management,23/09/2022,Absent,0.0,90.0,,
+2660f73f-8abe-4d88-a26c-ea127e129751,Laura Kim,,Male,Support,Masters,2024-10-16,Project Management,12/01/2025,Present,27.0,64.0,4.0,4.0
+d64894cd-2766-4e92-9873-6d60b7f23862,Erica Ray,,Female,Engineering,Bachelors,2024-06-29,Python,02/09/2026,No,,,3.0,3.0
+ca600b2d-09c6-48dd-bff0-90b9fe835c51,Emily Warren,57.0,M,Sales,Masters,2024-06-19,Excel,2025-03-26,Yes,0.0,0.0,2.0,2.0
+a00d1e18-aead-403f-afad-3d7ea4bfa846,Jackie Dominguez,,Female,Finance,Diploma,2023-08-28,Communication,29/11/2023,Absent,0.0,0.0,4.0,4.0
+5c405fa3-de27-42ba-a50c-27d4a9dfbb1d,Jeanette Luna,35.0,F,Finance,Bachelors,2020-07-08,Cloud Computing,2022-04-23,P,0.0,,,
+09cf1063-91b6-4a01-b4e6-0f83af844b8f,Calvin Ramirez,,FEMALE,HR,Bachelors,2023-02-02,Leadership,01/09/2023,Present,44.0,84.0,1.0,1.0
+57b6b27c-bf18-474a-8743-d9f12d08413f,Debra White,60.0,Male,Support,None,2024-11-15,Cloud Computing,2025-07-08,No,,,,
+64e19340-97f5-4628-b5ef-816964a70279,Harry Ochoa,,M,Support,Bachelors,2024-09-19,Excel,2026-11-12,A,,0.0,0.0,0.0
+a24a7b89-3f22-4d74-a367-b5632f894e9b,Melinda Stevenson,45.0,Male,Support,None,2022-10-07,Cloud Computing,20/12/2022,Present,54.0,0.0,,
+ddca9cc3-d48f-46c5-a431-d4a9ca1ef8d9,Todd Payne,48.0,F,Sales,Bachelors,2022-07-22,Python,29/12/2022,Yes,0.0,0.0,4.0,4.0
+67a79886-5716-4f35-9a64-eed2ef3dc5a8,Bobby Becker,,Female,Support,Bachelors,2025-02-18,Project Management,2025-11-27,No,0.0,,3.0,3.0
+567fd2e9-c2f1-4bfc-8875-53632fc52298,Tara Thompson,,Female,Sales,PhD,2023-01-20,Cloud Computing,2024-03-02,Present,,77.0,0.0,0.0
+935046f4-f7f8-4118-aaed-0848639a851f,Tracy Walker,58.0,M,HR,Masters,2023-03-09,Cloud Computing,2024-02-17,P,0.0,,5.0,5.0
+c81c597a-9ba1-4be2-879d-19c357e4267e,Ashley Dalton,59.0,F,HR,Diploma,2022-02-26,Communication,21/04/2024,Yes,,,2.0,2.0
+6426f2e5-b5ea-4220-8f57-cd9e1b309e97,Alexander Brewer,,Male,Sales,Bachelors,2024-07-22,Cloud Computing,2024-10-24,Yes,,,5.0,5.0
+f3177bab-62e3-4fa7-b4cd-6362434a1842,Erika Bishop,,F,HR,Bachelors,2024-09-05,Cloud Computing,30/04/2026,Absent,0.0,58.0,5.0,5.0
+d32a27d1-498c-4dd7-ae1b-3c1ac5e38a4e,Adam Parker,,Female,Finance,None,2024-05-31,Cloud Computing,24/08/2025,Yes,,0.0,3.0,3.0
+8326c2dd-e4d4-49e7-ace8-c3d1e0b43a73,Angela Collier,42.0,FEMALE,Marketing,None,2021-04-14,Excel,11/11/2022,Present,61.0,35.0,3.0,3.0
+0c00f8ff-2a31-4f1d-bbf7-bf91995821e0,Roy Cook,,F,HR,None,2024-05-11,Cloud Computing,24/11/2024,Present,0.0,,4.0,4.0
+1604c332-09a6-4674-8b1f-a32544e5f394,Christine Parker,55.0,Female,Engineering,None,2022-04-10,Cloud Computing,2023-11-08,Yes,91.0,,3.0,3.0
+53a70e7d-1b86-4a72-b424-28924b2ca54d,Christina Robinson,56.0,FEMALE,Sales,Diploma,2023-01-12,Python,19/06/2024,No,0.0,,0.0,0.0
+36e75939-e2d7-4077-9e8f-a8075db96490,Karen Singleton,,Male,Engineering,Bachelors,2021-09-28,Communication,01/04/2024,Present,0.0,0.0,2.0,2.0
+6d1eb9b4-cc7e-46de-bcf7-526e18edc1e6,Evan Smith,,MALE,Marketing,Bachelors,2024-09-22,Python,08/12/2025,A,57.0,,0.0,0.0
+b276d819-2651-4aa3-98bb-1c4ef3e62704,Rebekah Campbell,,F,Finance,None,2022-07-11,Leadership,2024-10-03,Yes,0.0,0.0,0.0,0.0
+2d6527a1-5a96-4960-86bd-ce4309025afd,Luis Gould,48.0,Male,Engineering,Masters,2021-01-02,Excel,2021-06-02,P,35.0,,2.0,2.0
+790f2b45-8612-444f-977b-ee96b232398b,Lisa Conley,30.0,F,Finance,PhD,2021-04-21,Project Management,17/12/2023,P,0.0,,3.0,3.0
+2138fe3c-5c69-4e1f-858c-f41d01b8d47e,Jose Grant,46.0,Female,Engineering,PhD,2024-05-01,Python,15/11/2024,Yes,,81.0,1.0,1.0
+2308961b-e3e3-4e42-a9ac-92f066f6290a,Kristin Durham,33.0,Female,Engineering,None,2023-03-25,Leadership,2024-03-11,P,50.0,,0.0,0.0
+530f7e66-f49e-4aa3-8ef1-47f76a846c2c,Lauren Perry,,F,HR,None,2023-11-28,Python,19/03/2026,No,,96.0,4.0,4.0
+4c745676-478f-4edd-b134-1dec89f653a9,Brenda Mccarthy,28.0,FEMALE,Marketing,PhD,2024-02-03,Leadership,09/11/2025,A,30.0,,2.0,2.0
+e4a6da33-bda5-4100-bbaf-f9ca565854d5,Kimberly Morgan,32.0,Male,Support,Masters,2024-08-09,Excel,24/09/2026,Absent,43.0,0.0,1.0,1.0
+dde630e0-cbee-4346-9d1c-153ef6ebcacf,Micheal Austin,,F,Marketing,Diploma,2023-11-08,Python,12/02/2026,Yes,0.0,0.0,0.0,0.0
+f53fd2d3-4df6-4205-a0ff-622c80851d53,Barbara Miller,,Female,Marketing,None,2021-10-11,Project Management,2022-10-30,P,0.0,64.0,,
+22d91b18-0680-45f3-9511-4558fc424352,Abigail Williams,47.0,FEMALE,HR,Diploma,2023-11-28,Python,2025-12-26,Yes,,28.0,1.0,1.0
+a3a051e8-5f5c-4553-8e8d-2654cd3710e6,Matthew Hall,,M,Sales,Bachelors,2021-08-04,Python,2022-08-13,A,,,5.0,5.0
+d368c594-e09b-4f17-a484-be3e2191990c,Samantha Lloyd,,Female,HR,Diploma,2022-04-11,Cloud Computing,2023-01-01,No,57.0,79.0,,
+52f02148-016d-4426-b556-071b11b9e1b1,Andrew Harris,,Female,HR,PhD,2022-12-19,Cloud Computing,2024-01-17,Absent,,,,
+ae973869-2ea1-41aa-bcf7-bbc28e38440e,Eric Rosales,34.0,FEMALE,Marketing,Diploma,2023-11-20,Leadership,2025-05-25,Present,45.0,0.0,2.0,2.0
+9620818d-62c5-4829-a210-b7349dedb853,Michelle Thomas,,FEMALE,Sales,Masters,2024-09-23,Cloud Computing,27/04/2025,Present,65.0,0.0,1.0,1.0
+a32785f7-e61c-4368-b2f1-f3186c4e77f7,Michelle Carter,,Female,HR,Bachelors,2022-02-25,Python,26/07/2023,Absent,,,3.0,3.0
+21366a4d-01a1-496e-bf34-d88926530bd4,Jose Rodgers,42.0,F,Sales,Bachelors,2023-10-13,Leadership,2024-10-11,Yes,92.0,,2.0,2.0
+358ae854-49b4-4f17-9e6b-ed7aeb536282,Andrea Robinson,,F,Engineering,Diploma,2021-09-10,Excel,12/09/2023,No,68.0,,3.0,3.0
+d0fcb577-cec7-4674-8b19-f320b5230821,Casey Huff,36.0,F,Marketing,None,2021-09-26,Cloud Computing,2023-06-20,Yes,,,3.0,3.0
+e0f02008-24a9-44d7-9b48-c6fb333f117b,Adrienne Torres,25.0,MALE,Engineering,Bachelors,2021-05-04,Leadership,2022-02-26,Yes,0.0,,3.0,3.0
+0213d090-bd00-4f19-a08d-51350f199b92,Kelly Perry,,Female,Engineering,Bachelors,2021-01-19,Cloud Computing,2021-10-09,Yes,0.0,,5.0,5.0
+8d80c2fe-b7b1-4072-b436-873728ffa490,Alexander Martin,,M,Support,None,2024-06-05,Cloud Computing,17/01/2027,P,0.0,0.0,,
+164ba766-b4c7-473a-84c8-4c23676e34be,Cassandra White,,F,HR,None,2024-04-11,Python,2025-08-22,Yes,0.0,0.0,4.0,4.0
+42a5af9b-5223-46bb-b6d9-d64d7ae67ecf,Heidi Burton,,MALE,Sales,None,2023-03-30,Project Management,20/06/2023,No,100.0,,1.0,1.0
+dcdc614f-279e-44e7-a100-385622bb0c8d,Amanda Thomas,,Male,Finance,Bachelors,2024-05-19,Python,2025-12-11,Yes,,,,
+dad95c71-c688-499b-9111-277c82cc3039,Jody Yoder,,F,Marketing,None,2021-01-12,Excel,22/05/2023,Yes,33.0,0.0,3.0,3.0
+647a96e9-1a2d-4d7a-bac4-32f83db8014a,Sean Higgins,,F,Sales,Bachelors,2024-12-22,Leadership,2025-08-31,Yes,0.0,0.0,2.0,2.0
+1035ddda-2cf0-477d-b801-792ba53a43d6,Daniel Ramos,58.0,Male,Support,None,2021-04-17,Project Management,06/08/2021,No,0.0,41.0,3.0,3.0
+9522496e-a7c8-49be-9082-140aed00e657,Tina Howe,,Female,Sales,Diploma,2022-02-11,Excel,11/06/2023,Yes,46.0,67.0,1.0,1.0
+939f3536-27ba-43dd-ac2b-d5a32e89bdbd,Susan Lewis,54.0,MALE,Finance,Bachelors,2023-01-14,Project Management,2024-11-17,P,44.0,70.0,3.0,3.0
+19ceafee-f491-4ab0-abd3-46cbe1add4fa,Rebecca Sandoval,58.0,FEMALE,Engineering,Bachelors,2023-10-08,Communication,2025-12-10,Yes,0.0,,1.0,1.0
+3c7c5372-4d9e-4b9f-a3ee-785f134afb23,Briana Mosley,44.0,Female,Support,Diploma,2025-03-30,Leadership,2025-09-13,Yes,0.0,,3.0,3.0
+f6d2a20d-b3d5-4708-9d1a-f023a73ff524,Kenneth Kline,54.0,Male,HR,PhD,2023-01-12,Leadership,2025-06-06,Absent,58.0,79.0,1.0,1.0
+4edd1cfd-f08f-4cf7-8e52-5adc51f8deb6,Bryan Hardy,,Female,Finance,Diploma,2021-12-29,Communication,14/03/2023,A,30.0,0.0,3.0,3.0
+7e3beb35-e1eb-4f9c-be60-808dbcb39076,Robert Roberts,37.0,M,Marketing,None,2024-03-15,Leadership,2026-04-21,No,0.0,0.0,5.0,5.0
+dd8d0747-42d3-41aa-9526-db8e922febcf,Robert Hampton,49.0,M,Support,PhD,2020-06-06,Excel,2021-05-31,No,51.0,,0.0,0.0
+9a86040e-7263-4c6a-a4ad-77b02e32a832,Shannon Gonzales,53.0,M,HR,Bachelors,2021-04-03,Leadership,21/08/2023,A,57.0,0.0,5.0,5.0
+11e3d175-70ad-4070-aca0-ed97922fe35d,Gary Estrada,54.0,F,Finance,Masters,2021-11-08,Excel,28/08/2023,Present,0.0,,2.0,2.0
+7f6953af-e921-4dfa-86e9-79fec27eb09a,Cindy Zimmerman,,Female,HR,Masters,2024-04-01,Cloud Computing,2026-06-24,Present,,52.0,4.0,4.0
+8eed8d34-f384-4346-945f-4281236603b4,Kelly Anderson,26.0,Male,Sales,Diploma,2023-01-17,Python,2025-06-01,No,,0.0,4.0,4.0
+f8da93c8-c0b4-483a-acdb-425ccff440eb,Ricky Sanders,38.0,M,Engineering,Bachelors,2020-07-03,Communication,01/03/2023,No,0.0,20.0,0.0,0.0
+09a3e57e-2c5b-4eb0-b03d-a2528c486219,Deborah Spencer,38.0,F,Finance,Masters,2020-09-22,Excel,2022-03-08,Absent,85.0,0.0,1.0,1.0
+dd16663a-8183-4bc0-80e2-cd0484c48ac0,Hannah Clark,29.0,FEMALE,HR,Masters,2024-03-23,Leadership,2025-01-12,Yes,0.0,,4.0,4.0
+2f45a112-5b7c-4988-83ab-6df5aad74fe0,Joseph Glass,60.0,FEMALE,Marketing,Masters,2023-06-07,Cloud Computing,25/11/2024,Yes,0.0,,,
+fa5d8ae7-4733-4a26-8470-32f633b5f51d,Thomas Brewer,44.0,MALE,Marketing,PhD,2020-08-10,Cloud Computing,01/11/2022,No,78.0,82.0,3.0,3.0
+521ba1e4-92e7-4c57-8b53-e1aedaed71e5,Austin Conley,,FEMALE,Sales,Bachelors,2025-02-19,Leadership,28/06/2026,A,0.0,24.0,2.0,2.0
+ba5b70e7-df3b-435c-b5c5-edf0f43f847a,Tanya Davis,54.0,FEMALE,Finance,Masters,2021-08-26,Cloud Computing,2022-08-03,A,0.0,0.0,5.0,5.0
+c77afed5-2adf-4941-93c2-9f31a495dbf9,Teresa Curry,,F,Finance,Bachelors,2021-07-14,Python,2022-03-28,Present,0.0,0.0,2.0,2.0
+7a5c28ca-32e7-4520-8d83-b05517ac720e,Sean Dixon,44.0,FEMALE,Support,Diploma,2020-06-20,Leadership,2020-08-01,Absent,89.0,70.0,1.0,1.0
+e9622f9d-3242-4aba-92c0-75229cb14954,Jason Harrison,,Male,Support,Masters,2020-09-30,Communication,22/10/2021,Present,98.0,,2.0,2.0
+17ca35a2-7ff7-4b20-97ee-a179afd063d6,Ashley Sanders,39.0,Male,Engineering,Diploma,2022-01-20,Project Management,06/06/2023,Yes,54.0,92.0,3.0,3.0
+350e0c9a-1d95-4056-a6db-89dcbb5452fd,Sean Bradshaw,37.0,Male,Sales,Diploma,2021-07-19,Project Management,28/01/2022,Yes,59.0,38.0,0.0,0.0
+a901bdb8-c0ae-40f3-b770-014d68fd1179,Brian Wise,,Female,Support,Diploma,2024-03-07,Python,14/05/2026,Yes,72.0,43.0,4.0,4.0
+67171ab7-61f0-45c5-9cda-89181dadd807,Thomas Williams,41.0,Female,HR,Bachelors,2021-01-09,Python,25/02/2022,No,47.0,73.0,4.0,4.0
+57cad887-b916-4c61-a2d0-0779724d3c00,Tammy Wolf,25.0,Female,HR,Diploma,2020-07-15,Cloud Computing,2020-12-02,A,0.0,68.0,5.0,5.0
+bf2c857e-9f7b-4992-acec-73f232acf022,Amanda Armstrong,,F,Support,Masters,2022-05-19,Leadership,08/08/2022,Absent,24.0,,2.0,2.0
+8941069b-3559-43c6-965a-2822615a443c,Christopher Curtis,48.0,Male,Sales,PhD,2023-12-08,Communication,2026-03-15,A,0.0,23.0,4.0,4.0
+264e448e-1a87-47b0-855f-c748c6d273f9,Diane Garcia,42.0,Male,Engineering,Diploma,2022-10-30,Communication,11/11/2023,Absent,0.0,21.0,5.0,5.0
+aedbd272-8ef2-4cac-8a32-c1eb05d04902,Joseph Weeks,51.0,Female,Engineering,Diploma,2022-09-07,Communication,01/01/2025,Absent,31.0,0.0,5.0,5.0
+fb634b0b-539e-4196-aa38-6ce69390e315,Kyle Bennett,,Male,Support,Diploma,2020-05-04,Excel,13/09/2022,Absent,43.0,,1.0,1.0
+31934d22-9766-41ee-92bf-bcf2d709acc3,Holly Ponce,,Male,Finance,Bachelors,2020-05-30,Cloud Computing,2021-05-18,Absent,90.0,80.0,,
+cf7a9bd5-10e6-4719-8a7d-60a1d6f30b49,Mary Trujillo,48.0,Female,Marketing,PhD,2023-07-03,Python,09/11/2024,Absent,,38.0,2.0,2.0
+98a0be4c-91a1-4855-aabd-4589b7365e1b,Richard Silva,43.0,Female,Sales,PhD,2022-02-02,Leadership,27/12/2023,Absent,0.0,,2.0,2.0
+f808e17a-3a96-47f5-98e0-0183c6bfb986,Charles Lee,52.0,F,Sales,Bachelors,2020-05-30,Communication,2022-07-28,No,,,0.0,0.0
+5ddf6f80-8a25-4d95-939e-9c1f8cb8cf5d,Phillip Anderson,,Male,Support,Diploma,2023-04-27,Cloud Computing,14/04/2024,P,91.0,,2.0,2.0
+e35aac0c-132f-4ba1-b106-f95542653ccf,Brooke Thomas,,Male,Finance,Bachelors,2020-06-30,Communication,27/03/2023,Present,0.0,,,
+1f8452fb-6c26-4326-8dc6-d899ee209e85,Christopher Hall,27.0,F,Sales,Diploma,2024-05-13,Project Management,2027-01-20,P,0.0,,0.0,0.0
+995c712f-2a96-48bd-8f70-6894472678ac,Jessica Griffith,,Female,Marketing,Diploma,2024-06-22,Excel,2025-11-24,Present,0.0,,0.0,0.0
+973f7fd5-dca9-410a-ad1b-5e966e648ec8,Darren Martinez,54.0,F,Support,None,2020-12-28,Leadership,12/12/2021,Yes,0.0,,1.0,1.0
+e6afcce9-f1f5-4294-a66c-93f287f2b581,Francisco Benton,30.0,F,HR,Bachelors,2022-08-29,Leadership,2023-07-23,A,0.0,87.0,5.0,5.0
+a1b95e07-af38-4794-a0eb-16f1d3e8947f,Courtney Page,30.0,M,Marketing,PhD,2021-08-12,Cloud Computing,2022-10-18,P,,,,
+1febfdaf-0f03-4aaf-bfec-2bfa084a4052,Jack Stein,32.0,Female,Sales,None,2022-09-10,Excel,2025-06-03,P,,43.0,5.0,5.0
+a3cc77c1-c4b6-4e47-aa09-70c6907e5f2d,Jay Buchanan,26.0,Female,Support,Diploma,2024-06-27,Project Management,2026-07-28,No,38.0,,2.0,2.0
+ad545be9-9712-4b5a-b15c-25075ef28433,Hannah Mitchell,35.0,Male,Engineering,Bachelors,2020-10-25,Cloud Computing,2020-11-25,Yes,68.0,0.0,0.0,0.0
+7ac53288-4053-474e-bf00-3f8af21dfe36,Breanna Patrick,37.0,FEMALE,Engineering,Bachelors,2021-09-24,Cloud Computing,2023-10-25,Yes,0.0,31.0,4.0,4.0
+0b4baf23-1c4d-4cfd-80b3-0bda6f26bd7c,Patricia Robles,22.0,FEMALE,Engineering,Diploma,2024-03-11,Cloud Computing,24/12/2024,No,100.0,50.0,0.0,0.0
+06d23bde-350c-459f-89ea-3c351f65206e,Nancy Gutierrez,,MALE,Support,None,2024-08-21,Leadership,22/08/2026,A,0.0,,4.0,4.0
+46b3138a-660d-4992-b307-039f19b251ca,Ann Martin,,F,HR,Diploma,2022-03-22,Communication,2023-10-29,Present,26.0,0.0,1.0,1.0
+84506864-035c-4c48-8b5c-01400ae95eb4,Nicholas Diaz,,Male,Engineering,Masters,2024-08-28,Excel,08/03/2026,Present,0.0,,2.0,2.0
+de519932-07cd-4beb-97be-4ad925ebfcee,Valerie Bush,,M,Sales,Masters,2021-03-06,Cloud Computing,2021-07-08,P,39.0,0.0,5.0,5.0
+0ade0b41-8224-453c-b20b-5ab7159d880c,Brian Brown,22.0,M,Marketing,PhD,2024-03-16,Communication,2025-01-06,P,,,,
+0c3c83d3-f801-48bf-9467-b73a550714a7,Donna Booker,,M,Sales,PhD,2022-03-20,Excel,14/03/2023,A,76.0,26.0,5.0,5.0
+cd101511-3312-42d1-8cdc-4dcd7df5e219,Brian Gonzalez,23.0,MALE,Sales,Bachelors,2022-08-11,Project Management,2022-11-08,Yes,39.0,0.0,3.0,3.0
+5953b5d4-2e85-4607-af62-752490ac7063,Kelsey Kelly,40.0,Female,Finance,Masters,2020-05-31,Leadership,2021-09-30,Yes,0.0,,0.0,0.0
+40f6754a-989d-45ed-adf2-b925b41287fb,Daniel Hoffman MD,51.0,M,Support,Masters,2023-11-21,Excel,2024-09-14,P,40.0,,2.0,2.0
+d294f5a8-2815-4b62-a70f-79219b61e82e,Teresa Weeks,32.0,FEMALE,Marketing,None,2021-12-20,Project Management,05/02/2022,P,0.0,0.0,1.0,1.0
+d2bcc804-6fd2-4471-a4c4-8c04e3bf37c2,Harry Brown,,M,Sales,Bachelors,2023-12-27,Python,2025-03-29,No,70.0,24.0,,
+da8f55c4-b310-40ed-a362-84b8d4a84c96,Andrew Whitney,,F,Finance,Bachelors,2022-04-24,Leadership,2023-09-11,Present,0.0,0.0,2.0,2.0
+4f8390da-19a4-4e55-acf1-bb986a3098aa,Lori Johnson,27.0,Female,Marketing,None,2023-09-11,Project Management,05/03/2024,No,74.0,64.0,1.0,1.0
+726a1844-0cf2-469a-9dd1-9a42cb8be57b,Mary Martinez,,Male,Finance,Diploma,2020-11-03,Excel,10/04/2021,P,0.0,,3.0,3.0
+a7b4d7c9-bfbf-4315-8507-a453098fd17b,David Tate,33.0,F,Finance,Masters,2022-05-30,Project Management,2023-07-24,P,69.0,0.0,3.0,3.0
+901b938f-b703-4e19-920f-65b31164d2e6,Shannon Welch,,MALE,Support,Masters,2024-12-17,Project Management,16/04/2025,P,82.0,53.0,1.0,1.0
+3fd180e5-50a6-4b22-80c6-5ec892fcbafc,Michelle Stewart,,F,Sales,Masters,2022-07-23,Communication,2023-08-15,P,0.0,,4.0,4.0
+9bdd8ac3-9c4d-4e2c-8169-de840ad3f8b9,Rhonda Evans,50.0,FEMALE,Finance,Diploma,2021-09-23,Project Management,2023-09-07,A,0.0,71.0,4.0,4.0
+c8880b2c-651e-4bd2-a99e-9370ede40cf0,Wanda Fowler,,FEMALE,Finance,None,2024-06-28,Python,21/12/2026,Yes,,79.0,1.0,1.0
+706370c4-971f-4676-b697-67b732dba13d,Robin Reyes,,Male,Engineering,Diploma,2020-10-26,Leadership,04/10/2022,Yes,0.0,,1.0,1.0
+692fe76c-1a20-4dcc-8ae8-e236bff9e3b2,Tina Hernandez,,M,Marketing,PhD,2024-12-31,Leadership,2025-12-04,P,0.0,0.0,2.0,2.0
+7c2a5ca2-0c92-4749-b3da-143e4962394f,Derek Hall,,MALE,Finance,PhD,2024-05-22,Cloud Computing,2024-11-24,No,65.0,,2.0,2.0
+2eda17d5-6fd8-440a-9283-889cc31f37eb,Michael Robertson,,M,Support,Bachelors,2021-09-30,Leadership,2023-06-10,Present,,0.0,1.0,1.0
+1d2b11d0-e976-479f-9186-c2a19536922e,Jill Smith DDS,51.0,Male,Support,Diploma,2022-09-22,Communication,07/05/2024,P,,,2.0,2.0
+d91e7e1a-6e48-4e95-a228-23f82a46cb32,Mary Johnson DDS,33.0,FEMALE,Sales,PhD,2022-07-06,Cloud Computing,2023-12-30,A,88.0,,5.0,5.0
+8a6181ae-e771-4e1b-91df-4ff075f32c8e,Ashley Jenkins,44.0,Male,Engineering,Masters,2024-08-25,Leadership,2025-06-16,Absent,,0.0,1.0,1.0
+07059d15-a8c5-440f-aa54-e68fa9274d42,Mary Green,33.0,Male,Engineering,Diploma,2021-08-12,Leadership,18/10/2023,P,0.0,,0.0,0.0
+156c992b-cc97-4171-b926-393cf1974022,Michael Potter,53.0,Male,Support,None,2024-11-27,Excel,2024-12-31,Present,27.0,40.0,2.0,2.0
+e28c259c-8124-4407-9870-fafa835108d8,Lauren Lester DVM,50.0,Male,Engineering,PhD,2025-02-15,Leadership,02/03/2027,Present,,80.0,5.0,5.0
+05bcde63-f667-491a-b1c7-ebf1f9dbe07e,Kimberly Garrett,53.0,FEMALE,Finance,None,2020-12-22,Excel,24/09/2021,Present,0.0,69.0,,
+07d1316f-821a-4ac9-a957-2b45ed84859d,Sarah Waller,,Male,Sales,PhD,2022-09-24,Project Management,2024-12-10,A,,66.0,3.0,3.0
+88fc929a-4dda-4b87-8291-b38ce4e7e7a3,Peter Hayes,,Female,HR,None,2023-08-29,Communication,02/07/2025,No,35.0,80.0,2.0,2.0
+ed569361-bcc9-4b94-835d-7e20859e45bf,William Compton,50.0,F,Marketing,Diploma,2023-04-18,Cloud Computing,2024-12-09,Present,,,0.0,0.0
+8a02711e-02f3-44d0-aeb8-c6eb700affff,Robert Green,54.0,FEMALE,Finance,Masters,2023-06-12,Communication,28/10/2023,Absent,0.0,,5.0,5.0
+7928913d-51f8-4167-b96c-39ad6b35a9b9,Sandra White,56.0,F,HR,Masters,2020-08-30,Leadership,03/02/2022,A,0.0,33.0,1.0,1.0
+4cafae2b-15ca-4379-903c-e3b161580ec7,Anna Wong,,M,Finance,None,2021-11-14,Leadership,2022-06-18,Present,0.0,0.0,5.0,5.0
+e417eadf-82ca-4ac9-a867-9c72ef245e07,Dr. Devin Martin DDS,30.0,F,Marketing,Masters,2020-12-24,Leadership,30/06/2023,A,94.0,0.0,0.0,0.0
+769eb31c-2683-4a4c-8133-25f1e76032c3,Jenna Harding,,M,Finance,Diploma,2025-01-09,Leadership,2026-12-24,A,0.0,65.0,5.0,5.0
+4462ecae-0cce-469b-a2a8-d37daa2223a9,Henry Reeves,,MALE,Support,Masters,2024-04-28,Leadership,2025-08-18,P,0.0,,1.0,1.0
+ca4514d1-16a3-4e4e-8a5c-4c4ae79bd439,Ashley Simmons,46.0,Male,Finance,Bachelors,2022-06-19,Communication,20/01/2025,Absent,66.0,,2.0,2.0
+3f843c8f-a46f-47b5-8d45-e921e64b5523,Duane English,35.0,FEMALE,Sales,Masters,2024-06-20,Cloud Computing,2027-01-20,Absent,0.0,0.0,3.0,3.0
+b90db373-5553-4a05-b960-a10e8ee56246,Brian Galvan,41.0,MALE,Finance,None,2024-12-20,Leadership,27/03/2025,Present,60.0,25.0,1.0,1.0
+a89c0d28-ce08-415a-9be6-fc7fcc40d3a5,Jennifer Carter,,MALE,HR,None,2025-03-17,Excel,28/07/2025,No,,51.0,1.0,1.0
+6bf01ba6-ed1d-4817-9ad0-afdce2801ef0,Diane Bishop,43.0,M,Sales,Bachelors,2020-08-25,Leadership,2022-08-08,Present,61.0,,5.0,5.0
+43cbfd06-b869-4e43-bfa7-d9548bfafb8c,Jessica Baker,,FEMALE,Sales,Diploma,2023-07-13,Leadership,02/03/2026,P,80.0,,3.0,3.0
+71a67925-1094-4b53-a6d5-1dc14ff90831,Justin Garcia,29.0,FEMALE,Engineering,Diploma,2024-08-13,Excel,2025-08-06,P,32.0,0.0,0.0,0.0
+5b06b98e-eef4-44a3-bb31-a55f28e9209e,Dana Mccoy,54.0,M,HR,PhD,2021-06-23,Communication,2022-08-08,A,0.0,,4.0,4.0
+00167fac-2003-481e-8bf5-4fa88ae91f31,Laura Clarke,23.0,M,HR,Diploma,2022-08-10,Project Management,20/02/2023,P,,,4.0,4.0
+885f40aa-666e-4491-88dc-fe094413377b,Crystal Williams,50.0,Male,Finance,Masters,2022-02-25,Leadership,18/08/2022,Yes,79.0,,1.0,1.0
+652b1328-422f-403e-bc29-c667233089c9,William Mullins,52.0,F,Support,Bachelors,2023-12-22,Communication,24/04/2026,Present,,59.0,,
+6cc73151-1172-44f7-9364-5e439a18e6bb,Roy Davis,,Male,HR,None,2024-01-20,Python,14/08/2025,No,0.0,,2.0,2.0
+1cea0ac0-d466-4946-bfab-82a036e65004,Nicole Hardy,,F,Support,None,2020-11-22,Excel,11/02/2021,Absent,77.0,0.0,2.0,2.0
+998549bc-fcb4-4e27-8167-dc84a9432abd,Carla Hoover,,F,HR,Masters,2023-04-23,Leadership,22/09/2025,A,0.0,46.0,1.0,1.0
+3b8ee0e0-1ba3-4c18-a84a-05d0b6f8dba9,Nathan Kline,,Female,Support,None,2022-01-02,Excel,2023-06-05,A,0.0,,0.0,0.0
+0b35e0a1-3fa5-499f-bb23-a4b72fc3bb1c,Erica Dixon,,FEMALE,Engineering,Diploma,2023-03-04,Project Management,11/12/2024,No,,0.0,5.0,5.0
+b348f0fe-d47e-4b90-879e-46ae551b7d7f,Christopher Knox,33.0,MALE,HR,PhD,2023-09-03,Communication,2024-11-08,P,,0.0,2.0,2.0
+25076d01-7edf-4d61-8d55-a67cc01f39a6,Luis Patterson,,Female,Sales,Diploma,2022-08-20,Project Management,2024-03-09,Present,0.0,,5.0,5.0
+4a05e06d-b26f-4bb2-b178-bdbbdf7facac,Richard Butler,,F,Finance,Bachelors,2020-07-14,Project Management,2021-05-03,A,0.0,,3.0,3.0
+7bf7202e-bd86-41ab-816f-5ca37854f2ce,Tara Jones,,Male,Sales,Bachelors,2020-10-20,Communication,16/11/2022,Yes,53.0,,3.0,3.0
+98343ead-4239-413e-b33f-f435207479d2,Nicole Mccoy,,MALE,Marketing,Masters,2024-08-26,Leadership,2025-04-28,No,42.0,,,
+babf9447-e855-4690-b4d8-57458a81b778,James Whitaker,,MALE,Finance,Diploma,2024-11-30,Cloud Computing,14/04/2025,Present,82.0,74.0,1.0,1.0
+715eae42-1461-40d8-8580-ee8618ce5087,Jose Carney,,Male,HR,PhD,2021-07-02,Cloud Computing,2021-09-28,A,0.0,49.0,2.0,2.0
+2f49056a-9f5f-4623-9392-1935d6f8d94c,Lori Valentine,49.0,Female,Sales,Masters,2022-03-11,Communication,28/04/2023,Present,0.0,0.0,1.0,1.0
+89d4d409-a9c5-4ff9-9dd0-db9c6c1452b4,Suzanne Hale,39.0,MALE,Finance,PhD,2024-11-28,Excel,2027-03-21,Present,,89.0,1.0,1.0
+8caf728a-9e58-48b6-b24c-77826554f48c,Timothy James,23.0,Male,Finance,Masters,2025-03-19,Excel,24/09/2027,Present,0.0,21.0,4.0,4.0
+171da14d-dde2-4a23-a47c-666ab04dee79,Kevin Werner,,F,Marketing,PhD,2022-12-03,Python,2023-10-27,A,93.0,,2.0,2.0
+2280229d-9d1b-40f5-9fc6-1eb31c534b87,Meghan Brown,,Female,Sales,Bachelors,2020-09-07,Cloud Computing,2021-03-19,Absent,92.0,,0.0,0.0
+b26dfebe-3f13-474a-9c7f-35cefea39cb1,Stacy Williams,,Male,Support,None,2024-04-30,Communication,20/02/2025,No,97.0,,3.0,3.0
+6c27ca62-141f-4b4c-b977-93611204a9d9,Amy Wall,53.0,FEMALE,Engineering,Masters,2021-03-25,Cloud Computing,11/04/2023,Present,69.0,0.0,0.0,0.0
+ceb89364-8e24-4b1d-8573-6b1cc0b15ca3,Jason Wright,,Male,Marketing,Diploma,2024-11-02,Project Management,19/01/2025,A,,62.0,0.0,0.0
+4289281d-944a-46a6-83c1-4496199a2509,Kyle Gray,,Female,Sales,Diploma,2021-05-02,Python,2022-09-08,Yes,0.0,67.0,5.0,5.0
+a7f3cf5c-9818-43c7-8657-894f0c953522,Elizabeth Taylor,,M,Engineering,Diploma,2020-04-30,Project Management,2021-09-05,A,,22.0,5.0,5.0
+2dce3207-400e-4540-9492-ba69f8a5764a,Thomas Lutz,28.0,FEMALE,Engineering,Masters,2024-10-10,Communication,2024-12-24,Present,,0.0,,
+dc8f79c8-bd95-4829-a72c-f300c917a68e,Jessica Jimenez,58.0,FEMALE,Marketing,Masters,2022-08-06,Communication,08/10/2022,P,44.0,46.0,5.0,5.0
+431b011f-6f90-49af-8a07-906e53ae0bce,Robert Velazquez,44.0,Male,Marketing,PhD,2020-09-09,Project Management,2020-10-15,P,64.0,0.0,2.0,2.0
+7d728f73-5d3b-44ac-9d7c-54856c707048,Gina Stafford,,MALE,Support,Bachelors,2022-12-10,Communication,2025-07-02,A,0.0,0.0,3.0,3.0
+4efb4227-f3f7-4d69-8853-05f9735bea93,Traci Lee,34.0,Female,Marketing,PhD,2025-02-14,Communication,2026-01-01,A,0.0,74.0,2.0,2.0
+6cd6b9e1-0765-4c22-9bcd-e988ce25d281,Scott Wood,44.0,Male,Marketing,PhD,2024-07-28,Python,2024-09-03,Present,0.0,,1.0,1.0
+217c82b1-c884-4ac6-a19a-4805e03a0ab6,Cathy Barnes,,FEMALE,Sales,None,2023-09-15,Communication,21/12/2025,Present,35.0,,5.0,5.0
+a1f3a5bc-6580-44de-9bc0-04500ddf8da3,Lee Perez,,FEMALE,HR,PhD,2022-09-22,Communication,07/12/2023,Present,,0.0,4.0,4.0
+acde5588-ee92-4236-b1dd-ecb702580dcb,Scott Wilson,27.0,F,HR,None,2020-09-20,Leadership,2022-12-22,Yes,36.0,,,
+c314d41c-f699-434e-ae58-e57a4b4af20d,Jessica Keith,,Female,Support,Diploma,2021-07-23,Communication,2021-11-07,A,,60.0,1.0,1.0
+c388fb0e-2263-416c-a6b7-68bd4f848c31,Austin Johnson,,F,Engineering,Masters,2024-04-18,Project Management,2026-04-01,Present,,,,
+fbc6423e-b58a-4321-87eb-11722d47d84c,Jaime Compton,22.0,MALE,Support,None,2020-12-08,Python,2023-04-15,P,,27.0,1.0,1.0
+888d7c51-404e-4634-b4e0-270ed0b68d02,Margaret Holder,44.0,M,HR,Bachelors,2024-07-18,Python,2025-02-03,Present,54.0,37.0,1.0,1.0
+896f07e5-fabb-4975-a789-3317c2afaa5f,John Black,37.0,FEMALE,Finance,Diploma,2020-04-26,Cloud Computing,2022-01-11,A,,0.0,3.0,3.0
+fddbeb80-7e99-4b58-b601-efce7b2ff249,Christina Miller,38.0,Female,Engineering,None,2023-08-20,Cloud Computing,26/01/2024,Absent,0.0,0.0,,
+5bbdcdb6-f117-4ec0-a1ea-1d2e98744952,Richard Smith,59.0,MALE,Engineering,PhD,2025-03-07,Cloud Computing,2027-11-16,A,83.0,,1.0,1.0
+b7e11681-fe84-40fe-a289-767172349df0,Dennis Martin,34.0,Female,Marketing,None,2022-08-03,Cloud Computing,12/06/2024,Yes,,,5.0,5.0
+1c6472c8-bafe-40d2-a5b3-cc2e137de405,Amy Rice,,F,Support,None,2023-11-18,Project Management,2026-05-29,P,,0.0,1.0,1.0
+7a8d8320-e26e-450f-827d-2696bc443508,Jeffrey Horton,44.0,MALE,Sales,Masters,2022-03-18,Python,2023-03-24,No,0.0,81.0,0.0,0.0
+0c4fde2e-8844-476d-80a7-b490ddcc48a5,Gregory Fuentes,,F,Finance,Masters,2023-07-19,Project Management,2024-10-05,Yes,,59.0,1.0,1.0
+f2af577d-43c5-47a4-bbc0-2c385e55bd48,Emily Martinez,,Male,Sales,Diploma,2021-09-13,Communication,2024-03-13,Yes,40.0,,0.0,0.0
+80e2ee40-3b89-4988-804d-3ccab1d8ea69,David Robles,,MALE,Support,Diploma,2025-01-03,Communication,2025-02-10,P,77.0,,5.0,5.0
+f1cf851b-ad02-44a0-880c-28ad0c11f642,Eric Richardson,33.0,Male,Marketing,Masters,2022-07-19,Communication,2023-02-27,P,,0.0,3.0,3.0
+deafd27f-2548-4b37-bd61-676d56aa814e,Spencer Rodriguez,,F,Marketing,Diploma,2024-03-28,Leadership,2024-10-23,Absent,,,0.0,0.0
+fc16f82a-b682-4487-af45-88c3277747dc,Randy Mendez,,F,Marketing,Masters,2021-11-29,Leadership,2024-07-26,A,0.0,25.0,3.0,3.0
+bbc2b67c-9eec-4868-b0a9-68a6aea2d49e,Angela Gonzales,25.0,FEMALE,Marketing,Masters,2024-06-11,Python,15/07/2026,Absent,0.0,42.0,1.0,1.0
+aa1c8b53-3e2e-4201-b4ce-c306c39fcfb3,Martin Newton,27.0,FEMALE,Marketing,Diploma,2023-08-26,Leadership,07/03/2024,No,,0.0,4.0,4.0
+de1bad90-310e-4aed-87dc-4a0c2b72d694,Kimberly Cohen,,F,HR,Diploma,2024-06-05,Leadership,29/11/2024,No,73.0,,,
+b6d6e920-5a87-4212-b988-16f2e5d23d41,Joshua Solis,,Male,Engineering,None,2020-11-19,Python,29/05/2023,Absent,79.0,,3.0,3.0
+f65a5aa3-6314-4fcc-88b6-b9a29b5358d4,Andrew Murphy,49.0,Female,Support,Bachelors,2020-11-02,Communication,08/02/2022,Absent,72.0,0.0,0.0,0.0
+fe8c686a-9bdf-4c67-a2f9-11de087fcdef,Crystal Ball,40.0,F,HR,Masters,2021-12-01,Communication,2024-08-16,No,,,3.0,3.0
+9fc6ea49-444a-4b9a-a513-56e1d46a1235,Erin Perez,,Female,Finance,Diploma,2024-07-17,Project Management,2027-02-23,A,,,1.0,1.0
+ebbbae74-db9b-4d43-8927-d2fc030653e0,Rachel Yang,49.0,M,Sales,PhD,2022-11-12,Communication,2025-06-14,Yes,,74.0,1.0,1.0
+6576796d-df61-4be1-b714-6c4411b21524,Jonathan Palmer,,Male,Engineering,Diploma,2024-08-23,Cloud Computing,19/01/2026,Yes,92.0,,3.0,3.0
+fd28750f-5868-4a1b-accb-cb41d7b205e5,David Rangel,40.0,F,HR,PhD,2020-11-01,Python,15/11/2022,Present,83.0,,2.0,2.0
+0db1565d-6d70-499e-830b-105742fbacf1,Christine Nichols,,FEMALE,HR,Diploma,2023-04-28,Cloud Computing,15/05/2024,Present,,0.0,3.0,3.0
+9a4ef6fc-79a0-4727-90e2-9558b03d3665,Joanna Mueller,,FEMALE,Sales,Bachelors,2023-05-05,Python,2024-06-16,No,79.0,0.0,4.0,4.0
+a6a21998-afad-438e-a44c-26d403fc5e6c,Rebecca Caldwell,26.0,Male,Sales,PhD,2021-03-05,Communication,2022-06-22,Yes,0.0,,3.0,3.0
+25a744a7-1f92-4dc9-9883-7e3ea4c634ce,Toni Hunt,,MALE,HR,Masters,2022-04-25,Python,2024-06-22,Yes,97.0,0.0,2.0,2.0
+62d0abcd-bc3f-412e-89f3-2a99dfc735f8,Laura Coleman,,MALE,Finance,Bachelors,2022-06-09,Python,15/09/2024,A,0.0,,5.0,5.0
+27ae500a-c6c2-42be-83b5-c73d8716f0b3,Pamela George,,Female,Finance,Bachelors,2025-04-02,Excel,15/12/2025,No,68.0,,5.0,5.0
+7b3299df-5083-4557-bc3b-8f4dfe42db8f,Brandi Mendoza,,M,Finance,Diploma,2022-11-13,Communication,2025-04-24,No,69.0,0.0,0.0,0.0
+23352f7f-ae57-427f-b30c-ce0ed6f99298,David Patrick,,MALE,HR,Bachelors,2022-08-07,Cloud Computing,2025-04-09,P,0.0,0.0,0.0,0.0
+b5e18851-619f-4688-b6a8-6371bf693365,Derek Conway,,MALE,Marketing,None,2024-11-11,Leadership,2025-01-14,Present,,62.0,2.0,2.0
+73146dae-97a7-4f9d-b9f4-4feba61109cf,David Bradley,,Male,HR,Masters,2024-12-31,Python,14/01/2027,A,74.0,63.0,0.0,0.0
+fc3e9ed1-1cdb-4909-b9cd-1b1826a4850d,Krista Johnson,,FEMALE,Sales,Masters,2021-02-21,Communication,2021-11-11,Present,,0.0,4.0,4.0
+35c87983-910b-47f9-a1ae-25a6f1966b21,Ms. Kayla Williams,52.0,FEMALE,Marketing,Masters,2021-08-08,Project Management,11/04/2022,Absent,,0.0,4.0,4.0
+2af3d7cd-364b-4aa2-ac93-53cd8e9a8e72,Andrew Wilson,,FEMALE,Support,None,2025-03-08,Excel,24/01/2027,P,0.0,0.0,1.0,1.0
+008a7385-e393-4f65-acfc-95d73ae28de8,Michael Cruz,,Female,Sales,Diploma,2021-11-03,Communication,2023-08-07,P,0.0,0.0,1.0,1.0
+e8f86e43-0b99-4908-9d57-5d6961208478,Ryan Carlson,,Male,Support,PhD,2023-12-16,Project Management,2025-10-08,P,0.0,0.0,5.0,5.0
+7b18c0a5-ad3e-4705-8d52-5f9feb67a72c,Barbara Kelley,51.0,M,Support,None,2025-01-04,Excel,24/06/2025,No,0.0,0.0,1.0,1.0
+cbfefd65-623b-4463-9f67-63a630794bd3,Antonio Ramsey,47.0,Female,Engineering,Bachelors,2022-10-11,Excel,19/11/2024,Absent,0.0,,4.0,4.0
+a65e4003-51bf-4361-adb5-db914a13b17c,Tony Lawrence,59.0,FEMALE,Sales,Bachelors,2024-12-20,Project Management,2025-08-03,Yes,88.0,82.0,5.0,5.0
+6bcfd76f-46bf-438b-bb8a-e091c9425b82,Pamela Pierce,42.0,Female,Finance,Bachelors,2020-09-01,Excel,29/04/2022,No,0.0,,,
+689e77e5-4f30-4094-909a-c91f31eab1f4,Leah Collier,,Female,Engineering,Masters,2021-06-10,Project Management,27/03/2023,No,0.0,50.0,4.0,4.0
+bbbbdbd1-32d4-4c82-80ef-337708ed3047,Alice Conley,41.0,Male,HR,PhD,2021-02-04,Cloud Computing,2023-01-25,Yes,,,3.0,3.0
+5ebc23bf-00e5-4baf-aeb0-6b1eea7eee0b,Diana Rivera,,Female,Engineering,PhD,2023-09-15,Python,19/06/2025,Yes,87.0,54.0,5.0,5.0
+54d71e4a-1314-4627-9586-ff5070024916,Michael Graham,39.0,Male,Support,Masters,2023-06-29,Project Management,2025-02-22,No,,88.0,,
+12e63e97-178f-4dd7-84c7-b9766c0d8d97,Matthew Hendricks,,MALE,Finance,PhD,2023-08-01,Project Management,28/10/2024,Absent,,0.0,0.0,0.0
+171da81d-b57e-426c-9627-999ade14b989,Stephanie Bender,,MALE,HR,None,2022-10-23,Project Management,2025-04-24,No,0.0,85.0,1.0,1.0
+8aa9d39a-726f-46fd-8ec9-8bf10067eaa6,James Meyers,24.0,F,Engineering,None,2022-08-31,Communication,01/09/2023,A,,,4.0,4.0
+0abdbcd1-782c-4fec-9e5d-78a1c5bdb495,Alexis Mejia,54.0,FEMALE,Support,Bachelors,2022-07-21,Excel,05/02/2025,Absent,71.0,87.0,1.0,1.0
+33ca11ee-8c59-4d00-ab70-d4d56e0db295,Charles Ferguson,,M,Sales,PhD,2021-12-02,Leadership,2023-09-08,No,,0.0,5.0,5.0
+28c840b1-67be-426e-9f30-418c9089bcfd,Jimmy Smith,58.0,MALE,Support,Diploma,2025-02-03,Project Management,2026-08-06,P,31.0,0.0,3.0,3.0
+8e300e9c-8edb-4ef1-aef6-84198a393869,Madison Wilson,,Male,Marketing,Diploma,2022-04-04,Excel,06/05/2022,A,36.0,91.0,5.0,5.0
+a40e0199-a910-4002-ae9f-f41dfeb8bf0b,Mr. Jackson Watson,37.0,F,Engineering,Masters,2024-10-06,Excel,02/05/2026,Absent,,54.0,1.0,1.0
+d8095e6d-741a-42c2-9cee-f79c2e3c7679,Jesse Bennett,,M,Sales,Diploma,2023-11-30,Leadership,2024-11-27,Present,42.0,0.0,4.0,4.0
+16440645-f17a-4355-85b3-f11620629446,Stanley Gallagher,,Female,Finance,None,2022-04-12,Leadership,2024-12-19,Yes,31.0,,3.0,3.0
+a18d218d-f6a0-401f-9969-c458745d8729,Kristin Salas,,FEMALE,Finance,Diploma,2023-04-25,Project Management,31/05/2024,Present,0.0,0.0,2.0,2.0
+1423040d-fa4f-466c-8d7f-6dfb03c2e3e5,Abigail Acevedo,40.0,F,HR,Masters,2023-07-02,Project Management,18/09/2025,P,,65.0,2.0,2.0
+f0d4ad0c-23a2-4fe4-af3c-fc8f5e58e27a,Joel Rogers,54.0,MALE,Sales,Diploma,2025-02-16,Python,2027-03-03,P,22.0,0.0,3.0,3.0
+75e7f531-1e26-4c3d-b514-083ef8b53c16,Mr. Brandon Adkins,56.0,Male,HR,None,2022-12-09,Excel,2023-10-13,A,0.0,,5.0,5.0
+2f542dc6-9a24-4eb8-a295-b0414bfaf1db,Anne Chambers,31.0,Female,Marketing,Diploma,2024-06-02,Leadership,2027-02-18,A,,0.0,4.0,4.0
+9bca0ac2-1786-44b7-87c3-c3cc250801c0,Jennifer Taylor,26.0,M,Sales,PhD,2024-12-15,Cloud Computing,09/07/2026,A,42.0,,5.0,5.0
+9a68990e-2412-447e-a9a7-f0412d519614,Felicia Matthews,33.0,F,Sales,None,2022-07-13,Communication,2023-02-18,Present,,70.0,4.0,4.0
+e1b340ee-b506-4a35-8fa8-5cc80dab4428,Stacey Le MD,,Female,Marketing,PhD,2024-02-01,Excel,2025-06-09,Yes,0.0,0.0,5.0,5.0
+58bb8712-8db5-475f-92c4-47bd1af0bb95,Jacqueline Bass,57.0,Female,HR,None,2021-05-21,Project Management,2024-01-12,A,0.0,,0.0,0.0
+817bf3ce-c78d-4642-af63-def851a76445,Ryan Thomas,,F,Engineering,PhD,2020-08-25,Leadership,21/09/2022,Absent,0.0,42.0,5.0,5.0
+b5d6a793-0003-4d3e-949b-f21a7f37c8f7,Teresa Williams,38.0,Male,HR,Masters,2023-05-22,Cloud Computing,2024-12-07,Yes,0.0,30.0,0.0,0.0
+e6028d06-b441-4695-ace3-21fd3834e80b,Donald Brown,22.0,M,HR,Bachelors,2023-08-30,Project Management,05/02/2024,No,,0.0,1.0,1.0
+47483ec1-22d1-45fa-93c8-acca3615ede4,Julie Thompson,41.0,Male,HR,None,2021-09-22,Leadership,2023-11-02,Absent,58.0,22.0,1.0,1.0
+53fe40e3-9c6c-4c4e-8f5b-8149eb67212a,Stacey Ramirez,42.0,MALE,Sales,Diploma,2021-08-26,Communication,2023-03-07,Present,0.0,,4.0,4.0
+a6e62c01-8529-474f-bc48-13d916c60b3d,Ruth White,,Female,Support,Masters,2020-10-05,Python,25/08/2022,Present,0.0,39.0,,
+17101a77-3d88-4b62-b3df-2a11b79257a3,Jason Price,36.0,FEMALE,Finance,Diploma,2022-06-29,Excel,11/01/2024,Yes,0.0,0.0,3.0,3.0
+c5bde81d-cb7a-4831-ae65-3bb6ec981b8e,John Brown,58.0,MALE,HR,Diploma,2024-11-16,Cloud Computing,2027-07-01,Absent,20.0,0.0,2.0,2.0
+b2b11b81-a438-4f8a-8ffd-43cff1668e89,Amy Wilson,,F,Engineering,None,2023-04-03,Excel,10/05/2024,Yes,,0.0,1.0,1.0
+2d916caf-9c44-4194-8043-384af9878ca6,Stacey Rodriguez,40.0,M,Marketing,PhD,2023-06-06,Excel,2026-01-28,P,0.0,,0.0,0.0
+14b3f352-6d6a-43cb-af99-180750a2c011,Amanda Cox,,MALE,Sales,PhD,2020-12-30,Excel,2021-09-16,Present,21.0,,,
+22dba981-91cb-47c7-9220-f7040da124c5,Andrew Jones,,M,Engineering,Masters,2024-01-05,Excel,25/06/2025,Present,0.0,42.0,2.0,2.0
+03c3c30d-ae34-4b14-905c-698697f9580e,John Escobar,59.0,FEMALE,Marketing,None,2023-12-04,Excel,2024-06-01,Absent,,25.0,0.0,0.0
+c9035d4c-92f1-43d0-8111-f0f3e093e2cf,Michael Lyons,,M,Finance,PhD,2021-01-01,Cloud Computing,2021-12-02,Yes,,,0.0,0.0
+cc259a1b-240e-4222-a557-1020cf8be199,Julie Watkins,48.0,Female,HR,Bachelors,2022-03-13,Leadership,08/05/2022,No,,61.0,5.0,5.0
+69810678-db82-467d-9d7e-0ae6369d5ad4,Kurt Ramirez,52.0,MALE,Sales,PhD,2025-02-20,Leadership,2027-05-27,A,0.0,0.0,1.0,1.0
+d619e0ce-69d5-4df5-9d95-cdeac417fe56,Tina Mcguire,,Female,HR,Bachelors,2024-04-13,Cloud Computing,10/01/2026,Present,,85.0,3.0,3.0
+7960e810-fa37-4989-a429-0112ecfa60c9,Eric Ryan,27.0,M,Finance,PhD,2024-08-23,Python,09/09/2025,No,,66.0,,
+c6009101-b9b0-499e-8540-4be9e6d59568,David Williams,,F,Engineering,Bachelors,2022-01-29,Python,2023-11-06,Present,95.0,0.0,4.0,4.0
+9c5bad2e-a9fb-4b54-8fbd-2cfdc651a34f,Michael Jones,,Male,Marketing,None,2023-04-04,Project Management,17/03/2024,Yes,39.0,0.0,3.0,3.0
+c89eb2f2-e1b3-49d1-b887-ac21369d2be1,Heather Scott,,Female,Support,Bachelors,2022-10-16,Communication,2022-12-09,Yes,0.0,,5.0,5.0
+26c118f2-eb1c-4430-9f11-4270565f8687,Antonio Atkins,,FEMALE,Sales,Bachelors,2022-04-28,Communication,2024-04-27,A,61.0,0.0,,
+6de46fed-bece-4286-89f6-84396f77cc54,Kevin Robinson,,MALE,Sales,Masters,2024-11-27,Communication,08/12/2025,No,,73.0,4.0,4.0
+8abcb652-ee52-4b7b-8cb0-fe85e4184c38,Kimberly Ponce,,M,HR,Bachelors,2022-05-27,Cloud Computing,16/01/2023,Yes,,82.0,2.0,2.0
+ebcfa81a-61f3-4780-ba54-79eaccda08bf,Dr. Tracy Evans,,Male,Sales,Masters,2022-12-20,Leadership,2024-06-19,No,0.0,98.0,5.0,5.0
+5580885a-54b2-49cd-8c24-8f008a4a07e1,Robert Mcintosh,40.0,Male,Engineering,Masters,2021-06-09,Project Management,2023-01-13,Absent,,32.0,0.0,0.0
+9eb01a8e-72f0-490d-9c2f-e99664baaea1,Bobby Woodward,43.0,M,Marketing,Diploma,2020-09-09,Communication,2021-09-17,Absent,35.0,0.0,5.0,5.0
+baabf7ec-2eca-49b7-9087-ba7334bbc278,Linda Fernandez,32.0,Male,HR,Masters,2021-08-15,Cloud Computing,31/10/2022,A,,,4.0,4.0
+1b6d8927-5315-4e9a-8402-4764e6fe01cc,Mark Collins,52.0,FEMALE,Support,Masters,2023-02-06,Project Management,2024-03-14,Absent,,,3.0,3.0
+1a0a1af2-999f-44e9-bd78-0916aa846060,Ariel Miller,,MALE,Marketing,None,2020-07-01,Python,2021-09-03,A,,72.0,0.0,0.0
+f0ffd6b0-81ec-434f-8766-978e76737d16,Kyle Parks,,Male,HR,Masters,2021-02-12,Leadership,24/08/2023,Absent,69.0,,2.0,2.0
+b443cda3-4b80-48c6-8e31-66c3541acd27,Melanie Brown,,Male,Marketing,Diploma,2021-06-23,Cloud Computing,08/08/2021,A,,,4.0,4.0
+67f7aba4-0617-4c62-a243-b9ab2b0e817c,Jacqueline Hall,,Male,HR,Bachelors,2021-10-09,Communication,08/07/2022,No,0.0,0.0,4.0,4.0
+aebe1524-1549-44d7-b0c4-6591b2d995fa,Aaron Miller,22.0,Male,Marketing,None,2022-07-18,Leadership,26/05/2024,Yes,35.0,0.0,0.0,0.0
+5051b949-e6af-493c-b00f-8e852ea756a8,Stephanie Howard,45.0,Male,Sales,PhD,2021-06-01,Python,2022-02-28,Absent,,0.0,2.0,2.0
+6aed2058-dc24-4a02-a86c-b3e002b5166d,Melissa Williams,36.0,FEMALE,Support,Masters,2020-10-08,Excel,2022-02-28,Present,0.0,,3.0,3.0
+dce202f5-36ef-4201-9656-b5f91c6a16e0,Catherine Johns,,M,Support,PhD,2022-12-25,Python,09/03/2023,P,0.0,37.0,4.0,4.0
+9e1d5748-e3fe-466b-a23b-3ed770adf7ed,Jeffrey Williams,,MALE,HR,PhD,2022-06-22,Communication,13/06/2023,Yes,31.0,91.0,5.0,5.0
+b4456f0d-7164-49a2-83d6-0e1e19929767,Carl Larson,,M,Support,PhD,2024-06-14,Cloud Computing,2026-04-20,Absent,,,,
+be3ff70d-b552-4386-9a96-ef37ee45a744,Holly Johnson,,Female,Engineering,Diploma,2020-09-07,Cloud Computing,26/11/2021,A,,,2.0,2.0
+10d5d5b8-d448-470d-8041-47f5aa9af6c4,William Roberts,48.0,F,Marketing,PhD,2022-03-24,Cloud Computing,05/05/2022,A,,,0.0,0.0
+b8ab8e09-c5da-4dcc-8dd7-0974f84716b7,Michael Riley,,Male,Marketing,Masters,2022-02-07,Python,2023-06-11,Present,0.0,66.0,2.0,2.0
+f00c4cc5-2045-4d2d-9924-47394705ecba,Daniel Williams,22.0,F,Marketing,Bachelors,2020-04-16,Excel,27/07/2020,A,,74.0,2.0,2.0
+4cc5b705-8af2-43bd-926f-28a9107d2387,Susan Moses,,Female,Marketing,PhD,2022-09-07,Python,2023-09-27,Present,46.0,,5.0,5.0
+e4540286-9dd9-4646-9d89-2032e16874df,Joshua Reed,,M,Support,PhD,2023-02-17,Communication,27/01/2024,Present,0.0,0.0,3.0,3.0
+912c4ca9-af9f-404b-9fb1-5849e8c80d96,Angel Hughes,29.0,MALE,Sales,None,2022-05-03,Cloud Computing,27/07/2022,A,0.0,0.0,4.0,4.0
+7ca5013c-f6b8-46c2-a855-a90d0f2fea57,Laura Schneider,,Male,Sales,Masters,2020-07-19,Communication,2021-10-06,P,,0.0,4.0,4.0
+e9fc5fb3-f162-41e0-adb0-6ad89239b3a0,Kimberly Jones,57.0,M,Support,Diploma,2023-08-25,Leadership,2025-08-10,Absent,0.0,,4.0,4.0
+4344c269-7a3d-4b8e-b071-878cb795c127,Michael Allen,38.0,Male,Support,Bachelors,2023-07-22,Cloud Computing,2025-11-18,Absent,40.0,,5.0,5.0
+ae22c5bb-b1c3-4cb3-845d-c624803e82de,Steve Robinson,34.0,MALE,Support,None,2024-05-04,Project Management,19/08/2025,A,0.0,37.0,2.0,2.0
+4e879c62-49fa-455e-9928-c01191fd9b9d,Tracey Brooks,,Male,Marketing,None,2021-11-30,Communication,2023-08-01,P,50.0,,4.0,4.0
+7da38784-6483-4ec2-80b6-2158054038d7,Peter Bradford,,Female,Finance,Diploma,2022-03-07,Communication,2023-04-26,Yes,40.0,,5.0,5.0
+292254f9-37cc-4228-820f-8fa553fdd1f7,Sandra Jones,37.0,Male,Sales,Bachelors,2023-02-09,Python,06/01/2025,No,20.0,0.0,2.0,2.0
+414e7cc1-5027-4ec2-a125-cb48fc411721,James Mitchell,,M,Marketing,Masters,2022-01-27,Python,07/09/2022,A,0.0,0.0,0.0,0.0
+95055ac7-2f0b-4138-8138-aeea89887d52,Cody Valentine,,M,Engineering,PhD,2024-03-04,Python,2024-09-02,No,63.0,69.0,1.0,1.0
+4ec66d97-38a8-4514-8a0e-0bc238059440,Brandon Smith,49.0,Female,Sales,Masters,2021-07-15,Leadership,2024-03-07,Present,0.0,,3.0,3.0
+e520b332-a4a5-4bd6-8a32-8c889241e029,Sara Williams,,MALE,Support,Masters,2020-07-15,Communication,22/04/2021,A,,79.0,2.0,2.0
+f585f440-c3a9-4532-a31f-fadd01703874,Susan Dixon,54.0,F,Finance,PhD,2022-05-05,Project Management,2022-12-29,A,,20.0,4.0,4.0
+e7215e6c-e2eb-4222-a6c6-87460391ddc5,James Wallace,46.0,M,Sales,PhD,2022-05-01,Communication,23/12/2023,Yes,,0.0,2.0,2.0
+48164644-01a9-4bd0-ad71-d8749dc3a0c6,Felicia Hester,,MALE,HR,Bachelors,2021-06-03,Communication,23/04/2022,A,54.0,,0.0,0.0
+fefb5480-e05f-4184-8115-ae8e55867682,Rachel Daniels,,F,Finance,Masters,2024-02-24,Python,2026-06-03,Yes,,40.0,5.0,5.0
+2fa227c3-dc57-44da-90ca-beebdb721b14,Kevin Watkins,47.0,FEMALE,Support,PhD,2023-01-06,Project Management,16/06/2025,A,,,,
+0be29694-652e-4957-aae0-6f264fca946a,Ryan Barnes,,MALE,Sales,Masters,2023-11-13,Leadership,22/07/2025,Yes,0.0,0.0,3.0,3.0
+b1b8106d-e27e-4a13-822b-2e42cc1e713d,Jacob Meyer,,FEMALE,Engineering,PhD,2021-10-15,Cloud Computing,2023-03-25,No,,0.0,0.0,0.0
+769f3d26-fbb9-44ee-b641-f1fb417e5edc,Melissa Martinez,42.0,M,Sales,Masters,2020-12-04,Communication,2023-01-30,A,,47.0,3.0,3.0
+5820ea4f-cd18-4ea5-9740-e77b1d522106,Courtney Walton,,Male,Marketing,Bachelors,2024-01-19,Communication,2024-07-01,No,0.0,0.0,5.0,5.0
+b34efd5b-6e73-4276-b065-42ee2e519870,Annette Pope,,FEMALE,HR,Masters,2020-04-26,Python,2020-08-10,Present,0.0,29.0,1.0,1.0
+e90f0aac-e82a-4245-9a42-22921149544e,Belinda Berry,32.0,Female,Sales,None,2021-09-20,Project Management,21/09/2023,P,,0.0,,
+5db4eef0-afb7-4cd8-8118-3a0ab908b9f4,Jessica Mejia,,Male,Sales,None,2024-06-03,Cloud Computing,15/12/2024,Absent,36.0,0.0,,
+5f15ee3f-8918-47a7-b620-ab796fc07603,Joshua Cross,,MALE,Sales,PhD,2024-07-18,Leadership,2026-06-06,A,86.0,0.0,4.0,4.0
+b0b55ce7-76b8-41e9-bfe7-66da91a85948,Carol Vazquez,,F,HR,Diploma,2022-12-05,Project Management,2023-03-23,Yes,0.0,,2.0,2.0
+b575dd69-0b61-49c4-844a-a5c98e56dda6,Willie Morgan,,MALE,Finance,None,2023-07-06,Python,2023-08-30,Yes,69.0,89.0,3.0,3.0
+ceec79d5-c3fd-4130-88f4-51627a8f5fad,Shannon Jones,50.0,Female,Finance,Bachelors,2022-04-11,Leadership,2022-05-14,Yes,0.0,,0.0,0.0
+822e6328-2792-4c1c-b14e-8d139bd0e94e,Karen Jackson,22.0,F,HR,PhD,2023-06-17,Python,10/10/2023,No,0.0,,2.0,2.0
+e1cf33a4-f621-4132-94ea-371846af357c,Anthony Davis,,M,HR,PhD,2024-08-05,Excel,15/06/2025,P,32.0,,,
+c105ab46-b8ee-4ec6-ab0a-0050235aa8e9,Aaron Thompson,,FEMALE,Finance,PhD,2024-08-20,Cloud Computing,04/12/2025,A,87.0,0.0,1.0,1.0
+20a145c8-8962-41dc-8b67-563a9d7362f2,Sara Perez,,M,HR,Bachelors,2022-01-31,Communication,29/04/2022,Absent,,53.0,4.0,4.0
+47054796-16b3-4475-8080-95480f25152b,William Pena,,Male,Marketing,Masters,2021-08-03,Communication,2023-10-30,Yes,0.0,74.0,5.0,5.0
+865fe33c-dc39-4fe1-bfd2-85d7ecaf9eeb,Andrea Dickson,,Male,Support,Bachelors,2021-05-21,Excel,2022-11-26,Present,,44.0,0.0,0.0
+323f9bb2-b5e5-462a-9a39-bc3693c84011,Megan Fitzgerald,39.0,Female,Sales,Diploma,2023-04-30,Leadership,2025-11-18,Absent,0.0,0.0,0.0,0.0
+35362888-a250-42fc-893e-e08020a92097,Destiny Klein,56.0,Male,Sales,PhD,2020-05-17,Project Management,2020-08-04,Present,,94.0,,
+216dfc70-2196-4bee-9a35-44b538118828,Kathleen Jefferson,,FEMALE,Finance,None,2021-07-14,Excel,2023-04-02,Absent,,0.0,,
+3e63131e-1a6d-42e5-a035-1e44b2092e71,Cory Roach,,FEMALE,Engineering,PhD,2021-05-07,Python,08/03/2022,Present,79.0,,3.0,3.0
+55e10b39-6afd-4fed-97f2-0b4080dac46f,Jennifer Foster,54.0,FEMALE,HR,Diploma,2021-05-17,Project Management,2023-07-25,No,0.0,0.0,3.0,3.0
+0eb4762e-d32b-4c0d-bbff-1829aea3798b,Ricky Hall,57.0,Female,Support,Diploma,2020-04-15,Leadership,2020-06-03,Absent,,54.0,5.0,5.0
+65dbb404-5b19-4207-b5a8-457d74f894e2,Anne Medina,24.0,Male,HR,None,2024-01-03,Cloud Computing,2025-11-29,Absent,0.0,0.0,0.0,0.0
+05ddf023-af0c-4a3c-922f-862ec4956e6a,Wanda Davis,,Female,Engineering,Masters,2021-05-22,Leadership,2023-10-30,Yes,0.0,,4.0,4.0
+dd7d08c9-60cc-4abd-8c6c-fc1c783cb761,Shannon Moore,,Male,Support,PhD,2020-11-22,Leadership,2021-10-10,Yes,0.0,0.0,4.0,4.0
+c90020bf-f1b1-49b6-9e8c-849937d9f94a,David Sanford,22.0,FEMALE,HR,None,2024-10-12,Excel,2026-04-30,No,,0.0,2.0,2.0
+9ebe22d3-111f-4a28-86a1-c19bd238b804,Christopher Bradley,36.0,F,Engineering,PhD,2024-11-13,Project Management,16/02/2026,Yes,0.0,,,
+7ca2101f-6b77-4be4-9e57-072df05ad4ec,Anthony Sullivan,,FEMALE,Marketing,Bachelors,2021-12-28,Excel,15/07/2022,Absent,,71.0,0.0,0.0
+d7684211-6aed-4760-975b-6911f805d526,Jennifer Finley,,Male,Sales,Bachelors,2023-05-27,Excel,2025-11-05,Yes,84.0,57.0,,
+64dd4384-b34f-41ca-bbde-c3f462171534,Angela Hunt,,F,Sales,None,2020-08-11,Cloud Computing,06/03/2023,Present,73.0,50.0,3.0,3.0
+4d9e4c77-0f79-4b76-9c96-703d5caf5c6a,Peggy Logan,52.0,F,Sales,None,2023-08-13,Cloud Computing,2024-12-26,Present,39.0,,2.0,2.0
+f71eb55d-70e3-4153-8942-f1cda7f16425,William Cohen,,M,HR,None,2022-10-27,Project Management,2024-10-21,No,77.0,,1.0,1.0
+6ab584fd-914b-454e-b987-3b7fb79fa51d,Eric Munoz,,MALE,HR,Bachelors,2021-11-13,Project Management,21/03/2024,A,,,4.0,4.0
+d8b4d672-2125-42fa-b094-f25674202299,Chad Macias,56.0,F,Support,Masters,2021-09-08,Excel,2022-05-03,Yes,,94.0,1.0,1.0
+25987d51-f7f9-4fbc-8ba7-0c7016a54aa0,Richard Wade,,M,Sales,None,2021-04-06,Project Management,30/03/2022,No,69.0,0.0,1.0,1.0
+b20775f2-8e07-47b4-a790-5401f0dac80a,Michael Garcia,,F,Marketing,None,2023-03-10,Leadership,2023-11-10,Absent,0.0,,5.0,5.0
+e2e387c2-a2e0-4d59-8363-92b7d9a3742a,Kimberly Vasquez,47.0,Female,Engineering,None,2024-08-23,Leadership,12/12/2024,No,0.0,0.0,5.0,5.0
+68561bad-ee28-4a92-9f6e-292abd6a6ee8,David Collins,,MALE,Engineering,None,2021-02-05,Communication,2023-08-23,Present,82.0,,1.0,1.0
+aec5509c-9226-45b2-99cd-0df3a873abc8,Daniel Castro,24.0,Male,Finance,None,2020-12-25,Communication,2023-01-26,Absent,81.0,0.0,5.0,5.0
+f737b4aa-b85c-42c8-a24c-6031e32a2082,Diane Murray,36.0,M,Support,None,2022-04-20,Project Management,14/10/2022,A,0.0,78.0,5.0,5.0
+0ebf1523-aaad-4926-9d9a-24cde3931b79,David Sanchez,,M,Finance,None,2021-11-07,Cloud Computing,2022-08-12,A,0.0,48.0,1.0,1.0
+cf152c06-08e4-4be4-90b3-575ef3098246,Angela Mccarthy,,F,Marketing,Bachelors,2021-12-26,Communication,06/01/2023,No,47.0,,4.0,4.0
+7fdfc5c0-876c-4cdd-ab20-4463d92cc6c8,James Higgins,,MALE,Engineering,PhD,2023-05-18,Communication,2024-05-30,No,0.0,0.0,,
+ba4ec145-c742-4baf-b787-0d52dd12bbc6,Michael Leonard,,MALE,HR,PhD,2023-05-30,Leadership,2025-03-07,P,0.0,88.0,,
+66c09e7b-741a-426d-8bca-fbdb54b0f552,Stephanie Salinas,,F,Engineering,Bachelors,2024-07-06,Communication,2024-11-20,Absent,61.0,,3.0,3.0
+e6c7e728-f157-4055-85a7-9a96b8c4535c,Gabriela Gonzalez,,FEMALE,Sales,Bachelors,2022-07-19,Project Management,2024-02-17,Present,0.0,,1.0,1.0
+78e15240-9077-4f71-9ee7-6dc66fc41bf6,Denise Hughes PhD,31.0,MALE,HR,PhD,2022-04-22,Python,13/02/2024,A,,,1.0,1.0
+1046eb49-ce90-4ee8-b657-a9b261deebef,Taylor Martinez,23.0,F,Support,Diploma,2024-07-17,Python,2025-12-13,Present,,47.0,3.0,3.0
+05aa0cd3-5eb4-4406-8919-d9ff57dfba1d,Susan Armstrong,53.0,Male,HR,None,2021-10-09,Excel,28/07/2023,P,0.0,0.0,2.0,2.0
+57790735-d094-405e-9668-e9f8820f4642,James Thomas,50.0,Male,Sales,Diploma,2022-11-14,Cloud Computing,2025-07-02,No,0.0,24.0,2.0,2.0
+4d5593a3-65a6-4335-a19c-03d193622966,Catherine Castaneda,,MALE,Support,PhD,2023-06-04,Project Management,2025-02-01,Absent,49.0,,3.0,3.0
+fb18291f-debf-47d3-b404-efd30377c428,David Frank,45.0,FEMALE,HR,PhD,2022-04-21,Cloud Computing,21/08/2022,Absent,,69.0,,
+1f5ec4d2-6282-44d5-ae7c-db3f440497f9,Donna Cuevas,,F,Finance,PhD,2021-04-10,Excel,04/01/2024,Absent,,0.0,2.0,2.0
+32069ba3-9561-4574-8b61-d80da691fdda,Steven Everett,,M,Support,None,2022-07-08,Leadership,2023-08-07,A,,,,
+e2d97970-5115-498b-86d9-30974d0e2acd,Nathan Brown,26.0,F,Sales,None,2021-04-03,Leadership,2021-05-16,No,56.0,,2.0,2.0
+c533af2d-a864-4116-b852-9f4669a3618b,Brian Solomon,46.0,MALE,Sales,PhD,2025-01-31,Cloud Computing,07/07/2027,Absent,,56.0,4.0,4.0
+afaea21d-a547-40e0-88be-928807ad45b1,Kathleen Schmidt,,M,Support,Masters,2020-06-02,Communication,2022-07-25,Present,,0.0,5.0,5.0
+ee926321-245f-4d94-aac1-4fd1eb74e721,Jacob Dunn,,MALE,Marketing,Bachelors,2023-04-18,Cloud Computing,2023-06-17,Absent,,,,
+47e5df56-8e96-451a-aeba-6ad9ea88d27d,Daniel Ochoa,,F,Engineering,Bachelors,2021-01-19,Communication,2021-06-24,P,70.0,55.0,4.0,4.0
+6ed5855d-2d1c-42b3-a571-5f31bd37414a,Kathy Murray,30.0,Female,Support,Masters,2022-08-22,Python,2024-12-29,Yes,0.0,25.0,1.0,1.0
+e3ea46a8-a686-4e54-ae26-9692d819a8d1,Amber Crawford,,FEMALE,Marketing,Diploma,2022-07-15,Excel,2025-02-20,P,0.0,22.0,,
+d0dcb7a3-ef0a-4184-a5ea-3158dea43dfd,Melissa Jenkins,,Female,Support,PhD,2021-08-28,Python,2023-01-25,A,,57.0,5.0,5.0
+25c85224-d202-465b-bdf1-de53e01473df,Jeremy Chavez,44.0,F,HR,Diploma,2023-03-03,Python,23/12/2024,A,59.0,68.0,2.0,2.0
+52ec03ca-ae95-4e1c-a67a-63706e12d255,Cory Smith,53.0,F,Marketing,Bachelors,2025-03-05,Cloud Computing,2025-07-25,Yes,0.0,0.0,2.0,2.0
+d3d17709-a54c-4489-8fdb-a768e9390c7f,Phillip Graves,32.0,F,Support,Diploma,2022-08-20,Excel,28/06/2024,P,,97.0,5.0,5.0
+89797b17-eeb3-4b22-b077-d33ed04cc4db,Timothy Richardson,,Male,Marketing,PhD,2021-07-24,Python,18/09/2021,Present,,0.0,0.0,0.0
+094f5166-0bae-4d2b-bbec-e5d5a8856294,Christian Gates,52.0,Female,Sales,None,2024-09-05,Communication,2025-06-23,Yes,,80.0,4.0,4.0
+4f26fedb-10d2-4a32-a0c6-270ababfbd99,Joel Bradford,,MALE,Support,Bachelors,2021-10-12,Python,08/07/2022,No,,94.0,3.0,3.0
+9aaddae8-06c6-48c2-ace8-7f511eb2c170,Walter Schwartz,,FEMALE,Sales,Diploma,2021-12-03,Cloud Computing,03/06/2022,P,47.0,0.0,1.0,1.0
+c35826a5-37b5-4a07-ab21-0c92c4ecdf3a,Robert Benson,,Female,Finance,Diploma,2021-04-25,Project Management,02/06/2021,A,74.0,85.0,5.0,5.0
+08fb27dc-e88f-42a4-aa1b-41edfe530a7e,Craig Dean,45.0,Male,Engineering,None,2024-06-20,Excel,2024-09-11,Absent,,0.0,0.0,0.0
+c68b751f-84a2-492d-a777-fe38b58d4c97,Terrence Johnson,38.0,F,Finance,None,2023-04-02,Excel,27/07/2023,Absent,100.0,,1.0,1.0
+db1f3973-a194-4347-b9eb-ce1f935b67b4,Mr. Carl Brooks,51.0,Male,Sales,Diploma,2021-11-07,Project Management,2024-03-03,Yes,,58.0,5.0,5.0
+a8c62c4d-dc1c-4e12-a4ac-1e29d3c6756c,Susan Hernandez,,MALE,Sales,Bachelors,2023-04-06,Communication,2024-04-08,A,0.0,45.0,0.0,0.0
+d08ef8b5-c556-4034-b177-3184a3d2e30b,Michael Lee,,Female,Support,Masters,2021-07-19,Leadership,2024-03-21,A,24.0,43.0,1.0,1.0
+005d55a8-2c9f-4705-9ba0-e3999a77c01f,Samuel Vazquez,,MALE,Support,PhD,2024-09-15,Project Management,09/12/2024,Present,61.0,,5.0,5.0
+21136ce0-39ba-4d2f-9aa2-49bfc827e447,Jeffery Hunter,31.0,F,Finance,Diploma,2022-02-25,Leadership,23/04/2024,Present,60.0,,3.0,3.0
+e84b3c55-1775-4710-a5a8-15a37833eece,William Williams,23.0,F,Finance,Masters,2020-07-23,Communication,2022-09-17,No,86.0,36.0,2.0,2.0
+c9b49d09-7f72-4ffc-9b6d-272f639b6651,Pamela Roman,,Female,Sales,Masters,2021-11-10,Communication,01/05/2024,No,42.0,,1.0,1.0
+039ff46b-1942-44cf-89e0-02f06191ee64,Christopher Garcia DDS,24.0,Male,Marketing,PhD,2021-12-19,Cloud Computing,2022-06-10,P,46.0,93.0,1.0,1.0
+8eeb2a03-f676-431f-a498-446d38e61f15,Lynn White,45.0,FEMALE,Finance,Bachelors,2024-12-22,Communication,06/08/2025,Absent,0.0,,2.0,2.0
+aa8d6f81-7e34-4dc3-9be9-664cf6b241f3,Lorraine Leblanc,,Female,Marketing,PhD,2021-01-10,Communication,2022-01-18,Yes,,0.0,4.0,4.0
+c783870a-421e-4683-9c0a-1c8e88bce600,Curtis Ramos,,FEMALE,Sales,Diploma,2022-06-30,Excel,26/10/2023,Absent,54.0,0.0,1.0,1.0
+facc2e35-35b6-4692-a528-759d218acc31,Claire Vazquez,,F,Support,Diploma,2022-07-02,Project Management,2024-11-07,Absent,0.0,0.0,3.0,3.0
+eb6db35f-2950-44bb-b3c8-e316244226d7,Alice Rodriguez,52.0,M,Finance,Bachelors,2021-07-25,Python,2023-06-07,No,,,2.0,2.0
+589a691e-276a-4d9a-bf44-745940f62c58,Meagan Yang,,F,Finance,Masters,2022-10-01,Python,10/02/2025,Absent,85.0,,0.0,0.0
+fda5e1d1-aa3d-4493-90d0-d99db7a49237,Shannon White,,Female,Marketing,Diploma,2021-07-30,Cloud Computing,29/10/2022,No,67.0,,3.0,3.0
+2edbbd89-6084-4671-8ea2-082067afdfd7,Lisa Kaiser,,MALE,HR,Masters,2023-04-11,Python,2025-07-15,Absent,0.0,72.0,3.0,3.0
+e674b2ca-0c9f-42ad-a7f5-7ee05f209033,Roy Reid,,MALE,Marketing,Masters,2022-01-22,Python,2024-04-11,Absent,,95.0,0.0,0.0
+111139c1-3ea0-4d43-8c7a-1886dd4f6de8,Ashley Brown,27.0,MALE,Finance,Diploma,2024-05-03,Communication,02/04/2025,No,0.0,,4.0,4.0
+46997fc2-7de5-4d45-8b00-ebbfaf0545d3,David Washington,,FEMALE,HR,None,2023-08-22,Project Management,24/06/2024,A,0.0,93.0,,
+f324a4fd-8f13-42bb-9b55-667b3aa74acf,Bryan Hoffman,56.0,M,Sales,Diploma,2022-12-12,Cloud Computing,2024-03-08,No,0.0,0.0,4.0,4.0
+125d5ccd-a8f5-414f-a373-55f3037825ba,James Morales,,Female,Support,None,2021-07-12,Leadership,2023-10-26,Present,0.0,0.0,4.0,4.0
+a9f9f36c-496d-4895-88d7-f25c823b576b,Kenneth Cortez,,Female,Finance,Masters,2020-10-02,Excel,16/02/2022,Present,0.0,41.0,2.0,2.0
+bb01e392-5057-49f3-9031-a58262d884ee,John Ward,,FEMALE,Support,Bachelors,2023-05-17,Cloud Computing,05/02/2026,Absent,0.0,0.0,5.0,5.0
+2c9d9b63-cc9d-419c-929d-dfde9194d072,Mary Richardson,,Female,Sales,PhD,2022-05-28,Excel,25/01/2023,A,,55.0,1.0,1.0
+126ff5ed-4485-460d-b86a-d0f8fa33dec0,Randall Nunez,,MALE,HR,PhD,2023-11-28,Excel,2026-02-01,Absent,0.0,,0.0,0.0
+91cfb235-0454-4420-8588-d5c76da2c9e0,Anna Le,,Male,Marketing,Diploma,2023-01-27,Cloud Computing,2023-07-18,P,0.0,0.0,5.0,5.0
+8c102bc1-736b-4385-922f-b6b097477da7,Robert Brown PhD,,FEMALE,Finance,Bachelors,2022-01-24,Cloud Computing,15/06/2022,A,0.0,,4.0,4.0
+6f41bc23-2b31-45e7-80ed-4d5704a624f3,Mary Jones,,Female,Sales,Bachelors,2021-06-06,Leadership,2023-06-04,Present,69.0,,2.0,2.0
+a960bd87-ba9d-44d4-a2cd-f6a018999d8c,Eric Everett,,MALE,Marketing,None,2024-06-26,Cloud Computing,2026-10-08,P,94.0,30.0,1.0,1.0
+6e143f9d-b769-4e0e-807c-5f323e5fe7f5,Lisa Ford,,MALE,Finance,Diploma,2025-02-15,Project Management,03/11/2025,Absent,0.0,,3.0,3.0
+094d4b8a-67ee-47f2-b433-005aa5b33e2e,Kelly Lewis,38.0,MALE,Engineering,Bachelors,2025-01-31,Excel,2025-04-17,A,96.0,24.0,5.0,5.0
+7bdf1546-e4a8-444f-bd94-a6ce6d2616e2,Robert Galloway,,Male,HR,None,2021-09-01,Project Management,2022-06-15,No,0.0,30.0,1.0,1.0
+63aff1a4-a6eb-488c-b016-e10521c106e7,Alyssa Haley,32.0,Female,Sales,None,2021-11-03,Excel,2022-01-20,A,,89.0,,
+9f23a1b5-88e6-4e96-87c9-7761f6bddf6e,Joshua Gomez,60.0,Female,HR,Masters,2025-03-03,Leadership,2027-05-07,Absent,0.0,,5.0,5.0
+9258b0c0-af58-4559-a186-ef6ff0d20481,Melissa Parker,25.0,M,Marketing,Bachelors,2022-01-13,Excel,01/09/2023,Present,0.0,,2.0,2.0
+c51c5229-a145-476d-9779-5b669a452aca,Eric Johnson,28.0,FEMALE,Finance,Bachelors,2021-03-31,Leadership,2023-09-04,P,81.0,,5.0,5.0
+94061f23-c91f-4d86-b99e-ec19ac0fa13a,Catherine Martinez,,Male,Marketing,PhD,2024-08-16,Excel,11/01/2025,No,20.0,0.0,2.0,2.0
+11ba91f9-960a-4974-9efd-393b28960c25,Alexander Bailey,27.0,Female,Sales,Diploma,2020-08-26,Project Management,2022-12-26,P,60.0,0.0,3.0,3.0
+902369ab-4864-4025-be41-862045b4a13e,Rebecca Mitchell,,F,Sales,PhD,2023-06-25,Excel,2023-10-09,A,,0.0,5.0,5.0
+23e96b81-004e-4721-8cc8-fa21b601e5b2,Justin Foster,27.0,MALE,Finance,PhD,2020-04-28,Cloud Computing,09/08/2020,Present,68.0,,0.0,0.0
+6f6d18c6-c334-43e0-aa56-6d798b75190c,Edward West MD,,M,Engineering,Bachelors,2022-11-23,Project Management,14/06/2023,Absent,,,2.0,2.0
+6b775489-16ca-4742-b0e5-2458e2832379,Janice Bailey,49.0,F,Engineering,Diploma,2022-11-24,Cloud Computing,14/02/2023,P,,,,
+0874688e-54a3-45ae-9b9f-658f41c6444b,David Edwards,41.0,Male,Marketing,PhD,2020-07-20,Python,2021-02-14,A,0.0,0.0,4.0,4.0
+96bfbee0-09a2-4373-b2fd-73447862f1cf,Vanessa Cunningham,,F,Finance,None,2022-02-21,Python,2023-09-29,Yes,0.0,48.0,5.0,5.0
+143e77c2-70fe-4e06-b6e3-1e8ef67fb352,Mark Santos,,F,HR,Diploma,2021-11-07,Communication,07/01/2022,P,0.0,57.0,5.0,5.0
+39057fc0-6151-46ed-b229-7aff91be48c3,Anthony Watson,,Female,Finance,Diploma,2021-06-07,Communication,2023-11-26,No,,66.0,4.0,4.0
+5e35b247-2de3-453d-8209-78dcb8116c26,Christopher Martin,52.0,MALE,Engineering,Bachelors,2024-03-24,Python,13/01/2025,No,55.0,48.0,1.0,1.0
+4cb9c5c6-6d33-458b-b4d4-ab34aca6dd4b,Blake Edwards,48.0,M,Engineering,None,2023-10-13,Excel,27/02/2026,Present,20.0,,,
+d99598fb-9eea-4337-8646-f5c1ea89cc6d,Laura Rogers,39.0,F,Marketing,None,2022-09-24,Communication,2024-04-30,Present,,41.0,,
+69f876b9-481d-47d0-ac2f-b9e659432772,Danielle Compton,44.0,Female,Marketing,Masters,2023-08-12,Cloud Computing,2025-02-05,Absent,43.0,91.0,1.0,1.0
+ec606353-f12d-4edc-a6b0-3b0ddfe9a6ee,Daniel Fletcher,,Female,Sales,Masters,2022-06-29,Python,15/05/2023,Yes,0.0,58.0,3.0,3.0
+9cab2954-4e2b-452e-a58d-55cbcaad515c,Keith Munoz,,F,Sales,Bachelors,2020-11-19,Communication,20/12/2020,P,0.0,34.0,1.0,1.0
+d572d408-3e11-4b31-9b82-8fabc0c36528,Shannon Hill,42.0,M,Finance,Masters,2022-05-06,Communication,2023-05-26,No,0.0,36.0,0.0,0.0
+e183cfa3-932d-4381-b9f6-549b48fb95d1,Jason Smith,,F,Sales,Bachelors,2024-02-06,Cloud Computing,2026-05-26,A,87.0,23.0,3.0,3.0
+0c38f74b-397a-47cc-a567-14d62bdcc3d7,Kathryn Anderson,26.0,M,Engineering,None,2025-01-15,Python,2027-09-20,No,62.0,58.0,0.0,0.0
+fd030266-37f1-4695-af67-e86ab93a502f,Ruth Day,30.0,MALE,HR,PhD,2024-04-28,Excel,14/02/2026,Yes,,0.0,0.0,0.0
+450513d0-ef0a-4bd0-9bae-a49d9527b102,Christopher Coffey,24.0,Male,Support,None,2024-09-15,Project Management,2027-04-07,Yes,98.0,,5.0,5.0
